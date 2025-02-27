@@ -1,373 +1,380 @@
-Institution Name,Institution GND,Institution Lat,Institution Lng,located at,location geonames ID,location Lat,location Lng,part of,type of location,institution website
-National Museum of Australia,http://d-nb.info/gnd/4439156-0,-35.2917,149.1195,Canberra,2172517,-35.28346,149.12807,Australia,city,http://www.nma.gov.au
-National Library of Australia,http://d-nb.info/gnd/5118704-8,-35.296624,149.129825,Canberra,2172517,-35.28346,149.12807,Australia,city,https://www.nla.gov.au
-State Library of Victoria,http://d-nb.info/gnd/1092307-X,-37.809785,144.965194,Melbourne,2158177,-37.814,144.96332,Australia,city,https://www.slv.vic.gov.au/
-Victoria University Library,,-37.79285,144.898997,Melbourne,2158177,-37.814,144.96332,Australia,city,https://www.vu.edu.au/library
-University of Sydney Library,http://d-nb.info/gnd/80357-1,-33.88856,151.187351,Sydney,2147714,-33.86785,151.20732,Australia,city,https://library.sydney.edu.au/
-State Library of New South Wales,http://d-nb.info/gnd/4268267-8,-33.866744,151.212785,Sydney,2147714,-33.86785,151.20732,Australia,city,http://www.sl.nsw.gov.au/
-Zentrum für Informationsmodellierung Universität Graz,http://d-nb.info/gnd/1137284463,47.076346,15.456173,Graz,2778067,47.06667,15.45,Austria,city,https://informationsmodellierung.uni-graz.at/
-Franz Nabl Institut für Literaturforschung Universität Graz,http://d-nb.info/gnd/2125265-8,47.074703,15.451488,Graz,2778067,47.06667,15.45,Austria,city,https://franz-nabl-institut.uni-graz.at/
-Stiftung Mozarteum Salzburg,http://d-nb.info/gnd/16271979-6,47.803503,13.041992,Salzburg,2766824,47.79941,13.04399,Austria,city,http://www.mozarteum.at
-Österreichische Nationalbibliothek,http://d-nb.info/gnd/2050296-5,48.205432,16.365011,Vienna,2761369,48.20849,16.37208,Austria,city,https://www.onb.ac.at
-Austrian Centre for Digital Humanities at the Austrian Academy of Sciences,http://d-nb.info/gnd/1123037736,48.209133,16.377123,Vienna,2761369,48.20849,16.37208,Austria,city,https://www.oeaw.ac.at/acdh/acdh-home/
-Austrian Academy of Sciences,http://d-nb.info/gnd/1001454-8,48.208873,16.37719,Vienna,2761369,48.20849,16.37208,Austria,city,https://www.oeaw.ac.at/en/austrian-academy-of-sciences/
-University of Vienna,http://d-nb.info/gnd/2024703-5,48.213184,16.360052,Vienna,2761369,48.20849,16.37208,Austria,city,https://www.univie.ac.at/en/
-Theatermuseum Wien,http://d-nb.info/gnd/1033329-0,48.205668,16.368535,Vienna,2761369,48.20849,16.37208,Austria,city,https://www.theatermuseum.at/
-Robert Musil-Institut für Literaturforschung - Kärntner Literaturarchiv at Alpen-Adria-Universität Klagenfurt,http://d-nb.info/gnd/2154836-5,46.616095,14.265285,Klagenfurt am Wörthersee,2774326,46.62472,14.30528,Austria,city,https://www.aau.at/musil/
-Universität für Musik und darstellende Kunst,http://d-nb.info/gnd/5299670-0,48.195714,16.38139,Vienna,2761369,48.20849,16.37208,Austria,city,https://www.mdw.ac.at
-Karl-Franzens Universität Graz,http://d-nb.info/gnd/36157-4,47.077804,15.449923,Graz,2778067,47.06667,15.45,Austria,city,https://www.uni-graz.at/
-Institut für Geschichtswissenschaften und Europäische Ethnologie (Universität Innsbruck),http://d-nb.info/gnd/16332395-1,47.26409,11.384556,Innsbruck,2775220,47.26266,11.39454,Austria,city,https://www.uibk.ac.at/geschichte-ethnologie/
-University of Antwerp,http://d-nb.info/gnd/5017340-6,51.1641,4.4066,Antwerp,2803138,51.21989,4.40346,Belgium,city,https://www.uantwerpen.be/en/
-University of Ghent,http://d-nb.info/gnd/10019747-4,51.046569,3.727918,Ghent,2797656,51.05,3.71667,Belgium,city,https://www.ugent.be/
-Centrum voor Teksteditie en Bronnenstudie (Koninklijke Academie voor Nederlandse Taal- en Letterkunde),http://d-nb.info/gnd/10082555-2,51.0558,3.7281,Ghent,2797656,51.05,3.71667,Belgium,city,http://ctb.kantl.be
-Royal Museum for Central Africa,http://d-nb.info/gnd/1006819-3,50.830895,4.518294,Tervuren,2785622,50.82372,4.51418,Belgium,city,http://www.africamuseum.be/home
-King Baudouin Foundation,http://d-nb.info/gnd/809939-X,50.840375,4.3623,Bruxelles,2800866,50.85045,4.34878,Belgium,city,https://www.kbs-frb.be/en
-Letterenhuis,http://d-nb.info/gnd/102772695X,51.222857,4.404685,Antwerp,2803138,51.21989,4.40346,Belgium,city,http://www.letterenhuis.be/nl
-University of New Brunswick,http://d-nb.info/gnd/11143-0,45.9462,-66.6406,Barkers Point,5893060,45.95165,-66.62339,Canada,city,http://www.unb.ca
-University of New Brunswick Archives and Special Collections,,45.946066,-66.642794,Fredericton,5957776,45.94541,-66.66558,Canada,city,http://www.unb.ca/its/get-it-help.html
-University of Calgary,http://d-nb.info/gnd/3003635-5,51.078164,-114.135796,Montgomery,6077007,51.07511,-114.16449,Canada,city,http://www.ucalgary.ca
-Memorial University of Newfoundland,http://d-nb.info/gnd/16156656-X,47.5717,-52.7324,Sand Pits,6140443,47.56659,-52.73134,Canada,city,https://www.mun.ca
-University of Victoria,http://d-nb.info/gnd/5088685-X,48.4661,-123.3125,Cadboro Bay,5913113,48.46667,-123.3,Canada,city,http://www.uvic.ca
-University of Saskatchewan,http://d-nb.info/gnd/25782-5,52.1334,-106.631365,Saskatoon,6141256,52.13238,-106.66892,Canada,city,https://www.usask.ca
-Bruce Peel Special Collections Library at the University of Alberta,,53.525787,-113.521607,Edmonton,5946768,53.55014,-113.46871,Canada,city,https://bpsc.library.ualberta.ca/
-University of Zagreb,http://d-nb.info/gnd/1014349-X,45.81057,15.969784,Zagreb,3186886,45.81444,15.97798,Croatia,city,http://www.unizg.hr/homepage/
-Nacionalna i sveučilišna knjižnica u Zagrebu,http://d-nb.info/gnd/10025602-8,45.796644,15.97756,Zagreb,3186886,45.81444,15.97798,Croatia,city,http://www.nsk.hr/
-University of Copenhagen,http://d-nb.info/gnd/36485-X,55.680205,12.572393,Copenhagen,2618425,55.67594,12.56553,Denmark,city,http://www.ku.dk/english/
-Det Kongelige Bibliotek,http://d-nb.info/gnd/43027-4,55.673406,12.582663,Copenhagen,2618425,55.67594,12.56553,Denmark,city,http://www.kb.dk/da/index.html
-Aarhus University,http://d-nb.info/gnd/42570-9,56.16888,10.20158,Aarhus,2624652,56.15674,10.21076,Denmark,city,https://international.au.dk/
-St. Catherine's Monastery,http://d-nb.info/gnd/660210-1,28.555934,33.976037,Mount Catherine,353913,28.51,33.95463,Egypt,city,http://www.sinaimonastery.com/index.php/en/
-Svenska Litteratursällskapet,http://d-nb.info/gnd/1005799-7,60.170814,24.955789,Kruununhaka,650744,60.17174,24.9566,Finland,city,http://www.sls.fi
-Institut Universitaire de France,http://d-nb.info/gnd/2160908-1,48.847431,2.34872,Paris,2988507,48.85341,2.3488,France,city,http://www.iufrance.fr
-Lafayette University Library,,45.77395,3.087964,Clermont-Ferrand,3024635,45.77966,3.08628,France,city,http://bibliotheque.clermont-universite.fr/bibliotheque-lafayette
-Archives Nationales,,498.948111,2.3644,Pierrefitte-sur-Seine,2987271,48.96691,2.36104,France,city,http://www.archives-nationales.culture.gouv.fr/
-Université Bordeaux Montaigne,http://d-nb.info/gnd/1081101628,44.795414,-0.616322,Bordeaux,3031582,44.84044,-0.5805,France,city,http://www.u-bordeaux-montaigne.fr/en/index.html
-Université Paris-Sorbonne,http://d-nb.info/gnd/1210825449,48.848574,2.343257,Paris,2988507,48.85341,2.3488,France,city,https://www.sorbonne-universite.fr/universite
-Université Sorbonne Nouvelle Paris 3,http://d-nb.info/gnd/1020917-7,48.839804,2.353901,Paris,2988507,48.85341,2.3488,France,city,http://www.univ-paris3.fr
-École française d'Extrême-Orient,http://d-nb.info/gnd/1003498-5,48.864541,2.292172,Paris,2988507,48.85341,2.3488,France,city,http://www.efeo.fr
-Université d’Angers,http://d-nb.info/gnd/2024963-9,47.477092,-0.549938,Angers,3037656,47.46667,-0.55,France,city,http://www.univ-angers.fr/fr/index.html
-Université Jean Monnet Saint-Etienne,http://d-nb.info/gnd/3056310-0,45.427167,4.387831,Saint-Etienne,2980291,45.43389,4.39,France,city,https://www.univ-st-etienne.fr/fr/index.html
-École Normale Supérieure de Lyon,http://d-nb.info/gnd/5130846-0,45.729835,4.826922,Lyon,2996944,45.74846,4.84671,France,city,http://www.ens-lyon.fr
-CNRS (Institut de recherche et d’histoire des textes),,48.84762,2.26395,Auteuil,6545275,48.84694,2.26366,France,city,https://www.irht.cnrs.fr
-CNRS (Centre national de la recherche scientifique),,48.847597,2.264004,Auteuil,6545275,48.84694,2.26366,France,city,http://www.cnrs.fr
-CNRS (Centre de théorie et analyse du droit) de l’Université de Paris Nanterre,,48.903904,2.213466,Nanterre,2990970,48.89198,2.20675,France,city,https://ctad.parisnanterre.fr
-Bibliothèque Nationale de France,http://d-nb.info/gnd/1080038-4,48.833604,2.375763,Austerlitz,6545265,48.83266,2.36794,France,city,http://www.bnf.fr/fr/acc/x.accueil.html
-Université Lumière Lyon 2,http://d-nb.info/gnd/5098102-X,45.750736,4.837229,Lyon,2996944,45.74846,4.84671,France,city,http://www.univ-lyon2.fr
-Université Jean Moulin Lyon 3,http://d-nb.info/gnd/1047109-1,45.748137,4.860366,Lyon,2996944,45.74846,4.84671,France,city,http://www.univ-lyon3.fr
-UMR 5648 CIHAM (Centre interuniversitaire d'histoire et d'archéologie médiévale),http://d-nb.info/gnd/5098102-X,45.750736,4.837229,Lyon,2996944,45.74846,4.84671,France,city,http://www.univ-lyon2.fr/recherche/la-recherche-a-lyon-2/histoire-archeologie-litteratures-des-mondes-chretiens-et-musulmans-medievaux-ciham-umr-5648--296195.kjsp?RH=ZYZYZYZYZYZYZYZYZYZYZY
-UMR 8584 LEM (Laboratoire d'étude sur les monothéismes),,48.831061,2.340174,Paris,2988507,48.85341,2.3488,France,city,http://lem.vjf.cnrs.fr/?lang=fr
-Laboratoire d'excellence HASTEC (Histoire et anthropologie des sciences techniques et croyances),,48.831061,2.340174,Paris,2988507,48.85341,2.3488,France,city,https://labexhastec-psl.ephe.fr
-Bibliothèque de l'Arsenal,http://d-nb.info/gnd/1056486-X,48.850311,2.36361,Paris,2988507,48.85341,2.3488,France,city,http://www.bnf.fr/fr/la_bnf/sites/a.site_bibliotheque_arsenal.html
-Université de Montpellier 3,,43.631575,3.870542,Castelnau-le-Lez,3028337,43.63333,3.9,France,city,https://www.univ-montp3.fr
-Bibliothèque municipale de Rouen,http://d-nb.info/gnd/1032332-6,49.431302,1.08378,Rouen,2982652,49.44313,1.09932,France,city,https://www.rouen.fr/adresse/bibliotheque-villon
-Centre Flaubert de l'Université de Rouen,http://d-nb.info/gnd/6077726-6,49.458426,1.067995,Rouen,2982652,49.44313,1.09932,France,city,http://flaubert.univ-rouen.fr
-Institut Ausonius Université Bordeaux Montaigne,http://d-nb.info/gnd/5515436-0,44.795424,-0.616349,Bordeaux,3031582,44.84044,-0.5805,France,city,http://www.u-bordeaux-montaigne.fr/fr/recherche/equipes_de_recherche/ausonius.html
-Centre d'Études Supérieures de la Renaissance,http://d-nb.info/gnd/1019899-4,47.391996,0.682313,Tours,2972191,47.38333,0.68333,France,city,http://cesr.univ-tours.fr
-Bibliothèque municipale de Tours,http://d-nb.info/gnd/1086970012,47.397311,0.687969,Tours,2972191,47.38333,0.68333,France,city,http://www.bm-tours.fr/
-École de l’Innovation et de l’Expertise Informatique (EPITECH),,45.756988,4.857023,Lyon,2996944,45.74846,4.84671,France,city,http://www.epitech.eu
-École Nationale Supérieure des Sciences de l'Information et des Bibliothèques (ENSSIB),http://d-nb.info/gnd/5239171-1,45.780139,4.862513,Villeurbanne,2968254,45.76667,4.88333,France,city,http://www.enssib.fr
-Université Blaise Pascal,http://d-nb.info/gnd/4579775-4,45.764098,3.112335,Aubière,3036364,45.75157,3.11251,France,city,http://www.univ-bpclermont.fr
-Musée Condé,http://d-nb.info/gnd/1033853-6,49.193851,2.485204,Chantilly,3026827,49.19461,2.47124,France,city,http://www.domainedechantilly.com/fr/
-Christophorus Records,,0,0,Freiburg,2925177,47.9959,7.85222,Germany,city,http://www.christophorus-records.de/v2.php
-University of Freiburg,https://d-nb.info/gnd/2024338-8 ,47.993554,7.845954,Freiburg,2925177,47.9959,7.85222,Germany,city,https://uni-freiburg.de/
-University Library Freiburg,,47.9942675859479,7.84486587658301,Freiburg,2925177,47.9959,7.85222,Germany,city,https://www.ub.uni-freiburg.de/
-Institut für Dokumentologie und Editorik,http://d-nb.info/gnd/6521152-2,50.926418,6.929773,Cologne,2886242,50.93333,6.95,Germany,city,https://www.i-d-e.de/
-Frankfurter Goethehaus,http://d-nb.info/gnd/2010762-6,50.111227,8.677608,Frankfurt am Main,2925533,50.110924,8.682127,Germany,city,http://www.goethehaus-frankfurt.de
-Institute for the History of German Jews,http://d-nb.info/gnd/2013616-X,53.569799,9.975629,Eimsbüttel,2911293,53.56667,9.98333,Germany,city,http://www.igdj-hh.de/home-175.html
-University of Münster,http://d-nb.info/gnd/36175-6,51.96148,7.6237,Münster,2867543,51.96236,7.62571,Germany,city,https://www.uni-muenster.de/en/
-University of Leipzig,http://d-nb.info/gnd/2024343-1,51.338576,12.378464,Leipzig,2879139,51.33962,12.37129,Germany,city,https://www.uni-leipzig.de/en/
-University of Göttingen,http://d-nb.info/gnd/1044306068,51.5434,9.9358,Göttingen,2918632,51.53443,9.93228,Germany,city,http://www.uni-goettingen.de/en/1.html
-Stadtarchiv Göttingen,http://d-nb.info/gnd/605206-X,51.52843,9.940511,Göttingen,2918632,51.53443,9.93228,Germany,city,http://www.stadtarchiv.goettingen.de/
-University of Augsburg,http://d-nb.info/gnd/7871-2,48.3351,10.8973,Göggingen,2919525,48.33746,10.86482,Germany,city,https://www.uni-augsburg.de/en/
-University of Würzburg,http://d-nb.info/gnd/36189-6,49.7827,9.9677,Wurzburg,2805615,49.79391,9.95121,Germany,city,https://www.uni-wuerzburg.de/en/ueber/university/
-University of Tübingen,http://d-nb.info/gnd/36187-2,48.529478,9.04377,Tübingen,2820860,48.52266,9.05222,Germany,city,https://www.uni-tuebingen.de/en/university.html
-Musikwissenschaftliches Institut der Universität Tübingen,http://d-nb.info/gnd/36187-2,48.52031,9.057021,Tübingen,2820860,48.52266,9.05222,Germany,city,http://www.uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/altertums-und-kunstwissenschaften/mwi/aktuell.html
-University of Heidelberg,http://d-nb.info/gnd/2024349-2,49.419145,8.670253,Heidelberg,2907911,49.40768,8.69079,Germany,city,https://www.uni-heidelberg.de/index_e.html
-Heidelberg University Library,http://d-nb.info/gnd/2002498-8,49.409743,8.705888,Heidelberg,2907911,49.40768,8.69079,Germany,city,http://www.ub.uni-heidelberg.de/Englisch/Welcome.html
-University of Trier,http://d-nb.info/gnd/2153481-0,49.745762,6.688459,Tarforst,2823992,49.74157,6.69196,Germany,city,https://www.uni-trier.de/index.php?id=58229&L=2
-University of Hamburg,http://d-nb.info/gnd/35534-3,53.566567,9.984614,Hamburg,2911298,53.57532,10.01534,Germany,city,https://www.uni-hamburg.de/en.html
-Südwest-Rundfunk Tübingen,,48.522776,9.066659,Tübingen,2820860,48.52266,9.05222,Germany,city,https://www.swr.de/unternehmen/organisation/standorte-studio-tuebingen/-/id=7687068/did=7938418/nid=7687068/eurjnr/index.html
-Leipzig University Library,http://d-nb.info/gnd/30026-3,51.332497,12.368185,Leipzig,2879139,51.33962,12.37129,Germany,city,https://www.ub.uni-leipzig.de/start/
-Herzog August Bibliothek Wolfenbüttel,http://d-nb.info/gnd/1072988283,52.1647,10.5304,Auguststadt,2954132,52.16396,10.52469,Germany,city,http://www.hab.de/en/home.html
-Heinrich-Heine-Institut Düsseldorf,http://d-nb.info/gnd/2062050-0,51.222277,6.77287,Dusseldorf,2934246,51.22172,6.77616,Germany,city,https://www.duesseldorf.de/heineinstitut/
-Berlin-Brandenburgische Akademie der Wissenschaften,http://d-nb.info/gnd/2131094-4,52.51407,13.39422,Berlin,2950159,52.52437,13.41053,Germany,city,http://www.bbaw.de
-Bayerische Staatsbibliothek,http://d-nb.info/gnd/2068538-5,48.1478,11.5802,Maxvorstadt,6940468,48.14702,11.56903,Germany,city,https://www.bsb-muenchen.de
-Historische Kommission bei der Bayerischen Akademie der Wissenschaften,http://d-nb.info/gnd/2028047-6,48.14161,11.58107,München,6559171,48.13452,11.571,Germany,city,https://www.historischekommission-muenchen.de/startseite.html
-Bayerisches Hauptstaatsarchiv,http://d-nb.info/gnd/2005486-5 ,48.14617,11.58079,München,6559171,48.13452,11.571,Germany,city,https://www.gda.bayern.de/archive/hauptstaatsarchiv/
-Akademie der Wissenschaften und der Literatur Mainz,http://d-nb.info/gnd/16325235-X,49.9945,8.2672,Mainz,8128529,49.98625,8.26447,Germany,city,http://www.adwmainz.de/startseite.html
-Goethe Universität Frankfurt am Main,http://d-nb.info/gnd/35074-6,50.120557,8.653013,Bockenheim,2947354,50.12498,8.64538,Germany,city,http://www.goethe-university-frankfurt.de/en?locale=en
-Universität Freiburg,http://d-nb.info/gnd/2038600-X,47.994875,7.846739,Freiburg,2925177,47.9959,7.85222,Germany,city,https://www.uni-freiburg.de
-Ludwig-Maximilians-Universität München,http://d-nb.info/gnd/2002585-3,48.150857,11.581044,Maxvorstadt,6940468,48.14702,11.56903,Germany,city,https://www.en.uni-muenchen.de/index.html
-SUB Göttingen,http://d-nb.info/gnd/2020450-4,51.533836,9.932205,Göttingen,2918632,51.53443,9.93228,Germany,city,https://www.sub.uni-goettingen.de/sub-aktuell/
-Bildarchiv Foto Marburg,http://d-nb.info/gnd/4655897-4,50.809739,8.774703,Marburg,2873759,50.80904,8.77069,Germany,city,http://www.fotomarburg.de
-Städel Museum,http://d-nb.info/gnd/5313082-0,50.103094,8.674058,Frankfurt am Main,2925533,50.110924,8.682127,Germany,city,http://www.staedelmuseum.de/en
-Historisches Museum Frankfurt am Main,http://d-nb.info/gnd/2012173-8,50.109285,8.682487,Frankfurt am Main,2925533,50.110924,8.682127,Germany,city,https://historisches-museum-frankfurt.de
-Max Planck Institute for the History of Science,http://d-nb.info/gnd/2143056-1,52.445403,13.277609,Berlin,2950159,52.52437,13.41053,Germany,city,https://www.mpiwg-berlin.mpg.de
-Cologne Center for eHumanities,http://d-nb.info/gnd/111645341X,50.926364,6.929763,Cologne,2886242,50.93333,6.95,Germany,city,http://cceh.uni-koeln.de
-University of Paderborn,http://d-nb.info/gnd/64857-7,51.708209,8.771941,Paderborn,2855745,51.71905,8.75439,Germany,city,https://www.uni-paderborn.de/en/university/
-Staatsbibliothek Berlin Preußischer Kulturbesitz,http://d-nb.info/gnd/5036103-X,52.517518,13.390997,Berlin,2950159,52.52437,13.41053,Germany,city,http://staatsbibliothek-berlin.de/en/
-Geheimes Staatsarchiv Preußischer Kulturbesitz,http://d-nb.info/gnd/2122805-X,52.46128,13.292625,Berlin,2950159,52.52437,13.41053,Germany,city,http://www.gsta.spk-berlin.de/
-Humboldt-Universität zu Berlin,http://d-nb.info/gnd/1220138-8,52.517889,13.393661,Berlin,2950159,52.52437,13.41053,Germany,city,https://www.hu-berlin.de/en/
-Berlin City Museum Foundation,http://d-nb.info/gnd/2151979-1,52.516164,13.406982,Berlin,2950159,52.52437,13.41053,Germany,city,https://www.stadtmuseum.de/
-Klassik Stiftung Weimar,http://d-nb.info/gnd/6045529-9,50.980289,11.332184,Weimar,2812482,50.9803,11.32903,Germany,city,https://www.klassik-stiftung.de/start/
-Thüringer Universitäts- und Landesbibliothek,http://d-nb.info/gnd/5053491-9,50.930577,11.587758,Jena,2895044,50.92878,11.5899,Germany,city,http://www.thulb.uni-jena.de
-Landesarchiv Thüringen - Staatsarchiv Greiz,http://d-nb.info/gnd/1119456932,50.660061,12.196998,Greiz,6551044,50.6577,12.19047,Germany,city,http://www.thueringen.de/th1/tsk/kultur/staatsarchive/standorte/greiz/index.aspx
-Friedrich-Schiller-Universität Jena,http://d-nb.info/gnd/36164-1,50.929545,11.589813,Jena,2895044,50.92878,11.5899,Germany,city,https://www.uni-jena.de
-Monumenta Germaniae Historica,http://d-nb.info/gnd/2043215-X,48.148141,11.580466,München,6559171,48.13452,11.571,Germany,city,http://www.mgh.de
-Beethoven-Haus Bonn,http://d-nb.info/gnd/2085343-9,50.736873,7.101201,Bonn,2946447,50.73438,7.09549,Germany,city,https://www.beethoven.de/home
-Detmold Hochschule für Musik,http://d-nb.info/gnd/5073685-1,51.930908,8.876223,Detmold,2937936,51.93855,8.87318,Germany,city,http://www.hfm-detmold.de/
-Oberlausitzische Bibliothek der Wissenschaften Görlitz,http://d-nb.info/gnd/5049269-X,51.155918,14.992386,Görlitz,2918987,51.15518,14.98853,Germany,city,https://www.goerlitzer-sammlungen.de/
-St. Nikolaus-Hospital Cusanusstift,http://d-nb.info/gnd/2021192-2,49.916023,7.071228,Bernkastel-Kues,2949998,49.91602,7.07664,Germany,city,http://www.cusanus.de/
-Dioezesanarchiv Eichstaett,http://d-nb.info/gnd/1056576-0,48.891373,11.185397,Eichstätt,2932069,48.88854,11.19675,Germany,city,http://www.bistum-eichstaett.de/dioezesanarchiv/
-Universitätsbibliothek Frankfurt am Main,http://d-nb.info/gnd/10096915-X,50.120632,8.653032,Frankfurt am Main,2925533,50.110924,8.682127,Germany,city,http://www.ub.uni-frankfurt.de/zentrale/
-Schopenhauer-Gesellschaft e. V.,http://d-nb.info/gnd/16299353-5,50.120426,8.653333,Frankfurt am Main,2925533,50.110924,8.682127,Germany,city,http://schopenhauer.de/
-Staatsarchiv Würzburg,http://d-nb.info/gnd/2005359-9,49.790912,9.934357,Würzburg,2805615,49.79391,9.95121,Germany,city,http://sgv.bistum-wuerzburg.de/
-Deutsches Literaturarchiv Marbach,http://d-nb.info/gnd/10155895-8,48.936284,9.255889,Marbach,2873784,50.81576,8.74624,Germany,city,http://www.dla-marbach.de/
-Germanistisches Seminar Universität Heidelberg,http://d-nb.info/gnd/5108581-1,49.412654,8.712931,Heidelberg,2907911,49.40768,8.69079,Germany,city,https://www.gs.uni-heidelberg.de/
-Theodor Springmann Stiftung,http://d-nb.info/gnd/10077394-1,49.41643,8.716131,Heidelberg,2907911,49.40768,8.69079,Germany,city,https://www.stiftungen.org/de/unsere-demokratie/demokratie-stifter/detail/organization/theodor-springmann-stiftung.html
-Institut für Geschichte der Medizin der Robert Bosch Stiftung,http://d-nb.info/gnd/2076433-9,48.7776,9.20036,Stuttgart,2825297,48.78232,9.17702,Germany,city,https://www.igm-bosch.de/home.html
-Archaeological Museum of Thessaloniki,http://d-nb.info/gnd/1084729-7,40.625243,22.953826,Thessaloniki,734077,40.64361,22.93086,Greece,city,https://www.amth.gr/en
-Aristotle University of Thessaloniki,http://d-nb.info/gnd/37764-8,40.630841,22.959209,Thessaloniki,734077,40.64361,22.93086,Greece,city,https://www.auth.gr/en
-Heraklion Archaeological Museum,http://d-nb.info/gnd/2068055-7,35.338818,25.137012,Heraklion,261745,35.32787,25.14341,Greece,city,http://heraklionmuseum.gr/
-Archaeological Museum of Chania,,35.515491,24.017716,Chania,260114,35.51124,24.02921,Greece,city,http://chaniamuseum.culture.gr/
-National Archaeological Museum of Athens,,37.989031,23.732761,Athens,264371,37.97945,23.71622,Greece,city,http://www.namuseum.gr/
-Archaeological Museum of Thebes,http://d-nb.info/gnd/4224921-1,38.323799,23.317204,Thebes,252910,38.325,23.31889,Greece,city,https://www.mthv.gr/
-Archaeological Museum of Nafplio,,37.566116,22.796278,Nafplio,256637,37.56863,22.80691,Greece,city,http://www.nafplio.gr/moyseiamenu/arxaiologikommenu.html
-Archaeological Site of Tiryns,,37.599714,22.79962,Tiryns,252849,37.5972,22.80011,Greece,city,https://www.gtp.gr/TDirectoryDetails.asp?ID=15304
-National and University Library of Iceland,http://d-nb.info/gnd/5246547-0,64.142973,-21.950709,Reykjavík,3413829,64.13548,-21.89541,Iceland,city,https://landsbokasafn.is/index.php/english
-Indian Ministry of Culture,,28.6162,77.2158,New Delhi,1273294,28.65195,77.23149,India,city,http://www.indiaculture.nic.in
-Maynooth University,http://d-nb.info/gnd/16033067-1,53.383885,-6.600075,Maynooth,2962668,53.385,-6.59361,Ireland,city,https://www.maynoothuniversity.ie
-University College Dublin,http://d-nb.info/gnd/5283001-9,53.307297,-6.21907,Dublin,2964574,53.33306,-6.24889,Ireland,city,http://www.ucd.ie
-Trinity College Dublin,http://d-nb.info/gnd/1010756-3,53.34381,-6.254567,Dublin,2964574,53.33306,-6.24889,Ireland,city,http://www.tcd.ie/
-Royal Irish Academy,http://d-nb.info/gnd/37842-2,53.340705,-6.258219,Dublin,2964574,53.33306,-6.24889,Ireland,city,https://www.ria.ie/
-National University of Ireland,http://d-nb.info/gnd/260703-7,53.338538,-6.247104,Dublin,2964574,53.33306,-6.24889,Ireland,city,http://www.nui.ie
-University College Cork,http://d-nb.info/gnd/260719-0,51.892008,-8.493452,Cork,2965140,51.89797,-8.47061,Ireland,city,https://www.ucc.ie/en/
-Irish Centre for High End Computing,http://d-nb.info/gnd/16336322-5,53.341879,-6.239255,Dublin,2964574,53.33306,-6.24889,Ireland,city,https://www.ichec.ie
-The Israel Museum,,31.772123,35.204083,Jerusalem,281184,31.76904,35.21633,Israel,city,http://www.imj.org.il/en
-Archivio Capitolare della Diocesi di Luni,,44.112912,9.963057,Sarzana,3167104,44.11178,9.9622,Italy,city,http://www.niccolov.it/biblioteca-
-Università degli Studi di Torino,http://d-nb.info/gnd/262196-4,45.069437,7.688894,Turin,3165524,45.07049,7.68682,Italy,city,https://www.unito.it
-Università degli Studi di Genova,http://d-nb.info/gnd/16007089-2,44.414918,8.926728,Genova,3176219,44.40478,8.94439,Italy,city,https://unige.it
-Università degli Studi di Siena ad Arezzo,,43.4623,11.8734,Arezzo,3182884,43.46276,11.88068,Italy,city,https://www.unisi.it/altre-strutture/arezzo
-Università degli Studi di Roma La Sapienza,http://d-nb.info/gnd/5049421-1,41.9004,12.5125,Roma,3169070,41.89193,12.51133,Italy,city,http://www.uniroma1.it
-Università degli Studi di Pavia,http://d-nb.info/gnd/40464-0,45.1979,9.1728,Pavia,3171366,45.19205,9.15917,Italy,city,http://www.unipv.eu/site/home.html
-Università degli Studi di Bergamo,http://d-nb.info/gnd/1057906557,45.704445,9.660292,Bergamo,3182164,45.69601,9.66721,Italy,city,https://www.unibg.it
-Università degli Studi di Bologna,http://d-nb.info/gnd/112454-7,44.496899,11.351758,Bologna,3181928,44.49381,11.33875,Italy,city,http://www.unibo.it/en/homepage
-Biblioteca Comunale dell'Archiginnasio di Bologna,http://d-nb.info/gnd/41595-9,44.491984,11.343419,Bologna,3181928,44.49381,11.33875,Italy,city,http://www.archiginnasio.it/
-Università di Pisa,http://d-nb.info/gnd/5007653-X,43.716729,10.398863,Pisa,3170647,43.70853,10.4036,Italy,city,https://www.unipi.it
-Società Dantesca Italiana,http://d-nb.info/gnd/1018004-7,43.7714,11.2551,Firenze,3176959,43.77925,11.24626,Italy,city,http://dantesca.org/cms/
-Fondazione Niccolò Canussio,http://d-nb.info/gnd/5526415-3,46.0957,13.4291,Cividale del Friuli,3178605,46.09019,13.42861,Italy,city,http://www.fondazionecanussio.org
-British School at Rome,http://d-nb.info/gnd/1009986-4,41.918599,12.481349,Pinciano,7521561,41.91151,12.47935,Italy,city,http://www.bsr.ac.uk
-Archivio di Stato di Prato,http://d-nb.info/gnd/10173239-9,43.88017,11.09544,Prato,3169921,43.8805,11.09699,Italy,city,http://www.archiviodistato.prato.it
-European University Institute,http://d-nb.info/gnd/1228587-0,43.803081,11.282946,Ponte alla Badia,8956573,43.8039,11.2797,Italy,city,https://www.eui.eu
-Scuola Normale Superiore di Pisa,http://d-nb.info/gnd/1086257758,43.719591,10.400328,Pisa,3170647,43.70853,10.4036,Italy,city,https://en.sns.it
-Èulogos S.p.A.,,41.933631,12.537019,Monte Sacro,3169706,41.93333,12.53333,Italy,city,http://www.eulogos.net
-Istituto di Linguistica Computazionale (ILC),http://d-nb.info/gnd/108593411X,43.719255,10.423982,Pisa,3170647,43.70853,10.4036,Italy,city,http://www.ilc.cnr.it
-Archivio Storico della Pontificia Università Gregoriana,,41.899002,12.484645,Pigna,6545151,41.89635,12.48463,Italy,city,https://www.unigre.it/Archivio/archivio_it.php
-Istituto di Informatica e Telematica (IIT),,43.71925,10.423993,Pisa,3170647,43.70853,10.4036,Italy,city,http://www.iit.cnr.it
-Istituto di Teoria e Tecniche dell’Informazione Giuridica (ITTIG-CNR),http://d-nb.info/gnd/10162236-3,43.79176,11.228091,Firenze,3176959,43.77925,11.24626,Italy,city,http://www.ittig.cnr.it
-Kunsthistorisches Institut in Florenz - Max-Planck-Institut,http://d-nb.info/gnd/2016695-3,43.777317,11.263905,Firenze,3176959,43.77925,11.24626,Italy,city,https://www.khi.fi.it/Startseite
-Casa Editrice Leo S. Olschki,http://d-nb.info/gnd/4240918-4,43.757048,11.304235,Firenze,3176959,43.77925,11.24626,Italy,city,https://www.olschki.it
-Biblioteca Nazionale Centrale di Firenze,http://d-nb.info/gnd/1003299-X,43.767122,11.262353,Firenze,3176959,43.77925,11.24626,Italy,city,http://www.bncf.firenze.sbn.it/
-Biblioteca Medicea Laurenziana,http://d-nb.info/gnd/1019149-5,43.774359,11.254045,Firenze,3176959,43.77925,11.24626,Italy,city,https://www.bmlonline.it/
-Università degli Studi di Palermo,http://d-nb.info/gnd/36305-4,38.11779,13.369839,Palermo,2523920,38.13205,13.33561,Italy,city,http://www.unipa.it
-Archivio Storico Comunale di Vercelli,http://d-nb.info/gnd/5309239-9,45.32291,8.421382,Vercelli,3164565,45.32163,8.41989,Italy,city,http://www.asvercelli.beniculturali.it/
-Archivio Capitolare di Vercelli,http://d-nb.info/gnd/5309278-8,45.329724,8.423083,Vercelli,3164565,45.32163,8.41989,Italy,city,http://tesorodelduomovc.it/
-Biblioteca Casanatense,http://d-nb.info/gnd/1023158-4,41.898828,12.479341,Roma,3169070,41.89193,12.51133,Italy,city,http://www.casanatense.it/it/
-Università di Macerata,http://d-nb.info/gnd/1025471-7,43.2992,13.449858,Macerata,3174380,43.29789,13.45293,Italy,city,https://www.unimc.it/en
-Biblioteca Apostolica Vaticana,http://d-nb.info/gnd/1003302-6,41.903898,12.450101,Città del Vaticano,6691831,41.90268,12.45414,Stato della Città del Vaticano,city,https://www.vatlib.it/
-Koninklijke Nederlandse Akademie Van Wetenschappen,https://d-nb.info/gnd/37531-7 ,52.3715388210675,4.89944081912825,Amsterdam,2759794,52.37403,4.88969,Netherlands,city,https://www.knaw.nl/nl
-University of Utrecht,http://d-nb.info/gnd/5570633-2,52.090151,5.122598,Utrecht,2745912,52.09083,5.12222,Netherlands,city,https://www.uu.nl/en
-Nationaal Archief,http://d-nb.info/gnd/10041732-2,52.080727,4.326424,Den Haag,2747373,52.07667,4.29861,Netherlands,city,http://www.nationaalarchief.nl
-Huygens ING,http://d-nb.info/gnd/16344478-X,52.081982,4.326968,Amsterdam,2759794,52.37403,4.88969,Netherlands,city,https://www.huygens.knaw.nl/?lang=en
-Leiden University Library,http://d-nb.info/gnd/1010700-9,52.157326,4.481431,Leiden,2751773,52.15833,4.49306,Netherlands,city,https://www.bibliotheek.universiteitleiden.nl/
-University of Wellington,http://d-nb.info/gnd/5045706-8,-41.28923,174.7677,Kelburn,2188922,-41.28333,174.76667,New Zealand,city,https://www.victoria.ac.nz
-University of Oslo,http://d-nb.info/gnd/1013645-9,59.9405,10.7209,Blindern,3160966,59.93743,10.71819,Norway,city,http://www.uio.no/english/
-National Library of Norway,http://d-nb.info/gnd/2165809-2,59.9148,10.7174,Frogner,6940545,59.91924,10.70892,Norway,city,http://www.nb.no/English
-Hebrew University of Jerusalem,http://d-nb.info/gnd/2023678-5,31.794558,35.241395,Nayot,9204036,31.79589,35.24517,Palestine,city,http://new.huji.ac.il/en
-University of Warsaw,,52.240339,21.018698,Powiśle,761340,52.23834,21.02839,Poland,city,http://en.uw.edu.pl
-Archiwum Archidiecezji Warmińskiej,,53.77798,20.487141,Olsztyn,763166,53.77995,20.49416,Poland,city,http://archwarmia.pl/instytucje/archiwum-archidiecezji-warminskiej/
-Muzeum Narodowe w Krakowie,http://d-nb.info/gnd/1021512-8,50.060494,19.923743,Kraków,3094802,50.06143,19.93658,Poland,city,http://mnk.pl/
-Biblioteka Czartoryskich,http://d-nb.info/gnd/2069205-5,50.063863,19.939637,Kraków,3094802,50.06143,19.93658,Poland,city,http://www.muzeum-czartoryskich.krakow.pl/
-Staatsarchive Łódź,,51.776188,19.454555,Łódź,3093133,51.75,19.46667,Poland,city,http://www.lodz.ap.gov.pl/
-Narodowy Instytut Fryderyka Chopina,http://d-nb.info/gnd/6123664-0,52.236427,21.022191,Powiśle,761340,52.23834,21.02839,Poland,city,http://en.chopin.nifc.pl/institute/
-University of Wrocław,,51.114011,17.034477,Stare Miasto,8425992,51.11034,17.03714,Poland,city,https://international.uni.wroc.pl/en/s3.php
-National Library in Warsaw,,52.213661,21.003452,Filtry,8425839,52.21878,20.99655,Poland,city,http://bn.org.pl/en/
-Universidade de Lisboa,http://d-nb.info/gnd/13666-9,38.752662,-9.158259,Lisbon,2267057,38.71667,-9.13333,Portugal,city,http://www.letras.ulisboa.pt/pt/
-National Library of Russia,http://d-nb.info/gnd/3020410-0,59.933558,30.335748,Saint Petersburg,498817,59.93863,30.31413,Russia,city,http://www.nlr.ru/eng/
-Russian Academy of Sciences,http://d-nb.info/gnd/5052646-7,55.71079,37.577826,Novyye Cherëmushki,517161,55.7,37.58333,Russia,city,http://www.ras.ru/en/index.aspx
-The State Hermitage,http://d-nb.info/gnd/1027089429,59.939832,30.314562,Saint Petersburg,498817,59.93863,30.31413,Russia,city,https://www.hermitagemuseum.org/wps/portal/hermitage/?lng=en
-National and University Library of Slovenia,http://d-nb.info/gnd/2019981-8,46.04752,14.503966,Ljubljana,3196359,46.05108,14.50513,Slovenia,city,http://www.nuk.uni-lj.si
-Universidad del País Vasco,http://d-nb.info/gnd/2138252-9,43.331825,-2.97303,Santsoena,3110032,43.33398,-2.97409,Spain,city,http://www.ehu.eus/en/en-home
-University of Alcalá,http://d-nb.info/gnd/5113155-9,40.482472,-3.362865,Alcalá de Henares,3130616,40.48205,-3.35996,Spain,city,https://www.uah.es/en/
-Universitat de Barcelona,http://d-nb.info/gnd/42050-5,41.3872,2.1637,Eixample,6544100,41.38896,2.16179,Spain,city,http://www.ub.edu/web/ub/en/
-Biblioteca Nacional de España,http://d-nb.info/gnd/1027025-5,40.42394,-3.6902,Madrid,3117735,40.4165,-3.70256,Spain,city,http://www.bne.es/es/Inicio/index.html
-Real Biblioteca del Palacio Real de Madrid,http://d-nb.info/gnd/3003281-7,40.417962,-3.7143,Madrid,3117735,40.4165,-3.70256,Spain,city,http://www.realbiblioteca.es
-Real Colegio de San Jorge Mártir de Irlandeses de la Universidad de Alcalá,http://d-nb.info/gnd/4533602-7,40.481072,-3.366458,Alcalá de Henares,3130616,40.48205,-3.35996,Spain,city,
-University of Salamanca,http://d-nb.info/gnd/1010555-4,40.961332,-5.66693,Salamanca,3111108,40.96882,-5.66388,Spain,city,http://www.usal.es/
-Universidade de Santiago de Compostela,http://d-nb.info/gnd/1016480-7,42.888525,-8.544972,Santiago de Compostela,3109642,42.88052,-8.54569,Spain,city,http://www.usc.es/
-Archivo Histórico Nacional,http://d-nb.info/gnd/4289371-9,40.440719,-3.687042,Madrid,3117735,40.4165,-3.70256,Spain,city,http://www.mecd.gob.es/cultura-mecd/areas-cultura/archivos/portada.html;jsessionid=15BDD0D663682DB6E2587ED5DB17F975
-University of Zürich,http://d-nb.info/gnd/6109294-0,47.3749,8.5489,Zürich,6295483,47.37161,8.54501,Switzerland,city,http://www.uzh.ch/en.html
-University of Fribourg,http://d-nb.info/gnd/1068116757,46.806253,7.151837,Fribourg,2660718,46.80237,7.15128,Switzerland,city,https://www3.unifr.ch/home/en/
-University of Bern,http://d-nb.info/gnd/2023768-6,46.9547,7.4305,Bern,2660903,46.9601,7.43843,Switzerland,city,http://www.unibe.ch/index_eng.html
-Burgerbibliothek Bern,http://d-nb.info/gnd/2006797-5,46.947373,7.448343,Bern,2660903,46.9601,7.43843,Switzerland,city,https://www.burgerbib.ch/en
-University of Basel,http://d-nb.info/gnd/36146-X,47.5589,7.5835,Grossbasel,7645785,47.55602,7.58906,Switzerland,city,https://www.unibas.ch/en.html
-Swiss Lawyers Society,,46.948063,7.447138,Bern,2661552,46.94809,7.44744,Switzerland,city,https://www.ssrq-sds-fds.ch/typo3/index.php?id=2&L=3
-Stiftsbibliothek St. Gallen,http://d-nb.info/gnd/2089619-0,47.423144,9.376729,St. Gallen,2658822,47.42391,9.37477,Switzerland,city,http://www.stibi.ch
-Abbey of Saint Gall,,47.42354,9.377652,St. Gallen,2658822,47.42391,9.37477,Switzerland,city,http://www.bistum-stgallen.ch/
-SIB Swiss Institute of Bioinformatics,http://d-nb.info/gnd/1086795962,46.519648,6.574022,Lausanne,2659994,46.516,6.63282,Switzerland,city,http://www.sib.swiss
-Old Bailey Criminal Court,http://d-nb.info/gnd/4695256-1,51.515767,-0.101799,London,2643743,51.50853,-0.12574,United Kingdom,city,https://courttribunalfinder.service.gov.uk/courts/central-criminal-court
-Kent History and Library Centre,,51.280154,0.517976,Maidstone,2643179,51.26667,0.51667,United Kingdom,city,http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=274&uprn=010014309203
-Lambeth Palace Library,http://d-nb.info/gnd/16441-0,51.495736,-0.120314,London,2643743,51.50853,-0.12574,United Kingdom,city,http://www.lambethpalacelibrary.org/
-National Museum of the Royal Navy,http://d-nb.info/gnd/1231310-5,50.800598,-1.109769,Portsmouth,2639996,50.79899,-1.09125,United Kingdom,city,https://www.nmrn.org.uk
-Royal Geographical Society,http://d-nb.info/gnd/1009629-2,51.501549,-0.174978,London,2643743,51.50853,-0.12574,United Kingdom,city,http://www.rgs.org/HomePage.htm
-Royal Society,http://d-nb.info/gnd/5164604-3,51.50595,-0.13232,London,2643743,51.50853,-0.12574,United Kingdom,city,https://royalsociety.org
-Wellcome Library,http://d-nb.info/gnd/1004208-8,51.525847,-0.133812,London,2643743,51.50853,-0.12574,United Kingdom,city,https://wellcomelibrary.org
-Royal Botanical Gardens Kew,http://d-nb.info/gnd/1018641-4,51.478744,-0.295573,London,2643743,51.50853,-0.12574,United Kingdom,city,https://www.kew.org
-Royal Society of Arts Library,,51.509387,-0.122736,London,2643743,51.50853,-0.12574,United Kingdom,city,https://www.thersa.org
-School of Oriental and African Studies (SOAS) Library at University of London,http://d-nb.info/gnd/115170-8,51.522346,-0.129272,London,2643743,51.50853,-0.12574,United Kingdom,city,https://www.soas.ac.uk/library/
-Royal College of Physicians and Surgeons of Glasgow,http://d-nb.info/gnd/1018749-2,55.862413,-4.263449,Glasgow,2648579,55.86515,-4.25763,United Kingdom,city,https://rcpsg.ac.uk
-Mitchell Library,http://d-nb.info/gnd/600477-5,55.865055,-4.272154,Glasgow,2648579,55.86515,-4.25763,United Kingdom,city,http://www.glasgowlife.org.uk/libraries/the-mitchell-library/pages/home.aspx
-David Livingstone Centre,,55.801817,-4.083357,Glasgow,2648579,55.86515,-4.25763,United Kingdom,city,https://www.david-livingstone-trust.org
-Estate of Samuel Beckett,,51.509627,-0.132562,London,2643743,51.50853,-0.12574,United Kingdom,city,
-Ashmolean Museum,http://d-nb.info/gnd/1007560-4,51.755419,-1.260081,Oxford,2640729,51.75222,-1.25596,United Kingdom,city,https://www.ashmolean.org/
-Centre for the Study of Ancient Documents,,51.755909,-1.260053,Oxford,2640729,51.75222,-1.25596,United Kingdom,city,http://www.classics.ox.ac.uk/
-University of Swansea,http://d-nb.info/gnd/7588199-8,51.608696,-3.979953,Swansea,2636432,51.62079,-3.94323,United Kingdom,city,http://www.swansea.ac.uk
-University of Sussex,http://d-nb.info/gnd/1025891-7,50.8683,-0.0874,Brighton,2654710,50.82838,-0.13947,United Kingdom,city,http://www.sussex.ac.uk
-National Library of Wales,http://d-nb.info/gnd/4221901-2,52.414549,-4.068474,Aberystwyth,2657782,52.41548,-4.08292,United Kingdom,city,https://www.llgc.org.uk/
-University of Southampton,http://d-nb.info/gnd/5045962-4,50.9375,-1.3969,Southampton,2637487,50.90395,-1.40428,United Kingdom,city,https://www.southampton.ac.uk
-University of Manchester,http://d-nb.info/gnd/6036820-2,53.466833,-2.233865,Manchester,2643123,53.48095,-2.23743,United Kingdom,city,http://www.manchester.ac.uk
-John Rylands University Library,http://d-nb.info/gnd/1026705-0,53.464451,-2.235346,Manchester,2643123,53.48095,-2.23743,United Kingdom,city,http://www.library.manchester.ac.uk/rylands/
-University of Sheffield,http://d-nb.info/gnd/9595-3,53.3807,-1.4829,Sheffield,2638077,53.38297,-1.4659,United Kingdom,city,https://www.sheffield.ac.uk
-University of Reading,http://d-nb.info/gnd/261796-1,51.441413,-0.941833,Reading,2639577,51.45625,-0.97113,United Kingdom,city,http://www.reading.ac.uk
-University of Oxford,http://d-nb.info/gnd/38352-1,51.7589,-1.2543,Oxford,2640729,51.75222,-1.25596,United Kingdom,city,http://www.ox.ac.uk
-University of Nottingham,http://d-nb.info/gnd/1030181-1,52.938634,-1.195158,Nottingham,2641170,52.9536,-1.15047,United Kingdom,city,http://www.nottingham.ac.uk
-University of Liverpool,http://d-nb.info/gnd/261911-8,53.405926,-2.965583,Liverpool,2644210,53.41058,-2.97794,United Kingdom,city,https://www.liverpool.ac.uk
-University of Leicester,http://d-nb.info/gnd/10119891-7,52.6274,-1.1223,Leicester,2644668,52.6386,-1.13169,United Kingdom,city,https://le.ac.uk
-University of Hull,http://d-nb.info/gnd/1055477-4,53.7718,-0.3673,Hull,2645425,53.7446,-0.33525,United Kingdom,city,http://www.hull.ac.uk/clearing.aspx
-University of Exeter,http://d-nb.info/gnd/1014152-2,50.737151,-3.535214,Exeter,2649808,50.7236,-3.52751,United Kingdom,city,http://www.exeter.ac.uk
-University of Edinburgh,http://d-nb.info/gnd/5324753-X,55.944503,-3.189271,Edinburgh,2650225,55.95206,-3.19648,United Kingdom,city,http://www.ed.ac.uk
-Edinburgh Napier University,http://d-nb.info/gnd/5111584-0,55.918022,-3.239665,Edinburgh,2650225,55.95206,-3.19648,United Kingdom,city,http://www.napier.ac.uk
-University of Durham,http://d-nb.info/gnd/261225-2,54.764995,-1.578203,Durham,2650628,54.77676,-1.57566,United Kingdom,city,https://www.dur.ac.uk
-Durham Cathedral Priory,http://d-nb.info/gnd/7520015-6,54.77325,-1.576386,Durham,2650628,54.77676,-1.57566,United Kingdom,city,https://www.durhamcathedral.co.uk/
-University of Cambridge,http://d-nb.info/gnd/260720-7,52.204249,0.114886,Cambridge,2653941,52.2,0.11667,United Kingdom,city,https://www.cam.ac.uk
-Cambridge University Library,http://d-nb.info/gnd/1010752-6,52.205104,0.10776,Cambridge,2653941,52.2,0.11667,United Kingdom,city,http://www.lib.cam.ac.uk/
-Parker Library Corpus Christi College Cambridge,http://d-nb.info/gnd/5103164-4,52.203013,0.118729,Cambridge,2653941,52.2,0.11667,United Kingdom,city,https://www.corpus.cam.ac.uk/
-Pepys Library,http://d-nb.info/gnd/671333-6,52.210743,0.116889,Cambridge,2653941,52.2,0.11667,United Kingdom,city,https://www.magd.cam.ac.uk/
-University of Birmingham,http://d-nb.info/gnd/40138-9,52.4511,-1.9305,Birmingham,2655603,52.48142,1.89983,United Kingdom,city,http://www.birmingham.ac.uk/index.aspx
-Birmingham Conservatoire of Birmingham City University,http://d-nb.info/gnd/1085722392,52.479281,-1.904862,Birmingham,2655603,52.48142,1.89983,United Kingdom,city,http://www.bcu.ac.uk/conservatoire
-University of Aberdeen,http://d-nb.info/gnd/262019-4,57.1683,-2.1061,Aberdeen,2657832,57.14369,-2.09814,United Kingdom,city,https://www.abdn.ac.uk
-Aberdeen University Library,http://d-nb.info/gnd/113996-4,57.165075,-2.106259,Aberdeen,2657832,57.14369,-2.09814,United Kingdom,city,https://www.abdn.ac.uk/library/using-libraries/the-sir-duncan-rice-library-123.php
-University College London,http://d-nb.info/gnd/62498-6,51.524124,-0.134133,London,2643743,51.50853,-0.12574,United Kingdom,city,https://www.ucl.ac.uk
-University College London Library,http://d-nb.info/gnd/62498-6,51.524713,-0.133502,London,2643743,51.50853,-0.12574,United Kingdom,city,http://www.ucl.ac.uk/library/special-collections
-Royal Holloway,http://d-nb.info/gnd/5127949-6,51.4263,-0.5631,Egham,2650188,51.43158,-0.55239,United Kingdom,city,https://www.royalholloway.ac.uk/home.aspx
-Regency Town House,http://d-nb.info/gnd/6525998-1,50.8253,-0.1594,Hove,2646504,50.83088,-0.1672,United Kingdom,city,http://rth.org.uk
-Queen Mary University,http://d-nb.info/gnd/6029847-9,51.5248,-0.0385,London,2643743,51.50853,-0.12574,United Kingdom,city,http://www.qmul.ac.uk
-National Library of Scotland,http://d-nb.info/gnd/1005767-5,55.9483,-3.1918,Edinburgh,2650225,55.95206,-3.19648,United Kingdom,city,https://www.nls.uk
-London Library,http://d-nb.info/gnd/35655-4,51.507331,-0.136694,London,2643743,51.50853,-0.12574,United Kingdom,city,https://www.londonlibrary.co.uk
-Leeds Metropolitan University,http://d-nb.info/gnd/16012590-X,55.94542,-3.19115,Leeds,3333164,53.79644,-1.5477,United Kingdom,city,http://www.leedsbeckett.ac.uk
-King's College London (Department of History),,51.504866,-0.112719,London,2643743,51.50853,-0.12574,United Kingdom,city,https://www.kcl.ac.uk/artshums/depts/history/index.aspx
-King's College London (Department of Digital Humanities),http://d-nb.info/gnd/16092907-6,51.51501,-0.12282,London,2643743,51.50853,-0.12574,United Kingdom,city,https://www.kcl.ac.uk/artshums/depts/ddh/index.aspx
-King’s College London (Department of Classics),,51.512091,-0.116056,London,2643743,51.50853,-0.12574,United Kingdom,city,https://www.kcl.ac.uk/artshums/depts/classics/index.aspx
-King's College London,http://d-nb.info/gnd/42229-0,51.511485,-0.116016,London,2643743,51.50853,-0.12574,United Kingdom,city,https://www.kcl.ac.uk/index.aspx
-Keele University,http://d-nb.info/gnd/42232-0,53.003441,-2.272032,Keele,2645897,53.00382,-2.28741,United Kingdom,city,https://www.keele.ac.uk
-Cardiff University,http://d-nb.info/gnd/10050925-3,51.486629,-3.178873,Cardiff,2653822,51.48,-3.18,United Kingdom,city,https://www.cardiff.ac.uk
-British Library,http://d-nb.info/gnd/1005765-1,51.9975,-0.127697,London,2643743,51.50853,-0.12574,United Kingdom,city,https://www.bl.uk
-British Academy,http://d-nb.info/gnd/2006093-2,51.506626,-0.130627,London,2643743,51.50853,-0.12574,United Kingdom,city,http://www.britac.ac.uk
-Bodleian Library,http://d-nb.info/gnd/38352-1,51.7549,-1.2544,Oxford,2640729,51.75222,-1.25596,United Kingdom,city,http://www.bodleian.ox.ac.uk
-Birkbeck College,http://d-nb.info/gnd/1015698-7,51.521927,-0.130204,London,2643743,51.50853,-0.12574,United Kingdom,city,http://www.bbk.ac.uk
-Canterbury Christ Church University,http://d-nb.info/gnd/1073847195,51.277936,1.090671,Canterbury,2653877,51.27904,1.07992,United Kingdom,city,https://www.canterbury.ac.uk
-Hellenic Institute of Royal Holloway,,51.42524,-0.567398,Egham,2650188,51.43158,-0.55239,United Kingdom,city,http://hellenic-institute.rhul.ac.uk
-The British Museum,http://d-nb.info/gnd/38379-X,51.519421,-0.126956,London,2643743,51.50853,-0.12574,United Kingdom,city,http://www.britishmuseum.org/
-Waddesdon Manor,http://d-nb.info/gnd/16284518-2,51.842311,-0.937498,Aylesbury,2656719,51.81665,-0.81458,United Kingdom,city,https://waddesdon.org.uk/
-The National Archives,http://d-nb.info/gnd/10080917-0,51.481538,-0.280039,Richmond,2639389,51.46171,-0.30633,United Kingdom,city,http://www.nationalarchives.gov.uk/
-Hatfield House,http://d-nb.info/gnd/16319478-6,51.760799,-0.209179,Hatfield,2647349,51.76338,-0.22419,United Kingdom,city,http://www.hatfield-house.co.uk/
-Longleat House,,51.185767,-2.274421,Warminster,2634755,51.20434,-2.17873,United Kingdom,city,https://www.longleat.co.uk/longleat-house
-Magdalene College Old Library,,52.210726,0.116075,Cambridge,2653941,52.2,0.11667,United Kingdom,city,https://www.magd.cam.ac.uk/
-King's College Cambridge,http://d-nb.info/gnd/110193-6,52.204212,0.116474,Cambridge,2653941,52.2,0.11667,United Kingdom,city,http://www.kings.cam.ac.uk/
-Schomburg Center for Research in Black Culture,http://d-nb.info/gnd/4292608-7,40.814633,-73.940915,New York City,5128581,40.71427,-74.00597,United States,city,https://www.nypl.org/locations/schomburg
-University of Washington,http://d-nb.info/gnd/36224-4,47.6608,-122.3167,Seattle,7153937,47.66028,-122.31167,United States,city,http://www.washington.edu
-University of Virginia,http://d-nb.info/gnd/5145804-4,38.0369,-78.5028,Charlottesville,4752031,38.02931,-78.47668,United States,city,http://www.virginia.edu
-University of Pennsylvania,http://d-nb.info/gnd/1071874950,39.952218,-75.193209,University City,4561871,39.95071,-75.19476,United States,city,http://www.upenn.edu
-University of Oregon,http://d-nb.info/gnd/10140521-2,44.04483,-123.072606,Eugene,5725846,44.05207,-123.08675,United States,city,https://uoregon.edu
-University of North Carolina,http://d-nb.info/gnd/74337-9,35.904917,-79.046881,Chapel Hill,4460162,35.9132,-79.05584,United States,city,http://www.unc.edu
-University of Nebraska,http://d-nb.info/gnd/1034526-7,40.816929,-96.702476,Lincoln,5072006,40.8,-96.66696,United States,city,https://www.unl.edu
-University of Maryland,http://d-nb.info/gnd/1048209997,38.986931,-76.942555,College Park,4351977,38.98067,-76.93692,United States,city,https://www.umd.edu
-University of Kentucky,http://d-nb.info/gnd/1042848-3,38.0368,-84.5053,Hollywood,4295089,38.02786,-84.49355,United States,city,http://www.uky.edu/UKHome/
-University of Chicago Library,http://d-nb.info/gnd/64684-2,41.792179,-87.59993,Chicago,4887398,41.85003,-87.65005,United States,city,https://www.lib.uchicago.edu
-University of California Irvine,http://d-nb.info/gnd/26537-8,33.6506,-117.8425,Irvine,5359777,33.66946,-117.82311,United States,city,https://uci.edu
-University of California,http://d-nb.info/gnd/2025100-2,37.8773,-122.2451,Southside,11126294,37.86747,-122.25281,United States,city,https://www.universityofcalifornia.edu
-University of California Press,http://d-nb.info/gnd/5087401-9,37.949408,-122.367276,Richmond,5387428,37.93576,-122.34775,United States,city,http://www.ucpress.edu
-California Digital Library,,37.808471,-122.267483,Oakland,5378538,37.80437,-122.2708,United States,city,http://www.cdlib.org
-University of Delaware Library,http://d-nb.info/gnd/1218629-6,39.678132,-75.752913,Newark,4143861,39.68372,-75.74966,United States,city,https://library.udel.edu/
-Texas A&M University,http://d-nb.info/gnd/140763-6,30.613301,-96.339906,Spear,4733497,30.60159,-96.33691,United States,city,https://www.tamu.edu
-Southeastern Louisiana University,http://d-nb.info/gnd/10038746-9,30.51933,-90.469962,Hammond,4326868,30.50463,-90.46293,United States,city,https://www.southeastern.edu
-Society of Biblical Literature,http://d-nb.info/gnd/4181719-9,33.801862,-84.320123,Turner Village,4227430,33.80094,-84.3277,United States,city,https://www.sbl-site.org
-Rutgers University,http://d-nb.info/gnd/5281802-0,40.500886,-74.447373,New Brunswick,5101717,40.48622,-74.45182,United States,city,http://www.rutgers.edu
-Roy Rosenzweig Center for History and New Media (George Mason University),,38.83323,-77.3082,Green Acres,4762018,38.83983,-77.3036,United States,city,https://rrchnm.org
-Princeton University,http://d-nb.info/gnd/1011480-4,40.343985,-74.651459,Princeton,5102922,40.34872,-74.65905,United States,city,https://www.princeton.edu
-Princeton University Library,http://d-nb.info/gnd/1011480-4,40.350503,-74.65703,Princeton,5102922,40.34872,-74.65905,United States,city,http://library.princeton.edu/lewis
-Northwestern University Library,http://d-nb.info/gnd/1044287-X,42.0537,-87.6733,South Evanston,4911902,42.03725,-87.68061,United States,city,http://www.library.northwestern.edu
-New York Public Library,http://d-nb.info/gnd/1024673-3,40.7538,-73.9817,New York City,5128581,40.71427,-74.00597,United States,city,https://www.nypl.org
-Maryland Institute of Technology in the Humanities (MITH),,38.98597,-76.94505,College Park,4351977,38.98067,-76.93692,United States,city,http://mith.umd.edu
-Loyola University Chicago,http://d-nb.info/gnd/10072143-6,41.999803,-87.658218,North Edgewater,4903885,41.99337,-87.66228,United States,city,http://www.luc.edu
-Harry Ransom Humanities Research Center,http://d-nb.info/gnd/3018790-4,30.284362,-97.741263,Austin,4671654,30.26715,-97.74306,United States,city,http://www.hrc.utexas.edu
-Getty Research Institute,http://d-nb.info/gnd/10069245-X,34.076908,-118.475506,Westgate Heights,5408363,34.0664,-118.47314,United States,city,http://www.getty.edu/research/
-Folger Shakespeare Library,http://d-nb.info/gnd/16140610-5,38.889369,-77.002748,Washington DC,4138106,38.91706,-77.00025,United States,city,http://www.folger.edu
-Brown University,http://d-nb.info/gnd/221387-4,41.82639,-71.40021,Providence,5224151,41.82399,-71.41283,United States,city,https://www.brown.edu
-Brown University Library,,41.826973,-71.400167,Providence,5224151,41.82399,-71.41283,United States,city,https://library.brown.edu/
-Massachusetts Historical Society,http://d-nb.info/gnd/11279-3,42.346561,-71.089896,Boston,4930956,42.35843,-71.05977,United States,city,http://www.masshist.org/
-John Hay Library,http://d-nb.info/gnd/3020124-X,41.826461,-71.404972,Providence,5224151,41.82399,-71.41283,United States,city,https://library.brown.edu/hay/
-Bowling Green State University,http://d-nb.info/gnd/1010847-6,41.3771,-83.6266,Bowling Green,5147968,41.37477,-83.65132,United States,city,https://www.bgsu.edu
-Arizona State University,http://d-nb.info/gnd/1039847-8,33.6094,-112.1597,Tempe,5317058,33.41477,-111.90931,United States,city,https://www.asu.edu
-California Institute of Technology,http://d-nb.info/gnd/5084090-3,34.137657,-118.125291,Oak Knoll,5378360,34.12445,-118.1359,United States,city,http://www.caltech.edu
-University of Ohio,,39.324446,-82.101417,Athens,4505542,39.32924,-82.10126,United States,city,https://www.ohio.edu
-University of California Santa Barbara,http://d-nb.info/gnd/1055045-8,34.413936,-119.848979,Santa Barbara,5392952,34.42083,-119.69819,United States,city,https://www.ucsb.edu
-University of Michigan,http://d-nb.info/gnd/1011457-9,42.27804,-83.738239,Ann Arbor,4984247,42.27756,-83.74088,United States,city,http://www.umich.edu
-Intelex Corporation,,38.030571,-78.481133,Charlottesville,4752031,38.02931,-78.47668,United States,city,http://www.nlx.com/home
-University of Pittsburgh (Department of Slavic Languages and Literatures),http://d-nb.info/gnd/1017785-1,40.444269,-79.953289,Pittsburgh,5206379,40.44062,-79.99589,United States,city,http://www.slavic.pitt.edu
-American Council of Learned Societies,http://d-nb.info/gnd/40535-8,40.749655,-73.974965,Tudor City,6332416,40.74861,-73.97139,United States,city,http://www.acls.org
-Institute for the Study of the Ancient World,http://d-nb.info/gnd/16064297-8,40.779927,-73.960265,New York City,5128581,40.71427,-74.00597,United States,city,http://isaw.nyu.edu
-Google,http://d-nb.info/gnd/10122609-3,37.41986,-122.078831,Palo Alto,5380748,37.44188,-122.14302,United States,city,https://www.google.com
-University of Michigan Press,,42.270756,-83.746844,Ann Arbor,4984247,42.27756,-83.74088,United States,city,https://www.press.umich.edu
-Center for Hellenic Studies,http://d-nb.info/gnd/1014955-7,38.917565,-77.062046,Washington DC,4138106,38.91706,-77.00025,United States,city,https://chs.harvard.edu
-Harvard University Archives,http://d-nb.info/gnd/4638718-3,42.376992,-71.116672,Cambridge,4931972,42.3751,-71.10561,United States,city,https://www.harvard.edu/
-Library of Congress,,38.888703,-77.004714,Washington DC,4138106,38.91706,-77.00025,United States,city,https://www.loc.gov/
-Rochester Institute of Technology,http://d-nb.info/gnd/5011237-5,43.086106,-77.670501,Rochester,5134086,43.15478,-77.61556,United States,city,http://www.rit.edu
-Indiana University of Pennsylvania,http://d-nb.info/gnd/1051854-X,40.614226,-79.161084,Indiana,4921868,40.00032,-86.25027,United States,city,https://www.iup.edu
-Ball State University,http://d-nb.info/gnd/1018621-9,40.206105,-85.406993,Muncie,4924006,40.19338,-85.38636,United States,city,http://cms.bsu.edu
-Brigham Young University,http://d-nb.info/gnd/35653-0,40.251872,-111.649377,Provo,5780026,40.23384,-111.65853,United States,city,https://home.byu.edu/home/
-Buffalo Bill Center of the West,http://d-nb.info/gnd/1047846179,44.525615,-109.073314,Cody,1586861,44.523333,-109.057222,United States,city,https://centerofthewest.org
-Dumbarton Oaks,,38.914149,-77.064011,Washington DC,4138106,38.91706,-77.00025,United States,city,http://www.doaks.org
-"Huntingon Library, Art Collections, and Botanical Gardens",,34.129041,-118.114517,San Marino,5392400,34.1214,-118.10646,United States,city,http://www.huntington.org
-Houghton Library,http://d-nb.info/gnd/2037118-4,42.373169,-71.115915,Cambridge,4931972,42.3751,-71.10561,United States,city,http://hcl.harvard.edu/libraries/houghton/
-Gladys Krieble Delmas Foundation,,40.751219,-73.979982,New York City,5128581,40.71427,-74.00597,United States,city,http://delmas.org
-The Morgan Library and Museum,http://d-nb.info/gnd/10156282-2,40.749242,-73.981392,New York City,5128581,40.71427,-74.00597,United States,city,http://www.themorgan.org/
-Ramapo College of New Jersey,http://d-nb.info/gnd/5200098-9,41.081503,-74.174627,Mahwah,5100776,41.08871,-74.14376,United States,city,https://www.ramapo.edu
-Trinity University,,29.461845,-98.483159,San Antonio,4726206,29.42412,-98.49363,United States,city,https://new.trinity.edu/
-Beinecke Rare Book and Manuscript Library,http://d-nb.info/gnd/1097100-2,41.311597,-72.92726,New Haven,4839366,41.30815,-72.92816,United States,city,http://beinecke.library.yale.edu/
-American Antiquarian Society,http://d-nb.info/gnd/6816-0,42.277365,-71.810317,Worcester,4956184,42.26259,-71.80229,United States,city,http://www.americanantiquarian.org/
-Amherst College,http://d-nb.info/gnd/44721-3,42.370921,-72.517003,Amherst,4929022,42.36723,-72.51852,United States,city,https://www.amherst.edu/
-Maine State Library,http://d-nb.info/gnd/5114730-0,44.306128,-69.782739,Augusta,4957003,44.31062,-69.77949,United States,city,http://www.maine.gov/msl/
-Boston Public Library,http://d-nb.info/gnd/1030395-9,42.349427,-71.078826,Boston,4930956,42.35843,-71.05977,United States,city,http://www.bpl.org/
-Smith College Libraries,,42.31707,-72.638796,Northampton,4945819,42.32509,-72.6412,United States,city,https://www.smith.edu/libraries/
-Vassar College,http://d-nb.info/gnd/126587-8,41.686798,-73.895716,Poughkeepsie,5132143,41.70037,-73.92097,United States,city,https://www.vassar.edu/
-Cornell University Library,http://d-nb.info/gnd/1080320-8,42.453453,-76.47351,Ithaca,5122432,42.44063,-76.49661,United States,city,https://www.library.cornell.edu/
-Swarthmore College Peace Collection,http://d-nb.info/gnd/4078095-8,39.906846,-75.355643,Swarthmore,4561628,39.90206,-75.34991,United States,city,https://www.swarthmore.edu/
-Tufts University,http://d-nb.info/gnd/1029986-5,42.40748,-71.119023,Boston,4930956,42.35843,-71.05977,United States,city,https://www.tufts.edu/
-Yale Fortunoff Archive,https://d-nb.info/gnd/3004798-5 ,41.3116460769968,-72.9272868340894,New Haven,4839366,41.30815,-72.92816,United States,city,https://fortunoff.library.yale.edu/archive/
-USC Shoah Foundation,https://d-nb.info/gnd/10358131-5,34.0293451108266,-118.283184041086,Los Angeles,5368361,34.05223,-118.24368,United States,city,https://sfi.usc.edu/
-United States Holocaust Memorial Museum,https://d-nb.info/gnd/5075370-8 ,38.8867864693148,-77.0326083859531,Washington DC,4138106,38.91706,-77.00025,United States,city,https://www.ushmm.org/
-Yale DH Lab,,41.3110547200714,-72.9285188201162,New Haven,4839366,41.30815,-72.92816,United States,city,https://dhlab.yale.edu/
-Facultad de Filosofía y Letras Universidad Nacional Autónoma de México (UNAM),http://d-nb.info/gnd/63989-8,19.333993,-99.186841,Mexico City,3530597,19.42847,-99.12766,Mexico,city,http://www.filos.unam.mx
-Magyar Tudományos Akadémia Könyvtára,http://d-nb.info/gnd/1087239087,47.501668,19.046267,Budapest,3054643,47.49801,19.03991,Hungary,city,http://konyvtar.mta.hu/
-University of Szeged,http://d-nb.info/gnd/35684-0,47.680226,16.577958,Lővérek,8063078,47.67492,16.57528,Hungary,city,http://www.u-szeged.hu/english
-Petőfi Irodalmi Múzeum,http://d-nb.info/gnd/13840-X,47.491431,19.058187,Budapest,3054643,47.49801,19.03991,Hungary,city,https://pim.hu/
-Eötvös Loránd Tudományegyetem,http://d-nb.info/gnd/35680-3,47.49058,19.058529,Budapest,3054643,47.49801,19.03991,Hungary,city,https://www.elte.hu/
-Országos Széchényi Könyvtár,http://d-nb.info/gnd/1007496-X,47.495508,19.039232,Budapest,3054643,47.49801,19.03991,Hungary,city,http://oszk.business.site/
-ELTE Egyetemi Könyvtár,,47.492476,19.056814,Budapest,3054643,47.49801,19.03991,Hungary,city,https://www.konyvtar.elte.hu/
-Miskolci Egyetem,http://d-nb.info/gnd/5038518-5,48.082082,20.766887,Miskolc,717582,48.1,20.78333,Hungary,city,http://www.uni-miskolc.hu/en
-Debreceni Egyetem,http://d-nb.info/gnd/10047907-8,47.553531,21.621486,Debrecen,721472,47.53333,21.63333,Hungary,city,https://unideb.hu/
-MTA BTK Irodalomtudományi Intézet,,47.479933,19.046586,Budapest,3054643,47.49801,19.03991,Hungary,city,https://btk.mta.hu/85-intezetek/83-irodalomtudomanyi-intezet.html
-Biblioteca Centrală Universitară Lucian Blaga Cluj-Napoca,http://d-nb.info/gnd/5149565-X,46.767043,23.584878,Cluj-Napoca,681290,46.76667,23.6,Romania,city,https://www.bcucluj.ro/
-N/A,,,,,,,,,,
-Various,,,,,,,,,,
-not provided,,,,,,,,,,
+"Institution Name","Institution GND","Institution Lat","Institution Lng","located at","location geonames ID","location Lat","location Lng","part of","type of location","institution website"
+"National Museum of Australia","http://d-nb.info/gnd/4439156-0",-35.2917,149.1195,"Canberra",2172517,-35.28346,149.12807,"Australia","city","http://www.nma.gov.au"
+"National Library of Australia","http://d-nb.info/gnd/5118704-8",-35.296624,149.129825,"Canberra",2172517,-35.28346,149.12807,"Australia","city","https://www.nla.gov.au"
+"State Library of Victoria","http://d-nb.info/gnd/1092307-X",-37.809785,144.965194,"Melbourne",2158177,-37.814,144.96332,"Australia","city","https://www.slv.vic.gov.au/"
+"Victoria University Library",,-37.79285,144.898997,"Melbourne",2158177,-37.814,144.96332,"Australia","city","https://www.vu.edu.au/library"
+"University of Sydney Library","http://d-nb.info/gnd/80357-1",-33.88856,151.187351,"Sydney",2147714,-33.86785,151.20732,"Australia","city","https://library.sydney.edu.au/"
+"State Library of New South Wales","http://d-nb.info/gnd/4268267-8",-33.866744,151.212785,"Sydney",2147714,-33.86785,151.20732,"Australia","city","http://www.sl.nsw.gov.au/"
+"Zentrum für Informationsmodellierung Universität Graz","http://d-nb.info/gnd/1137284463",47.076346,15.456173,"Graz",2778067,47.06667,15.45,"Austria","city","https://informationsmodellierung.uni-graz.at/"
+"Franz Nabl Institut für Literaturforschung Universität Graz","http://d-nb.info/gnd/2125265-8",47.074703,15.451488,"Graz",2778067,47.06667,15.45,"Austria","city","https://franz-nabl-institut.uni-graz.at/"
+"Stiftung Mozarteum Salzburg","http://d-nb.info/gnd/16271979-6",47.803503,13.041992,"Salzburg",2766824,47.79941,13.04399,"Austria","city","http://www.mozarteum.at"
+"Österreichische Nationalbibliothek","http://d-nb.info/gnd/2050296-5",48.205432,16.365011,"Vienna",2761369,48.20849,16.37208,"Austria","city","https://www.onb.ac.at"
+"Austrian Centre for Digital Humanities at the Austrian Academy of Sciences","http://d-nb.info/gnd/1123037736",48.209133,16.377123,"Vienna",2761369,48.20849,16.37208,"Austria","city","https://www.oeaw.ac.at/acdh/acdh-home/"
+"Austrian Academy of Sciences","http://d-nb.info/gnd/1001454-8",48.208873,16.37719,"Vienna",2761369,48.20849,16.37208,"Austria","city","https://www.oeaw.ac.at/en/austrian-academy-of-sciences/"
+"Austrian National Library","https://d-nb.info/gnd/2020893-5",48.2062709374524,16.3667399418258,"Vienna",2761369,48.20849,16.37208,"Austria","city","https://www.onb.ac.at/"
+"University of Vienna","http://d-nb.info/gnd/2024703-5",48.213184,16.360052,"Vienna",2761369,48.20849,16.37208,"Austria","city","https://www.univie.ac.at/en/"
+"Theatermuseum Wien","http://d-nb.info/gnd/1033329-0",48.205668,16.368535,"Vienna",2761369,48.20849,16.37208,"Austria","city","https://www.theatermuseum.at/"
+"Robert Musil-Institut für Literaturforschung - Kärntner Literaturarchiv at Alpen-Adria-Universität Klagenfurt","http://d-nb.info/gnd/2154836-5",46.616095,14.265285,"Klagenfurt am Wörthersee",2774326,46.62472,14.30528,"Austria","city","https://www.aau.at/musil/"
+"Universität für Musik und darstellende Kunst","http://d-nb.info/gnd/5299670-0",48.195714,16.38139,"Vienna",2761369,48.20849,16.37208,"Austria","city","https://www.mdw.ac.at"
+"Karl-Franzens Universität Graz","http://d-nb.info/gnd/36157-4",47.077804,15.449923,"Graz",2778067,47.06667,15.45,"Austria","city","https://www.uni-graz.at/"
+"Institut für Geschichtswissenschaften und Europäische Ethnologie (Universität Innsbruck)","http://d-nb.info/gnd/16332395-1",47.26409,11.384556,"Innsbruck",2775220,47.26266,11.39454,"Austria","city","https://www.uibk.ac.at/geschichte-ethnologie/"
+"Wienbibliothek im Rathaus","https://d-nb.info/gnd/10144442-4 ",48.2120818616728,16.3575141158021,"Vienna",2761369,48.20849,16.37208,"Austria","city","https://www.wienbibliothek.at/"
+"University of Antwerp","http://d-nb.info/gnd/5017340-6",51.1641,4.4066,"Antwerp",2803138,51.21989,4.40346,"Belgium","city","https://www.uantwerpen.be/en/"
+"University of Ghent","http://d-nb.info/gnd/10019747-4",51.046569,3.727918,"Ghent",2797656,51.05,3.71667,"Belgium","city","https://www.ugent.be/"
+"Centrum voor Teksteditie en Bronnenstudie (Koninklijke Academie voor Nederlandse Taal- en Letterkunde)","http://d-nb.info/gnd/10082555-2",51.0558,3.7281,"Ghent",2797656,51.05,3.71667,"Belgium","city","http://ctb.kantl.be"
+"Royal Museum for Central Africa","http://d-nb.info/gnd/1006819-3",50.830895,4.518294,"Tervuren",2785622,50.82372,4.51418,"Belgium","city","http://www.africamuseum.be/home"
+"King Baudouin Foundation","http://d-nb.info/gnd/809939-X",50.840375,4.3623,"Bruxelles",2800866,50.85045,4.34878,"Belgium","city","https://www.kbs-frb.be/en"
+"Letterenhuis","http://d-nb.info/gnd/102772695X",51.222857,4.404685,"Antwerp",2803138,51.21989,4.40346,"Belgium","city","http://www.letterenhuis.be/nl"
+"University of New Brunswick","http://d-nb.info/gnd/11143-0",45.9462,-66.6406,"Barkers Point",5893060,45.95165,-66.62339,"Canada","city","http://www.unb.ca"
+"University of New Brunswick Archives and Special Collections",,45.946066,-66.642794,"Fredericton",5957776,45.94541,-66.66558,"Canada","city","http://www.unb.ca/its/get-it-help.html"
+"University of Calgary","http://d-nb.info/gnd/3003635-5",51.078164,-114.135796,"Montgomery",6077007,51.07511,-114.16449,"Canada","city","http://www.ucalgary.ca"
+"Memorial University of Newfoundland","http://d-nb.info/gnd/16156656-X",47.5717,-52.7324,"Sand Pits",6140443,47.56659,-52.73134,"Canada","city","https://www.mun.ca"
+"University of Victoria","http://d-nb.info/gnd/5088685-X",48.4661,-123.3125,"Cadboro Bay",5913113,48.46667,-123.3,"Canada","city","http://www.uvic.ca"
+"University of Saskatchewan","http://d-nb.info/gnd/25782-5",52.1334,-106.631365,"Saskatoon",6141256,52.13238,-106.66892,"Canada","city","https://www.usask.ca"
+"Bruce Peel Special Collections Library at the University of Alberta",,53.525787,-113.521607,"Edmonton",5946768,53.55014,-113.46871,"Canada","city","https://bpsc.library.ualberta.ca/"
+"University of Zagreb","http://d-nb.info/gnd/1014349-X",45.81057,15.969784,"Zagreb",3186886,45.81444,15.97798,"Croatia","city","http://www.unizg.hr/homepage/"
+"Nacionalna i sveučilišna knjižnica u Zagrebu","http://d-nb.info/gnd/10025602-8",45.796644,15.97756,"Zagreb",3186886,45.81444,15.97798,"Croatia","city","http://www.nsk.hr/"
+"University of Copenhagen","http://d-nb.info/gnd/36485-X",55.680205,12.572393,"Copenhagen",2618425,55.67594,12.56553,"Denmark","city","http://www.ku.dk/english/"
+"Det Kongelige Bibliotek","http://d-nb.info/gnd/43027-4",55.673406,12.582663,"Copenhagen",2618425,55.67594,12.56553,"Denmark","city","http://www.kb.dk/da/index.html"
+"Aarhus University","http://d-nb.info/gnd/42570-9",56.16888,10.20158,"Aarhus",2624652,56.15674,10.21076,"Denmark","city","https://international.au.dk/"
+"St. Catherine's Monastery","http://d-nb.info/gnd/660210-1",28.555934,33.976037,"Mount Catherine",353913,28.51,33.95463,"Egypt","city","http://www.sinaimonastery.com/index.php/en/"
+"Svenska Litteratursällskapet","http://d-nb.info/gnd/1005799-7",60.170814,24.955789,"Kruununhaka",650744,60.17174,24.9566,"Finland","city","http://www.sls.fi"
+"Institut Universitaire de France","http://d-nb.info/gnd/2160908-1",48.847431,2.34872,"Paris",2988507,48.85341,2.3488,"France","city","http://www.iufrance.fr"
+"Lafayette University Library",,45.77395,3.087964,"Clermont-Ferrand",3024635,45.77966,3.08628,"France","city","http://bibliotheque.clermont-universite.fr/bibliotheque-lafayette"
+"Archives Nationales",,48.948111,2.3644,"Pierrefitte-sur-Seine",2987271,48.96691,2.36104,"France","city","http://www.archives-nationales.culture.gouv.fr/"
+"Université Bordeaux Montaigne","http://d-nb.info/gnd/1081101628",44.795414,-0.616322,"Bordeaux",3031582,44.84044,-0.5805,"France","city","http://www.u-bordeaux-montaigne.fr/en/index.html"
+"Université Paris-Sorbonne","http://d-nb.info/gnd/1210825449",48.848574,2.343257,"Paris",2988507,48.85341,2.3488,"France","city","https://www.sorbonne-universite.fr/universite"
+"Université Sorbonne Nouvelle Paris 3","http://d-nb.info/gnd/1020917-7",48.839804,2.353901,"Paris",2988507,48.85341,2.3488,"France","city","http://www.univ-paris3.fr"
+"École française d'Extrême-Orient","http://d-nb.info/gnd/1003498-5",48.864541,2.292172,"Paris",2988507,48.85341,2.3488,"France","city","http://www.efeo.fr"
+"Université d’Angers","http://d-nb.info/gnd/2024963-9",47.477092,-0.549938,"Angers",3037656,47.46667,-0.55,"France","city","http://www.univ-angers.fr/fr/index.html"
+"Université Jean Monnet Saint-Etienne","http://d-nb.info/gnd/3056310-0",45.427167,4.387831,"Saint-Etienne",2980291,45.43389,4.39,"France","city","https://www.univ-st-etienne.fr/fr/index.html"
+"École Normale Supérieure de Lyon","http://d-nb.info/gnd/5130846-0",45.729835,4.826922,"Lyon",2996944,45.74846,4.84671,"France","city","http://www.ens-lyon.fr"
+"CNRS (Institut de recherche et d’histoire des textes)",,48.84762,2.26395,"Auteuil",6545275,48.84694,2.26366,"France","city","https://www.irht.cnrs.fr"
+"CNRS (Centre national de la recherche scientifique)",,48.847597,2.264004,"Auteuil",6545275,48.84694,2.26366,"France","city","http://www.cnrs.fr"
+"CNRS (Centre de théorie et analyse du droit) de l’Université de Paris Nanterre",,48.903904,2.213466,"Nanterre",2990970,48.89198,2.20675,"France","city","https://ctad.parisnanterre.fr"
+"Bibliothèque Nationale de France","http://d-nb.info/gnd/1080038-4",48.833604,2.375763,"Austerlitz",6545265,48.83266,2.36794,"France","city","http://www.bnf.fr/fr/acc/x.accueil.html"
+"Université Lumière Lyon 2","http://d-nb.info/gnd/5098102-X",45.750736,4.837229,"Lyon",2996944,45.74846,4.84671,"France","city","http://www.univ-lyon2.fr"
+"Université Jean Moulin Lyon 3","http://d-nb.info/gnd/1047109-1",45.748137,4.860366,"Lyon",2996944,45.74846,4.84671,"France","city","http://www.univ-lyon3.fr"
+"UMR 5648 CIHAM (Centre interuniversitaire d'histoire et d'archéologie médiévale)","http://d-nb.info/gnd/5098102-X",45.750736,4.837229,"Lyon",2996944,45.74846,4.84671,"France","city","http://www.univ-lyon2.fr/recherche/la-recherche-a-lyon-2/histoire-archeologie-litteratures-des-mondes-chretiens-et-musulmans-medievaux-ciham-umr-5648--296195.kjsp?RH=ZYZYZYZYZYZYZYZYZYZYZY"
+"UMR 8584 LEM (Laboratoire d'étude sur les monothéismes)",,48.831061,2.340174,"Paris",2988507,48.85341,2.3488,"France","city","http://lem.vjf.cnrs.fr/?lang=fr"
+"Laboratoire d'excellence HASTEC (Histoire et anthropologie des sciences techniques et croyances)",,48.831061,2.340174,"Paris",2988507,48.85341,2.3488,"France","city","https://labexhastec-psl.ephe.fr"
+"Bibliothèque de l'Arsenal","http://d-nb.info/gnd/1056486-X",48.850311,2.36361,"Paris",2988507,48.85341,2.3488,"France","city","http://www.bnf.fr/fr/la_bnf/sites/a.site_bibliotheque_arsenal.html"
+"Université de Montpellier 3",,43.631575,3.870542,"Castelnau-le-Lez",3028337,43.63333,3.9,"France","city","https://www.univ-montp3.fr"
+"Bibliothèque municipale de Rouen","http://d-nb.info/gnd/1032332-6",49.431302,1.08378,"Rouen",2982652,49.44313,1.09932,"France","city","https://www.rouen.fr/adresse/bibliotheque-villon"
+"Centre Flaubert de l'Université de Rouen","http://d-nb.info/gnd/6077726-6",49.458426,1.067995,"Rouen",2982652,49.44313,1.09932,"France","city","http://flaubert.univ-rouen.fr"
+"Institut Ausonius Université Bordeaux Montaigne","http://d-nb.info/gnd/5515436-0",44.795424,-0.616349,"Bordeaux",3031582,44.84044,-0.5805,"France","city","http://www.u-bordeaux-montaigne.fr/fr/recherche/equipes_de_recherche/ausonius.html"
+"Centre d'Études Supérieures de la Renaissance","http://d-nb.info/gnd/1019899-4",47.391996,0.682313,"Tours",2972191,47.38333,0.68333,"France","city","http://cesr.univ-tours.fr"
+"Bibliothèque municipale de Tours","http://d-nb.info/gnd/1086970012",47.397311,0.687969,"Tours",2972191,47.38333,0.68333,"France","city","http://www.bm-tours.fr/"
+"École de l’Innovation et de l’Expertise Informatique (EPITECH)",,45.756988,4.857023,"Lyon",2996944,45.74846,4.84671,"France","city","http://www.epitech.eu"
+"École Nationale Supérieure des Sciences de l'Information et des Bibliothèques (ENSSIB)","http://d-nb.info/gnd/5239171-1",45.780139,4.862513,"Villeurbanne",2968254,45.76667,4.88333,"France","city","http://www.enssib.fr"
+"Université Blaise Pascal","http://d-nb.info/gnd/4579775-4",45.764098,3.112335,"Aubière",3036364,45.75157,3.11251,"France","city","http://www.univ-bpclermont.fr"
+"Musée Condé","http://d-nb.info/gnd/1033853-6",49.193851,2.485204,"Chantilly",3026827,49.19461,2.47124,"France","city","http://www.domainedechantilly.com/fr/"
+"Christophorus Records",,0,0,"Freiburg",2925177,47.9959,7.85222,"Germany","city","http://www.christophorus-records.de/v2.php"
+"University of Freiburg","https://d-nb.info/gnd/2024338-8 ",47.993554,7.845954,"Freiburg",2925177,47.9959,7.85222,"Germany","city","https://uni-freiburg.de/"
+"University Library Freiburg",,47.9942675859479,7.84486587658301,"Freiburg",2925177,47.9959,7.85222,"Germany","city","https://www.ub.uni-freiburg.de/"
+"Institut für Dokumentologie und Editorik","http://d-nb.info/gnd/6521152-2",50.926418,6.929773,"Cologne",2886242,50.93333,6.95,"Germany","city","https://www.i-d-e.de/"
+"Frankfurter Goethehaus","http://d-nb.info/gnd/2010762-6",50.111227,8.677608,"Frankfurt am Main",2925533,50.110924,8.682127,"Germany","city","http://www.goethehaus-frankfurt.de"
+"Institute for the History of German Jews","http://d-nb.info/gnd/2013616-X",53.569799,9.975629,"Eimsbüttel",2911293,53.56667,9.98333,"Germany","city","http://www.igdj-hh.de/home-175.html"
+"University of Münster","http://d-nb.info/gnd/36175-6",51.96148,7.6237,"Münster",2867543,51.96236,7.62571,"Germany","city","https://www.uni-muenster.de/en/"
+"University of Leipzig","http://d-nb.info/gnd/2024343-1",51.338576,12.378464,"Leipzig",2879139,51.33962,12.37129,"Germany","city","https://www.uni-leipzig.de/en/"
+"University of Göttingen","http://d-nb.info/gnd/1044306068",51.5434,9.9358,"Göttingen",2918632,51.53443,9.93228,"Germany","city","http://www.uni-goettingen.de/en/1.html"
+"Stadtarchiv Göttingen","http://d-nb.info/gnd/605206-X",51.52843,9.940511,"Göttingen",2918632,51.53443,9.93228,"Germany","city","http://www.stadtarchiv.goettingen.de/"
+"University of Augsburg","http://d-nb.info/gnd/7871-2",48.3351,10.8973,"Göggingen",2919525,48.33746,10.86482,"Germany","city","https://www.uni-augsburg.de/en/"
+"University of Würzburg","http://d-nb.info/gnd/36189-6",49.7827,9.9677,"Wurzburg",2805615,49.79391,9.95121,"Germany","city","https://www.uni-wuerzburg.de/en/ueber/university/"
+"University of Tübingen","http://d-nb.info/gnd/36187-2",48.529478,9.04377,"Tübingen",2820860,48.52266,9.05222,"Germany","city","https://www.uni-tuebingen.de/en/university.html"
+"Musikwissenschaftliches Institut der Universität Tübingen","http://d-nb.info/gnd/36187-2",48.52031,9.057021,"Tübingen",2820860,48.52266,9.05222,"Germany","city","http://www.uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/altertums-und-kunstwissenschaften/mwi/aktuell.html"
+"University of Heidelberg","http://d-nb.info/gnd/2024349-2",49.419145,8.670253,"Heidelberg",2907911,49.40768,8.69079,"Germany","city","https://www.uni-heidelberg.de/index_e.html"
+"Heidelberg University Library","http://d-nb.info/gnd/2002498-8",49.409743,8.705888,"Heidelberg",2907911,49.40768,8.69079,"Germany","city","http://www.ub.uni-heidelberg.de/Englisch/Welcome.html"
+"University of Trier","http://d-nb.info/gnd/2153481-0",49.745762,6.688459,"Tarforst",2823992,49.74157,6.69196,"Germany","city","https://www.uni-trier.de/index.php?id=58229&L=2"
+"University of Hamburg","http://d-nb.info/gnd/35534-3",53.566567,9.984614,"Hamburg",2911298,53.57532,10.01534,"Germany","city","https://www.uni-hamburg.de/en.html"
+"Südwest-Rundfunk Tübingen",,48.522776,9.066659,"Tübingen",2820860,48.52266,9.05222,"Germany","city","https://www.swr.de/unternehmen/organisation/standorte-studio-tuebingen/-/id=7687068/did=7938418/nid=7687068/eurjnr/index.html"
+"Leipzig University Library","http://d-nb.info/gnd/30026-3",51.332497,12.368185,"Leipzig",2879139,51.33962,12.37129,"Germany","city","https://www.ub.uni-leipzig.de/start/"
+"Herzog August Bibliothek Wolfenbüttel","http://d-nb.info/gnd/1072988283",52.1647,10.5304,"Auguststadt",2954132,52.16396,10.52469,"Germany","city","http://www.hab.de/en/home.html"
+"Heinrich-Heine-Institut Düsseldorf","http://d-nb.info/gnd/2062050-0",51.222277,6.77287,"Dusseldorf",2934246,51.22172,6.77616,"Germany","city","https://www.duesseldorf.de/heineinstitut/"
+"Berlin-Brandenburgische Akademie der Wissenschaften","http://d-nb.info/gnd/2131094-4",52.51407,13.39422,"Berlin",2950159,52.52437,13.41053,"Germany","city","http://www.bbaw.de"
+"Bayerische Staatsbibliothek","http://d-nb.info/gnd/2068538-5",48.1478,11.5802,"Maxvorstadt",6940468,48.14702,11.56903,"Germany","city","https://www.bsb-muenchen.de"
+"Historische Kommission bei der Bayerischen Akademie der Wissenschaften","http://d-nb.info/gnd/2028047-6",48.14161,11.58107,"München",6559171,48.13452,11.571,"Germany","city","https://www.historischekommission-muenchen.de/startseite.html"
+"Bayerisches Hauptstaatsarchiv","http://d-nb.info/gnd/2005486-5 ",48.14617,11.58079,"München",6559171,48.13452,11.571,"Germany","city","https://www.gda.bayern.de/archive/hauptstaatsarchiv/"
+"Akademie der Wissenschaften und der Literatur Mainz","http://d-nb.info/gnd/16325235-X",49.9945,8.2672,"Mainz",8128529,49.98625,8.26447,"Germany","city","http://www.adwmainz.de/startseite.html"
+"Goethe Universität Frankfurt am Main","http://d-nb.info/gnd/35074-6",50.120557,8.653013,"Bockenheim",2947354,50.12498,8.64538,"Germany","city","http://www.goethe-university-frankfurt.de/en?locale=en"
+"Universität Freiburg","http://d-nb.info/gnd/2038600-X",47.994875,7.846739,"Freiburg",2925177,47.9959,7.85222,"Germany","city","https://www.uni-freiburg.de"
+"Ludwig-Maximilians-Universität München","http://d-nb.info/gnd/2002585-3",48.150857,11.581044,"Maxvorstadt",6940468,48.14702,11.56903,"Germany","city","https://www.en.uni-muenchen.de/index.html"
+"SUB Göttingen","http://d-nb.info/gnd/2020450-4",51.533836,9.932205,"Göttingen",2918632,51.53443,9.93228,"Germany","city","https://www.sub.uni-goettingen.de/sub-aktuell/"
+"Bildarchiv Foto Marburg","http://d-nb.info/gnd/4655897-4",50.809739,8.774703,"Marburg",2873759,50.80904,8.77069,"Germany","city","http://www.fotomarburg.de"
+"Städel Museum","http://d-nb.info/gnd/5313082-0",50.103094,8.674058,"Frankfurt am Main",2925533,50.110924,8.682127,"Germany","city","http://www.staedelmuseum.de/en"
+"Historisches Museum Frankfurt am Main","http://d-nb.info/gnd/2012173-8",50.109285,8.682487,"Frankfurt am Main",2925533,50.110924,8.682127,"Germany","city","https://historisches-museum-frankfurt.de"
+"Max Planck Institute for the History of Science","http://d-nb.info/gnd/2143056-1",52.445403,13.277609,"Berlin",2950159,52.52437,13.41053,"Germany","city","https://www.mpiwg-berlin.mpg.de"
+"Cologne Center for eHumanities","http://d-nb.info/gnd/111645341X",50.926364,6.929763,"Cologne",2886242,50.93333,6.95,"Germany","city","http://cceh.uni-koeln.de"
+"University of Paderborn","http://d-nb.info/gnd/64857-7",51.708209,8.771941,"Paderborn",2855745,51.71905,8.75439,"Germany","city","https://www.uni-paderborn.de/en/university/"
+"Staatsbibliothek Berlin Preußischer Kulturbesitz","http://d-nb.info/gnd/5036103-X",52.517518,13.390997,"Berlin",2950159,52.52437,13.41053,"Germany","city","http://staatsbibliothek-berlin.de/en/"
+"Geheimes Staatsarchiv Preußischer Kulturbesitz","http://d-nb.info/gnd/2122805-X",52.46128,13.292625,"Berlin",2950159,52.52437,13.41053,"Germany","city","http://www.gsta.spk-berlin.de/"
+"Humboldt-Universität zu Berlin","http://d-nb.info/gnd/1220138-8",52.517889,13.393661,"Berlin",2950159,52.52437,13.41053,"Germany","city","https://www.hu-berlin.de/en/"
+"Berlin City Museum Foundation","http://d-nb.info/gnd/2151979-1",52.516164,13.406982,"Berlin",2950159,52.52437,13.41053,"Germany","city","https://www.stadtmuseum.de/"
+"Klassik Stiftung Weimar","http://d-nb.info/gnd/6045529-9",50.980289,11.332184,"Weimar",2812482,50.9803,11.32903,"Germany","city","https://www.klassik-stiftung.de/start/"
+"Thüringer Universitäts- und Landesbibliothek","http://d-nb.info/gnd/5053491-9",50.930577,11.587758,"Jena",2895044,50.92878,11.5899,"Germany","city","http://www.thulb.uni-jena.de"
+"Landesarchiv Thüringen - Staatsarchiv Greiz","http://d-nb.info/gnd/1119456932",50.660061,12.196998,"Greiz",6551044,50.6577,12.19047,"Germany","city","http://www.thueringen.de/th1/tsk/kultur/staatsarchive/standorte/greiz/index.aspx"
+"Friedrich-Schiller-Universität Jena","http://d-nb.info/gnd/36164-1",50.929545,11.589813,"Jena",2895044,50.92878,11.5899,"Germany","city","https://www.uni-jena.de"
+"Monumenta Germaniae Historica","http://d-nb.info/gnd/2043215-X",48.148141,11.580466,"München",6559171,48.13452,11.571,"Germany","city","http://www.mgh.de"
+"Beethoven-Haus Bonn","http://d-nb.info/gnd/2085343-9",50.736873,7.101201,"Bonn",2946447,50.73438,7.09549,"Germany","city","https://www.beethoven.de/home"
+"Detmold Hochschule für Musik","http://d-nb.info/gnd/5073685-1",51.930908,8.876223,"Detmold",2937936,51.93855,8.87318,"Germany","city","http://www.hfm-detmold.de/"
+"Oberlausitzische Bibliothek der Wissenschaften Görlitz","http://d-nb.info/gnd/5049269-X",51.155918,14.992386,"Görlitz",2918987,51.15518,14.98853,"Germany","city","https://www.goerlitzer-sammlungen.de/"
+"St. Nikolaus-Hospital Cusanusstift","http://d-nb.info/gnd/2021192-2",49.916023,7.071228,"Bernkastel-Kues",2949998,49.91602,7.07664,"Germany","city","http://www.cusanus.de/"
+"Dioezesanarchiv Eichstaett","http://d-nb.info/gnd/1056576-0",48.891373,11.185397,"Eichstätt",2932069,48.88854,11.19675,"Germany","city","http://www.bistum-eichstaett.de/dioezesanarchiv/"
+"Universitätsbibliothek Frankfurt am Main","http://d-nb.info/gnd/10096915-X",50.120632,8.653032,"Frankfurt am Main",2925533,50.110924,8.682127,"Germany","city","http://www.ub.uni-frankfurt.de/zentrale/"
+"Schopenhauer-Gesellschaft e. V.","http://d-nb.info/gnd/16299353-5",50.120426,8.653333,"Frankfurt am Main",2925533,50.110924,8.682127,"Germany","city","http://schopenhauer.de/"
+"Staatsarchiv Würzburg","http://d-nb.info/gnd/2005359-9",49.790912,9.934357,"Würzburg",2805615,49.79391,9.95121,"Germany","city","http://sgv.bistum-wuerzburg.de/"
+"Deutsches Literaturarchiv Marbach","http://d-nb.info/gnd/10155895-8",48.936284,9.255889,"Marbach",2873784,50.81576,8.74624,"Germany","city","http://www.dla-marbach.de/"
+"Germanistisches Seminar Universität Heidelberg","http://d-nb.info/gnd/5108581-1",49.412654,8.712931,"Heidelberg",2907911,49.40768,8.69079,"Germany","city","https://www.gs.uni-heidelberg.de/"
+"Theodor Springmann Stiftung","http://d-nb.info/gnd/10077394-1",49.41643,8.716131,"Heidelberg",2907911,49.40768,8.69079,"Germany","city","https://www.stiftungen.org/de/unsere-demokratie/demokratie-stifter/detail/organization/theodor-springmann-stiftung.html"
+"Institut für Geschichte der Medizin der Robert Bosch Stiftung","http://d-nb.info/gnd/2076433-9",48.7776,9.20036,"Stuttgart",2825297,48.78232,9.17702,"Germany","city","https://www.igm-bosch.de/home.html"
+"Archaeological Museum of Thessaloniki","http://d-nb.info/gnd/1084729-7",40.625243,22.953826,"Thessaloniki",734077,40.64361,22.93086,"Greece","city","https://www.amth.gr/en"
+"Aristotle University of Thessaloniki","http://d-nb.info/gnd/37764-8",40.630841,22.959209,"Thessaloniki",734077,40.64361,22.93086,"Greece","city","https://www.auth.gr/en"
+"Heraklion Archaeological Museum","http://d-nb.info/gnd/2068055-7",35.338818,25.137012,"Heraklion",261745,35.32787,25.14341,"Greece","city","http://heraklionmuseum.gr/"
+"Archaeological Museum of Chania",,35.515491,24.017716,"Chania",260114,35.51124,24.02921,"Greece","city","http://chaniamuseum.culture.gr/"
+"National Archaeological Museum of Athens",,37.989031,23.732761,"Athens",264371,37.97945,23.71622,"Greece","city","http://www.namuseum.gr/"
+"Archaeological Museum of Thebes","http://d-nb.info/gnd/4224921-1",38.323799,23.317204,"Thebes",252910,38.325,23.31889,"Greece","city","https://www.mthv.gr/"
+"Archaeological Museum of Nafplio",,37.566116,22.796278,"Nafplio",256637,37.56863,22.80691,"Greece","city","http://www.nafplio.gr/moyseiamenu/arxaiologikommenu.html"
+"Archaeological Site of Tiryns",,37.599714,22.79962,"Tiryns",252849,37.5972,22.80011,"Greece","city","https://www.gtp.gr/TDirectoryDetails.asp?ID=15304"
+"National and University Library of Iceland","http://d-nb.info/gnd/5246547-0",64.142973,-21.950709,"Reykjavík",3413829,64.13548,-21.89541,"Iceland","city","https://landsbokasafn.is/index.php/english"
+"Indian Ministry of Culture",,28.6162,77.2158,"New Delhi",1273294,28.65195,77.23149,"India","city","http://www.indiaculture.nic.in"
+"Maynooth University","http://d-nb.info/gnd/16033067-1",53.383885,-6.600075,"Maynooth",2962668,53.385,-6.59361,"Ireland","city","https://www.maynoothuniversity.ie"
+"University College Dublin","http://d-nb.info/gnd/5283001-9",53.307297,-6.21907,"Dublin",2964574,53.33306,-6.24889,"Ireland","city","http://www.ucd.ie"
+"Trinity College Dublin","http://d-nb.info/gnd/1010756-3",53.34381,-6.254567,"Dublin",2964574,53.33306,-6.24889,"Ireland","city","http://www.tcd.ie/"
+"Royal Irish Academy","http://d-nb.info/gnd/37842-2",53.340705,-6.258219,"Dublin",2964574,53.33306,-6.24889,"Ireland","city","https://www.ria.ie/"
+"National University of Ireland","http://d-nb.info/gnd/260703-7",53.338538,-6.247104,"Dublin",2964574,53.33306,-6.24889,"Ireland","city","http://www.nui.ie"
+"University College Cork","http://d-nb.info/gnd/260719-0",51.892008,-8.493452,"Cork",2965140,51.89797,-8.47061,"Ireland","city","https://www.ucc.ie/en/"
+"Irish Centre for High End Computing","http://d-nb.info/gnd/16336322-5",53.341879,-6.239255,"Dublin",2964574,53.33306,-6.24889,"Ireland","city","https://www.ichec.ie"
+"The Israel Museum",,31.772123,35.204083,"Jerusalem",281184,31.76904,35.21633,"Israel","city","http://www.imj.org.il/en"
+"Archivio Capitolare della Diocesi di Luni",,44.112912,9.963057,"Sarzana",3167104,44.11178,9.9622,"Italy","city","http://www.niccolov.it/biblioteca-"
+"Università degli Studi di Torino","http://d-nb.info/gnd/262196-4",45.069437,7.688894,"Turin",3165524,45.07049,7.68682,"Italy","city","https://www.unito.it"
+"Università degli Studi di Genova","http://d-nb.info/gnd/16007089-2",44.414918,8.926728,"Genova",3176219,44.40478,8.94439,"Italy","city","https://unige.it"
+"Università degli Studi di Siena ad Arezzo",,43.4623,11.8734,"Arezzo",3182884,43.46276,11.88068,"Italy","city","https://www.unisi.it/altre-strutture/arezzo"
+"Università degli Studi di Roma La Sapienza","http://d-nb.info/gnd/5049421-1",41.9004,12.5125,"Roma",3169070,41.89193,12.51133,"Italy","city","http://www.uniroma1.it"
+"Università degli Studi di Pavia","http://d-nb.info/gnd/40464-0",45.1979,9.1728,"Pavia",3171366,45.19205,9.15917,"Italy","city","http://www.unipv.eu/site/home.html"
+"Università degli Studi di Bergamo","http://d-nb.info/gnd/1057906557",45.704445,9.660292,"Bergamo",3182164,45.69601,9.66721,"Italy","city","https://www.unibg.it"
+"Università degli Studi di Bologna","http://d-nb.info/gnd/112454-7",44.496899,11.351758,"Bologna",3181928,44.49381,11.33875,"Italy","city","http://www.unibo.it/en/homepage"
+"Biblioteca Comunale dell'Archiginnasio di Bologna","http://d-nb.info/gnd/41595-9",44.491984,11.343419,"Bologna",3181928,44.49381,11.33875,"Italy","city","http://www.archiginnasio.it/"
+"Università di Pisa","http://d-nb.info/gnd/5007653-X",43.716729,10.398863,"Pisa",3170647,43.70853,10.4036,"Italy","city","https://www.unipi.it"
+"Società Dantesca Italiana","http://d-nb.info/gnd/1018004-7",43.7714,11.2551,"Firenze",3176959,43.77925,11.24626,"Italy","city","http://dantesca.org/cms/"
+"Fondazione Niccolò Canussio","http://d-nb.info/gnd/5526415-3",46.0957,13.4291,"Cividale del Friuli",3178605,46.09019,13.42861,"Italy","city","http://www.fondazionecanussio.org"
+"British School at Rome","http://d-nb.info/gnd/1009986-4",41.918599,12.481349,"Pinciano",7521561,41.91151,12.47935,"Italy","city","http://www.bsr.ac.uk"
+"Archivio di Stato di Prato","http://d-nb.info/gnd/10173239-9",43.88017,11.09544,"Prato",3169921,43.8805,11.09699,"Italy","city","http://www.archiviodistato.prato.it"
+"European University Institute","http://d-nb.info/gnd/1228587-0",43.803081,11.282946,"Ponte alla Badia",8956573,43.8039,11.2797,"Italy","city","https://www.eui.eu"
+"Scuola Normale Superiore di Pisa","http://d-nb.info/gnd/1086257758",43.719591,10.400328,"Pisa",3170647,43.70853,10.4036,"Italy","city","https://en.sns.it"
+"Èulogos S.p.A.",,41.933631,12.537019,"Monte Sacro",3169706,41.93333,12.53333,"Italy","city","http://www.eulogos.net"
+"Istituto di Linguistica Computazionale (ILC)","http://d-nb.info/gnd/108593411X",43.719255,10.423982,"Pisa",3170647,43.70853,10.4036,"Italy","city","http://www.ilc.cnr.it"
+"Archivio Storico della Pontificia Università Gregoriana",,41.899002,12.484645,"Pigna",6545151,41.89635,12.48463,"Italy","city","https://www.unigre.it/Archivio/archivio_it.php"
+"Istituto di Informatica e Telematica (IIT)",,43.71925,10.423993,"Pisa",3170647,43.70853,10.4036,"Italy","city","http://www.iit.cnr.it"
+"Istituto di Teoria e Tecniche dell’Informazione Giuridica (ITTIG-CNR)","http://d-nb.info/gnd/10162236-3",43.79176,11.228091,"Firenze",3176959,43.77925,11.24626,"Italy","city","http://www.ittig.cnr.it"
+"Kunsthistorisches Institut in Florenz - Max-Planck-Institut","http://d-nb.info/gnd/2016695-3",43.777317,11.263905,"Firenze",3176959,43.77925,11.24626,"Italy","city","https://www.khi.fi.it/Startseite"
+"Casa Editrice Leo S. Olschki","http://d-nb.info/gnd/4240918-4",43.757048,11.304235,"Firenze",3176959,43.77925,11.24626,"Italy","city","https://www.olschki.it"
+"Biblioteca Nazionale Centrale di Firenze","http://d-nb.info/gnd/1003299-X",43.767122,11.262353,"Firenze",3176959,43.77925,11.24626,"Italy","city","http://www.bncf.firenze.sbn.it/"
+"Biblioteca Medicea Laurenziana","http://d-nb.info/gnd/1019149-5",43.774359,11.254045,"Firenze",3176959,43.77925,11.24626,"Italy","city","https://www.bmlonline.it/"
+"Università degli Studi di Palermo","http://d-nb.info/gnd/36305-4",38.11779,13.369839,"Palermo",2523920,38.13205,13.33561,"Italy","city","http://www.unipa.it"
+"Archivio Storico Comunale di Vercelli","http://d-nb.info/gnd/5309239-9",45.32291,8.421382,"Vercelli",3164565,45.32163,8.41989,"Italy","city","http://www.asvercelli.beniculturali.it/"
+"Archivio Capitolare di Vercelli","http://d-nb.info/gnd/5309278-8",45.329724,8.423083,"Vercelli",3164565,45.32163,8.41989,"Italy","city","http://tesorodelduomovc.it/"
+"Biblioteca Casanatense","http://d-nb.info/gnd/1023158-4",41.898828,12.479341,"Roma",3169070,41.89193,12.51133,"Italy","city","http://www.casanatense.it/it/"
+"Università di Macerata","http://d-nb.info/gnd/1025471-7",43.2992,13.449858,"Macerata",3174380,43.29789,13.45293,"Italy","city","https://www.unimc.it/en"
+"Biblioteca Apostolica Vaticana","http://d-nb.info/gnd/1003302-6",41.903898,12.450101,"Città del Vaticano",6691831,41.90268,12.45414,"Stato della Città del Vaticano","city","https://www.vatlib.it/"
+"Koninklijke Nederlandse Akademie Van Wetenschappen","https://d-nb.info/gnd/37531-7 ",52.3715388210675,4.89944081912825,"Amsterdam",2759794,52.37403,4.88969,"Netherlands","city","https://www.knaw.nl/nl"
+"University of Utrecht","http://d-nb.info/gnd/5570633-2",52.090151,5.122598,"Utrecht",2745912,52.09083,5.12222,"Netherlands","city","https://www.uu.nl/en"
+"Nationaal Archief","http://d-nb.info/gnd/10041732-2",52.080727,4.326424,"Den Haag",2747373,52.07667,4.29861,"Netherlands","city","http://www.nationaalarchief.nl"
+"Huygens ING","http://d-nb.info/gnd/16344478-X",52.081982,4.326968,"Amsterdam",2759794,52.37403,4.88969,"Netherlands","city","https://www.huygens.knaw.nl/?lang=en"
+"Leiden University Library","http://d-nb.info/gnd/1010700-9",52.157326,4.481431,"Leiden",2751773,52.15833,4.49306,"Netherlands","city","https://www.bibliotheek.universiteitleiden.nl/"
+"University of Wellington","http://d-nb.info/gnd/5045706-8",-41.28923,174.7677,"Kelburn",2188922,-41.28333,174.76667,"New Zealand","city","https://www.victoria.ac.nz"
+"University of Oslo","http://d-nb.info/gnd/1013645-9",59.9405,10.7209,"Blindern",3160966,59.93743,10.71819,"Norway","city","http://www.uio.no/english/"
+"National Library of Norway","http://d-nb.info/gnd/2165809-2",59.9148,10.7174,"Frogner",6940545,59.91924,10.70892,"Norway","city","http://www.nb.no/English"
+"Hebrew University of Jerusalem","http://d-nb.info/gnd/2023678-5",31.794558,35.241395,"Nayot",9204036,31.79589,35.24517,"Palestine","city","http://new.huji.ac.il/en"
+"University of Warsaw",,52.240339,21.018698,"Powiśle",761340,52.23834,21.02839,"Poland","city","http://en.uw.edu.pl"
+"Archiwum Archidiecezji Warmińskiej",,53.77798,20.487141,"Olsztyn",763166,53.77995,20.49416,"Poland","city","http://archwarmia.pl/instytucje/archiwum-archidiecezji-warminskiej/"
+"Muzeum Narodowe w Krakowie","http://d-nb.info/gnd/1021512-8",50.060494,19.923743,"Kraków",3094802,50.06143,19.93658,"Poland","city","http://mnk.pl/"
+"Biblioteka Czartoryskich","http://d-nb.info/gnd/2069205-5",50.063863,19.939637,"Kraków",3094802,50.06143,19.93658,"Poland","city","http://www.muzeum-czartoryskich.krakow.pl/"
+"Staatsarchive Łódź",,51.776188,19.454555,"Łódź",3093133,51.75,19.46667,"Poland","city","http://www.lodz.ap.gov.pl/"
+"Narodowy Instytut Fryderyka Chopina","http://d-nb.info/gnd/6123664-0",52.236427,21.022191,"Powiśle",761340,52.23834,21.02839,"Poland","city","http://en.chopin.nifc.pl/institute/"
+"University of Wrocław",,51.114011,17.034477,"Stare Miasto",8425992,51.11034,17.03714,"Poland","city","https://international.uni.wroc.pl/en/s3.php"
+"National Library in Warsaw",,52.213661,21.003452,"Filtry",8425839,52.21878,20.99655,"Poland","city","http://bn.org.pl/en/"
+"Universidade de Lisboa","http://d-nb.info/gnd/13666-9",38.752662,-9.158259,"Lisbon",2267057,38.71667,-9.13333,"Portugal","city","http://www.letras.ulisboa.pt/pt/"
+"National Library of Russia","http://d-nb.info/gnd/3020410-0",59.933558,30.335748,"Saint Petersburg",498817,59.93863,30.31413,"Russia","city","http://www.nlr.ru/eng/"
+"Russian Academy of Sciences","http://d-nb.info/gnd/5052646-7",55.71079,37.577826,"Novyye Cherëmushki",517161,55.7,37.58333,"Russia","city","http://www.ras.ru/en/index.aspx"
+"The State Hermitage","http://d-nb.info/gnd/1027089429",59.939832,30.314562,"Saint Petersburg",498817,59.93863,30.31413,"Russia","city","https://www.hermitagemuseum.org/wps/portal/hermitage/?lng=en"
+"National and University Library of Slovenia","http://d-nb.info/gnd/2019981-8",46.04752,14.503966,"Ljubljana",3196359,46.05108,14.50513,"Slovenia","city","http://www.nuk.uni-lj.si"
+"Universidad del País Vasco","http://d-nb.info/gnd/2138252-9",43.331825,-2.97303,"Santsoena",3110032,43.33398,-2.97409,"Spain","city","http://www.ehu.eus/en/en-home"
+"University of Alcalá","http://d-nb.info/gnd/5113155-9",40.482472,-3.362865,"Alcalá de Henares",3130616,40.48205,-3.35996,"Spain","city","https://www.uah.es/en/"
+"Universitat de Barcelona","http://d-nb.info/gnd/42050-5",41.3872,2.1637,"Eixample",6544100,41.38896,2.16179,"Spain","city","http://www.ub.edu/web/ub/en/"
+"Biblioteca Nacional de España","http://d-nb.info/gnd/1027025-5",40.42394,-3.6902,"Madrid",3117735,40.4165,-3.70256,"Spain","city","http://www.bne.es/es/Inicio/index.html"
+"Real Biblioteca del Palacio Real de Madrid","http://d-nb.info/gnd/3003281-7",40.417962,-3.7143,"Madrid",3117735,40.4165,-3.70256,"Spain","city","http://www.realbiblioteca.es"
+"Real Colegio de San Jorge Mártir de Irlandeses de la Universidad de Alcalá","http://d-nb.info/gnd/4533602-7",40.481072,-3.366458,"Alcalá de Henares",3130616,40.48205,-3.35996,"Spain","city",
+"University of Salamanca","http://d-nb.info/gnd/1010555-4",40.961332,-5.66693,"Salamanca",3111108,40.96882,-5.66388,"Spain","city","http://www.usal.es/"
+"Universidade de Santiago de Compostela","http://d-nb.info/gnd/1016480-7",42.888525,-8.544972,"Santiago de Compostela",3109642,42.88052,-8.54569,"Spain","city","http://www.usc.es/"
+"Archivo Histórico Nacional","http://d-nb.info/gnd/4289371-9",40.440719,-3.687042,"Madrid",3117735,40.4165,-3.70256,"Spain","city","http://www.mecd.gob.es/cultura-mecd/areas-cultura/archivos/portada.html;jsessionid=15BDD0D663682DB6E2587ED5DB17F975"
+"Newman Institute Uppsala","https://d-nb.info/gnd/16075017-9 ",59.8561885634586,17.6379696234583,"Uppsala",2666199,59.85882,17.63889,"Sweden","city","https://newman.se/"
+"University of Zürich","http://d-nb.info/gnd/6109294-0",47.3749,8.5489,"Zürich",6295483,47.37161,8.54501,"Switzerland","city","http://www.uzh.ch/en.html"
+"ETH Zürich",,47.3764059647837,8.54742156260337,"Zürich",6295483,47.37161,8.54501,"Switzerland","city","https://ethz.ch/en.html"
+"Università della Svizzera Italiana","https://d-nb.info/gnd/2178299-4 ",46.0107112854388,8.95815763618789,"Lugano",2659836,46.01008,8.96004,"Switzerland","city",
+"University of Fribourg","http://d-nb.info/gnd/1068116757",46.806253,7.151837,"Fribourg",2660718,46.80237,7.15128,"Switzerland","city","https://www3.unifr.ch/home/en/"
+"University of Bern","http://d-nb.info/gnd/2023768-6",46.9547,7.4305,"Bern",2660903,46.9601,7.43843,"Switzerland","city","http://www.unibe.ch/index_eng.html"
+"Burgerbibliothek Bern","http://d-nb.info/gnd/2006797-5",46.947373,7.448343,"Bern",2660903,46.9601,7.43843,"Switzerland","city","https://www.burgerbib.ch/en"
+"Walter Benjamin Kolleg der Universität Bern",,46.9544641437838,7.42983834216048,"Bern",2660903,46.9601,7.43843,"Switzerland","city","http://www.wbkolleg.unibe.ch/"
+"University of Basel","http://d-nb.info/gnd/36146-X",47.5589,7.5835,"Grossbasel",7645785,47.55602,7.58906,"Switzerland","city","https://www.unibas.ch/en.html"
+"Swiss Lawyers Society",,46.948063,7.447138,"Bern",2661552,46.94809,7.44744,"Switzerland","city","https://www.ssrq-sds-fds.ch/typo3/index.php?id=2&L=3"
+"Stiftsbibliothek St. Gallen","http://d-nb.info/gnd/2089619-0",47.423144,9.376729,"St. Gallen",2658822,47.42391,9.37477,"Switzerland","city","http://www.stibi.ch"
+"Abbey of Saint Gall",,47.42354,9.377652,"St. Gallen",2658822,47.42391,9.37477,"Switzerland","city","http://www.bistum-stgallen.ch/"
+"SIB Swiss Institute of Bioinformatics","http://d-nb.info/gnd/1086795962",46.519648,6.574022,"Lausanne",2659994,46.516,6.63282,"Switzerland","city","http://www.sib.swiss"
+"School of Advanced Study",,51.5212077581414,-0.128692377323318,"London",2643743,51.50853,-0.12574,"United Kingdom","city",
+"Old Bailey Criminal Court","http://d-nb.info/gnd/4695256-1",51.515767,-0.101799,"London",2643743,51.50853,-0.12574,"United Kingdom","city","https://courttribunalfinder.service.gov.uk/courts/central-criminal-court"
+"Kent History and Library Centre",,51.280154,0.517976,"Maidstone",2643179,51.26667,0.51667,"United Kingdom","city","http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=274&uprn=010014309203"
+"Lambeth Palace Library","http://d-nb.info/gnd/16441-0",51.495736,-0.120314,"London",2643743,51.50853,-0.12574,"United Kingdom","city","http://www.lambethpalacelibrary.org/"
+"National Museum of the Royal Navy","http://d-nb.info/gnd/1231310-5",50.800598,-1.109769,"Portsmouth",2639996,50.79899,-1.09125,"United Kingdom","city","https://www.nmrn.org.uk"
+"Royal Geographical Society","http://d-nb.info/gnd/1009629-2",51.501549,-0.174978,"London",2643743,51.50853,-0.12574,"United Kingdom","city","http://www.rgs.org/HomePage.htm"
+"Royal Society","http://d-nb.info/gnd/5164604-3",51.50595,-0.13232,"London",2643743,51.50853,-0.12574,"United Kingdom","city","https://royalsociety.org"
+"Wellcome Library","http://d-nb.info/gnd/1004208-8",51.525847,-0.133812,"London",2643743,51.50853,-0.12574,"United Kingdom","city","https://wellcomelibrary.org"
+"Royal Botanical Gardens Kew","http://d-nb.info/gnd/1018641-4",51.478744,-0.295573,"London",2643743,51.50853,-0.12574,"United Kingdom","city","https://www.kew.org"
+"Royal Society of Arts Library",,51.509387,-0.122736,"London",2643743,51.50853,-0.12574,"United Kingdom","city","https://www.thersa.org"
+"School of Oriental and African Studies (SOAS) Library at University of London","http://d-nb.info/gnd/115170-8",51.522346,-0.129272,"London",2643743,51.50853,-0.12574,"United Kingdom","city","https://www.soas.ac.uk/library/"
+"Royal College of Physicians and Surgeons of Glasgow","http://d-nb.info/gnd/1018749-2",55.862413,-4.263449,"Glasgow",2648579,55.86515,-4.25763,"United Kingdom","city","https://rcpsg.ac.uk"
+"Mitchell Library","http://d-nb.info/gnd/600477-5",55.865055,-4.272154,"Glasgow",2648579,55.86515,-4.25763,"United Kingdom","city","http://www.glasgowlife.org.uk/libraries/the-mitchell-library/pages/home.aspx"
+"David Livingstone Centre",,55.801817,-4.083357,"Glasgow",2648579,55.86515,-4.25763,"United Kingdom","city","https://www.david-livingstone-trust.org"
+"Estate of Samuel Beckett",,51.509627,-0.132562,"London",2643743,51.50853,-0.12574,"United Kingdom","city",
+"Ashmolean Museum","http://d-nb.info/gnd/1007560-4",51.755419,-1.260081,"Oxford",2640729,51.75222,-1.25596,"United Kingdom","city","https://www.ashmolean.org/"
+"Centre for the Study of Ancient Documents",,51.755909,-1.260053,"Oxford",2640729,51.75222,-1.25596,"United Kingdom","city","http://www.classics.ox.ac.uk/"
+"University of Swansea","http://d-nb.info/gnd/7588199-8",51.608696,-3.979953,"Swansea",2636432,51.62079,-3.94323,"United Kingdom","city","http://www.swansea.ac.uk"
+"University of Sussex","http://d-nb.info/gnd/1025891-7",50.8683,-0.0874,"Brighton",2654710,50.82838,-0.13947,"United Kingdom","city","http://www.sussex.ac.uk"
+"National Library of Wales","http://d-nb.info/gnd/4221901-2",52.414549,-4.068474,"Aberystwyth",2657782,52.41548,-4.08292,"United Kingdom","city","https://www.llgc.org.uk/"
+"University of Southampton","http://d-nb.info/gnd/5045962-4",50.9375,-1.3969,"Southampton",2637487,50.90395,-1.40428,"United Kingdom","city","https://www.southampton.ac.uk"
+"University of Manchester","http://d-nb.info/gnd/6036820-2",53.466833,-2.233865,"Manchester",2643123,53.48095,-2.23743,"United Kingdom","city","http://www.manchester.ac.uk"
+"John Rylands University Library","http://d-nb.info/gnd/1026705-0",53.464451,-2.235346,"Manchester",2643123,53.48095,-2.23743,"United Kingdom","city","http://www.library.manchester.ac.uk/rylands/"
+"University of Sheffield","http://d-nb.info/gnd/9595-3",53.3807,-1.4829,"Sheffield",2638077,53.38297,-1.4659,"United Kingdom","city","https://www.sheffield.ac.uk"
+"University of Reading","http://d-nb.info/gnd/261796-1",51.441413,-0.941833,"Reading",2639577,51.45625,-0.97113,"United Kingdom","city","http://www.reading.ac.uk"
+"University of Oxford","http://d-nb.info/gnd/38352-1",51.7589,-1.2543,"Oxford",2640729,51.75222,-1.25596,"United Kingdom","city","http://www.ox.ac.uk"
+"University of Nottingham","http://d-nb.info/gnd/1030181-1",52.938634,-1.195158,"Nottingham",2641170,52.9536,-1.15047,"United Kingdom","city","http://www.nottingham.ac.uk"
+"University of Liverpool","http://d-nb.info/gnd/261911-8",53.405926,-2.965583,"Liverpool",2644210,53.41058,-2.97794,"United Kingdom","city","https://www.liverpool.ac.uk"
+"University of Leicester","http://d-nb.info/gnd/10119891-7",52.6274,-1.1223,"Leicester",2644668,52.6386,-1.13169,"United Kingdom","city","https://le.ac.uk"
+"University of Hull","http://d-nb.info/gnd/1055477-4",53.7718,-0.3673,"Hull",2645425,53.7446,-0.33525,"United Kingdom","city","http://www.hull.ac.uk/clearing.aspx"
+"University of Exeter","http://d-nb.info/gnd/1014152-2",50.737151,-3.535214,"Exeter",2649808,50.7236,-3.52751,"United Kingdom","city","http://www.exeter.ac.uk"
+"University of Edinburgh","http://d-nb.info/gnd/5324753-X",55.944503,-3.189271,"Edinburgh",2650225,55.95206,-3.19648,"United Kingdom","city","http://www.ed.ac.uk"
+"Edinburgh Napier University","http://d-nb.info/gnd/5111584-0",55.918022,-3.239665,"Edinburgh",2650225,55.95206,-3.19648,"United Kingdom","city","http://www.napier.ac.uk"
+"University of Durham","http://d-nb.info/gnd/261225-2",54.764995,-1.578203,"Durham",2650628,54.77676,-1.57566,"United Kingdom","city","https://www.dur.ac.uk"
+"Durham Cathedral Priory","http://d-nb.info/gnd/7520015-6",54.77325,-1.576386,"Durham",2650628,54.77676,-1.57566,"United Kingdom","city","https://www.durhamcathedral.co.uk/"
+"University of Cambridge","http://d-nb.info/gnd/260720-7",52.204249,0.114886,"Cambridge",2653941,52.2,0.11667,"United Kingdom","city","https://www.cam.ac.uk"
+"Cambridge University Library","http://d-nb.info/gnd/1010752-6",52.205104,0.10776,"Cambridge",2653941,52.2,0.11667,"United Kingdom","city","http://www.lib.cam.ac.uk/"
+"Parker Library Corpus Christi College Cambridge","http://d-nb.info/gnd/5103164-4",52.203013,0.118729,"Cambridge",2653941,52.2,0.11667,"United Kingdom","city","https://www.corpus.cam.ac.uk/"
+"Pepys Library","http://d-nb.info/gnd/671333-6",52.210743,0.116889,"Cambridge",2653941,52.2,0.11667,"United Kingdom","city","https://www.magd.cam.ac.uk/"
+"University of Birmingham","http://d-nb.info/gnd/40138-9",52.4511,-1.9305,"Birmingham",2655603,52.48142,1.89983,"United Kingdom","city","http://www.birmingham.ac.uk/index.aspx"
+"Birmingham Conservatoire of Birmingham City University","http://d-nb.info/gnd/1085722392",52.479281,-1.904862,"Birmingham",2655603,52.48142,1.89983,"United Kingdom","city","http://www.bcu.ac.uk/conservatoire"
+"University of Aberdeen","http://d-nb.info/gnd/262019-4",57.1683,-2.1061,"Aberdeen",2657832,57.14369,-2.09814,"United Kingdom","city","https://www.abdn.ac.uk"
+"Aberdeen University Library","http://d-nb.info/gnd/113996-4",57.165075,-2.106259,"Aberdeen",2657832,57.14369,-2.09814,"United Kingdom","city","https://www.abdn.ac.uk/library/using-libraries/the-sir-duncan-rice-library-123.php"
+"University College London","http://d-nb.info/gnd/62498-6",51.524124,-0.134133,"London",2643743,51.50853,-0.12574,"United Kingdom","city","https://www.ucl.ac.uk"
+"University College London Library","http://d-nb.info/gnd/62498-6",51.524713,-0.133502,"London",2643743,51.50853,-0.12574,"United Kingdom","city","http://www.ucl.ac.uk/library/special-collections"
+"Royal Holloway","http://d-nb.info/gnd/5127949-6",51.4263,-0.5631,"Egham",2650188,51.43158,-0.55239,"United Kingdom","city","https://www.royalholloway.ac.uk/home.aspx"
+"Regency Town House","http://d-nb.info/gnd/6525998-1",50.8253,-0.1594,"Hove",2646504,50.83088,-0.1672,"United Kingdom","city","http://rth.org.uk"
+"Queen Mary University","http://d-nb.info/gnd/6029847-9",51.5248,-0.0385,"London",2643743,51.50853,-0.12574,"United Kingdom","city","http://www.qmul.ac.uk"
+"National Library of Scotland","http://d-nb.info/gnd/1005767-5",55.9483,-3.1918,"Edinburgh",2650225,55.95206,-3.19648,"United Kingdom","city","https://www.nls.uk"
+"London Library","http://d-nb.info/gnd/35655-4",51.507331,-0.136694,"London",2643743,51.50853,-0.12574,"United Kingdom","city","https://www.londonlibrary.co.uk"
+"Leeds Metropolitan University","http://d-nb.info/gnd/16012590-X",55.94542,-3.19115,"Leeds",3333164,53.79644,-1.5477,"United Kingdom","city","http://www.leedsbeckett.ac.uk"
+"King's College London (Department of History)",,51.504866,-0.112719,"London",2643743,51.50853,-0.12574,"United Kingdom","city","https://www.kcl.ac.uk/artshums/depts/history/index.aspx"
+"King's College London (Department of Digital Humanities)","http://d-nb.info/gnd/16092907-6",51.51501,-0.12282,"London",2643743,51.50853,-0.12574,"United Kingdom","city","https://www.kcl.ac.uk/artshums/depts/ddh/index.aspx"
+"King’s College London (Department of Classics)",,51.512091,-0.116056,"London",2643743,51.50853,-0.12574,"United Kingdom","city","https://www.kcl.ac.uk/artshums/depts/classics/index.aspx"
+"King's College London","http://d-nb.info/gnd/42229-0",51.511485,-0.116016,"London",2643743,51.50853,-0.12574,"United Kingdom","city","https://www.kcl.ac.uk/index.aspx"
+"Keele University","http://d-nb.info/gnd/42232-0",53.003441,-2.272032,"Keele",2645897,53.00382,-2.28741,"United Kingdom","city","https://www.keele.ac.uk"
+"Cardiff University","http://d-nb.info/gnd/10050925-3",51.486629,-3.178873,"Cardiff",2653822,51.48,-3.18,"United Kingdom","city","https://www.cardiff.ac.uk"
+"British Library","http://d-nb.info/gnd/1005765-1",51.9975,-0.127697,"London",2643743,51.50853,-0.12574,"United Kingdom","city","https://www.bl.uk"
+"British Academy","http://d-nb.info/gnd/2006093-2",51.506626,-0.130627,"London",2643743,51.50853,-0.12574,"United Kingdom","city","http://www.britac.ac.uk"
+"Bodleian Library","http://d-nb.info/gnd/38352-1",51.7549,-1.2544,"Oxford",2640729,51.75222,-1.25596,"United Kingdom","city","http://www.bodleian.ox.ac.uk"
+"Birkbeck College","http://d-nb.info/gnd/1015698-7",51.521927,-0.130204,"London",2643743,51.50853,-0.12574,"United Kingdom","city","http://www.bbk.ac.uk"
+"Canterbury Christ Church University","http://d-nb.info/gnd/1073847195",51.277936,1.090671,"Canterbury",2653877,51.27904,1.07992,"United Kingdom","city","https://www.canterbury.ac.uk"
+"Hellenic Institute of Royal Holloway",,51.42524,-0.567398,"Egham",2650188,51.43158,-0.55239,"United Kingdom","city","http://hellenic-institute.rhul.ac.uk"
+"The British Museum","http://d-nb.info/gnd/38379-X",51.519421,-0.126956,"London",2643743,51.50853,-0.12574,"United Kingdom","city","http://www.britishmuseum.org/"
+"Waddesdon Manor","http://d-nb.info/gnd/16284518-2",51.842311,-0.937498,"Aylesbury",2656719,51.81665,-0.81458,"United Kingdom","city","https://waddesdon.org.uk/"
+"The National Archives","http://d-nb.info/gnd/10080917-0",51.481538,-0.280039,"Richmond",2639389,51.46171,-0.30633,"United Kingdom","city","http://www.nationalarchives.gov.uk/"
+"Hatfield House","http://d-nb.info/gnd/16319478-6",51.760799,-0.209179,"Hatfield",2647349,51.76338,-0.22419,"United Kingdom","city","http://www.hatfield-house.co.uk/"
+"Longleat House",,51.185767,-2.274421,"Warminster",2634755,51.20434,-2.17873,"United Kingdom","city","https://www.longleat.co.uk/longleat-house"
+"Magdalene College Old Library",,52.210726,0.116075,"Cambridge",2653941,52.2,0.11667,"United Kingdom","city","https://www.magd.cam.ac.uk/"
+"King's College Cambridge","http://d-nb.info/gnd/110193-6",52.204212,0.116474,"Cambridge",2653941,52.2,0.11667,"United Kingdom","city","http://www.kings.cam.ac.uk/"
+"Schomburg Center for Research in Black Culture","http://d-nb.info/gnd/4292608-7",40.814633,-73.940915,"New York City",5128581,40.71427,-74.00597,"United States","city","https://www.nypl.org/locations/schomburg"
+"University of Washington","http://d-nb.info/gnd/36224-4",47.6608,-122.3167,"Seattle",7153937,47.66028,-122.31167,"United States","city","http://www.washington.edu"
+"University of Virginia","http://d-nb.info/gnd/5145804-4",38.0369,-78.5028,"Charlottesville",4752031,38.02931,-78.47668,"United States","city","http://www.virginia.edu"
+"University of Pennsylvania","http://d-nb.info/gnd/1071874950",39.952218,-75.193209,"University City",4561871,39.95071,-75.19476,"United States","city","http://www.upenn.edu"
+"University of Oregon","http://d-nb.info/gnd/10140521-2",44.04483,-123.072606,"Eugene",5725846,44.05207,-123.08675,"United States","city","https://uoregon.edu"
+"University of North Carolina","http://d-nb.info/gnd/74337-9",35.904917,-79.046881,"Chapel Hill",4460162,35.9132,-79.05584,"United States","city","http://www.unc.edu"
+"University of Nebraska","http://d-nb.info/gnd/1034526-7",40.816929,-96.702476,"Lincoln",5072006,40.8,-96.66696,"United States","city","https://www.unl.edu"
+"University of Maryland","http://d-nb.info/gnd/1048209997",38.986931,-76.942555,"College Park",4351977,38.98067,-76.93692,"United States","city","https://www.umd.edu"
+"University of Kentucky","http://d-nb.info/gnd/1042848-3",38.0368,-84.5053,"Hollywood",4295089,38.02786,-84.49355,"United States","city","http://www.uky.edu/UKHome/"
+"University of Chicago Library","http://d-nb.info/gnd/64684-2",41.792179,-87.59993,"Chicago",4887398,41.85003,-87.65005,"United States","city","https://www.lib.uchicago.edu"
+"University of California Irvine","http://d-nb.info/gnd/26537-8",33.6506,-117.8425,"Irvine",5359777,33.66946,-117.82311,"United States","city","https://uci.edu"
+"University of California","http://d-nb.info/gnd/2025100-2",37.8773,-122.2451,"Southside",11126294,37.86747,-122.25281,"United States","city","https://www.universityofcalifornia.edu"
+"University of California Press","http://d-nb.info/gnd/5087401-9",37.949408,-122.367276,"Richmond",5387428,37.93576,-122.34775,"United States","city","http://www.ucpress.edu"
+"California Digital Library",,37.808471,-122.267483,"Oakland",5378538,37.80437,-122.2708,"United States","city","http://www.cdlib.org"
+"University of Delaware Library","http://d-nb.info/gnd/1218629-6",39.678132,-75.752913,"Newark",4143861,39.68372,-75.74966,"United States","city","https://library.udel.edu/"
+"Texas A&M University","http://d-nb.info/gnd/140763-6",30.613301,-96.339906,"Spear",4733497,30.60159,-96.33691,"United States","city","https://www.tamu.edu"
+"Southeastern Louisiana University","http://d-nb.info/gnd/10038746-9",30.51933,-90.469962,"Hammond",4326868,30.50463,-90.46293,"United States","city","https://www.southeastern.edu"
+"Society of Biblical Literature","http://d-nb.info/gnd/4181719-9",33.801862,-84.320123,"Turner Village",4227430,33.80094,-84.3277,"United States","city","https://www.sbl-site.org"
+"Rutgers University","http://d-nb.info/gnd/5281802-0",40.500886,-74.447373,"New Brunswick",5101717,40.48622,-74.45182,"United States","city","http://www.rutgers.edu"
+"Roy Rosenzweig Center for History and New Media (George Mason University)",,38.83323,-77.3082,"Green Acres",4762018,38.83983,-77.3036,"United States","city","https://rrchnm.org"
+"Princeton University","http://d-nb.info/gnd/1011480-4",40.343985,-74.651459,"Princeton",5102922,40.34872,-74.65905,"United States","city","https://www.princeton.edu"
+"Princeton University Library","http://d-nb.info/gnd/1011480-4",40.350503,-74.65703,"Princeton",5102922,40.34872,-74.65905,"United States","city","http://library.princeton.edu/lewis"
+"Northwestern University Library","http://d-nb.info/gnd/1044287-X",42.0537,-87.6733,"South Evanston",4911902,42.03725,-87.68061,"United States","city","http://www.library.northwestern.edu"
+"New York Public Library","http://d-nb.info/gnd/1024673-3",40.7538,-73.9817,"New York City",5128581,40.71427,-74.00597,"United States","city","https://www.nypl.org"
+"Maryland Institute of Technology in the Humanities (MITH)",,38.98597,-76.94505,"College Park",4351977,38.98067,-76.93692,"United States","city","http://mith.umd.edu"
+"Loyola University Chicago","http://d-nb.info/gnd/10072143-6",41.999803,-87.658218,"North Edgewater",4903885,41.99337,-87.66228,"United States","city","http://www.luc.edu"
+"Harry Ransom Humanities Research Center","http://d-nb.info/gnd/3018790-4",30.284362,-97.741263,"Austin",4671654,30.26715,-97.74306,"United States","city","http://www.hrc.utexas.edu"
+"Getty Research Institute","http://d-nb.info/gnd/10069245-X",34.076908,-118.475506,"Westgate Heights",5408363,34.0664,-118.47314,"United States","city","http://www.getty.edu/research/"
+"Folger Shakespeare Library","http://d-nb.info/gnd/16140610-5",38.889369,-77.002748,"Washington DC",4138106,38.91706,-77.00025,"United States","city","http://www.folger.edu"
+"Brown University","http://d-nb.info/gnd/221387-4",41.82639,-71.40021,"Providence",5224151,41.82399,-71.41283,"United States","city","https://www.brown.edu"
+"Brown University Library",,41.826973,-71.400167,"Providence",5224151,41.82399,-71.41283,"United States","city","https://library.brown.edu/"
+"Massachusetts Historical Society","http://d-nb.info/gnd/11279-3",42.346561,-71.089896,"Boston",4930956,42.35843,-71.05977,"United States","city","http://www.masshist.org/"
+"John Hay Library","http://d-nb.info/gnd/3020124-X",41.826461,-71.404972,"Providence",5224151,41.82399,-71.41283,"United States","city","https://library.brown.edu/hay/"
+"Bowling Green State University","http://d-nb.info/gnd/1010847-6",41.3771,-83.6266,"Bowling Green",5147968,41.37477,-83.65132,"United States","city","https://www.bgsu.edu"
+"Arizona State University","http://d-nb.info/gnd/1039847-8",33.6094,-112.1597,"Tempe",5317058,33.41477,-111.90931,"United States","city","https://www.asu.edu"
+"California Institute of Technology","http://d-nb.info/gnd/5084090-3",34.137657,-118.125291,"Oak Knoll",5378360,34.12445,-118.1359,"United States","city","http://www.caltech.edu"
+"University of Ohio",,39.324446,-82.101417,"Athens",4505542,39.32924,-82.10126,"United States","city","https://www.ohio.edu"
+"University of California Santa Barbara","http://d-nb.info/gnd/1055045-8",34.413936,-119.848979,"Santa Barbara",5392952,34.42083,-119.69819,"United States","city","https://www.ucsb.edu"
+"University of Michigan","http://d-nb.info/gnd/1011457-9",42.27804,-83.738239,"Ann Arbor",4984247,42.27756,-83.74088,"United States","city","http://www.umich.edu"
+"Intelex Corporation",,38.030571,-78.481133,"Charlottesville",4752031,38.02931,-78.47668,"United States","city","http://www.nlx.com/home"
+"University of Pittsburgh (Department of Slavic Languages and Literatures)","http://d-nb.info/gnd/1017785-1",40.444269,-79.953289,"Pittsburgh",5206379,40.44062,-79.99589,"United States","city","http://www.slavic.pitt.edu"
+"American Council of Learned Societies","http://d-nb.info/gnd/40535-8",40.749655,-73.974965,"Tudor City",6332416,40.74861,-73.97139,"United States","city","http://www.acls.org"
+"Institute for the Study of the Ancient World","http://d-nb.info/gnd/16064297-8",40.779927,-73.960265,"New York City",5128581,40.71427,-74.00597,"United States","city","http://isaw.nyu.edu"
+"Google","http://d-nb.info/gnd/10122609-3",37.41986,-122.078831,"Palo Alto",5380748,37.44188,-122.14302,"United States","city","https://www.google.com"
+"University of Michigan Press",,42.270756,-83.746844,"Ann Arbor",4984247,42.27756,-83.74088,"United States","city","https://www.press.umich.edu"
+"Center for Hellenic Studies","http://d-nb.info/gnd/1014955-7",38.917565,-77.062046,"Washington DC",4138106,38.91706,-77.00025,"United States","city","https://chs.harvard.edu"
+"Harvard University Archives","http://d-nb.info/gnd/4638718-3",42.376992,-71.116672,"Cambridge",4931972,42.3751,-71.10561,"United States","city","https://www.harvard.edu/"
+"Library of Congress",,38.888703,-77.004714,"Washington DC",4138106,38.91706,-77.00025,"United States","city","https://www.loc.gov/"
+"Rochester Institute of Technology","http://d-nb.info/gnd/5011237-5",43.086106,-77.670501,"Rochester",5134086,43.15478,-77.61556,"United States","city","http://www.rit.edu"
+"Indiana University of Pennsylvania","http://d-nb.info/gnd/1051854-X",40.614226,-79.161084,"Indiana",4921868,40.00032,-86.25027,"United States","city","https://www.iup.edu"
+"Ball State University","http://d-nb.info/gnd/1018621-9",40.206105,-85.406993,"Muncie",4924006,40.19338,-85.38636,"United States","city","http://cms.bsu.edu"
+"Brigham Young University","http://d-nb.info/gnd/35653-0",40.251872,-111.649377,"Provo",5780026,40.23384,-111.65853,"United States","city","https://home.byu.edu/home/"
+"Buffalo Bill Center of the West","http://d-nb.info/gnd/1047846179",44.525615,-109.073314,"Cody",1586861,44.523333,-109.057222,"United States","city","https://centerofthewest.org"
+"Dumbarton Oaks",,38.914149,-77.064011,"Washington DC",4138106,38.91706,-77.00025,"United States","city","http://www.doaks.org"
+"Huntingon Library, Art Collections, and Botanical Gardens",,34.129041,-118.114517,"San Marino",5392400,34.1214,-118.10646,"United States","city","http://www.huntington.org"
+"Houghton Library","http://d-nb.info/gnd/2037118-4",42.373169,-71.115915,"Cambridge",4931972,42.3751,-71.10561,"United States","city","http://hcl.harvard.edu/libraries/houghton/"
+"Gladys Krieble Delmas Foundation",,40.751219,-73.979982,"New York City",5128581,40.71427,-74.00597,"United States","city","http://delmas.org"
+"The Morgan Library and Museum","http://d-nb.info/gnd/10156282-2",40.749242,-73.981392,"New York City",5128581,40.71427,-74.00597,"United States","city","http://www.themorgan.org/"
+"Ramapo College of New Jersey","http://d-nb.info/gnd/5200098-9",41.081503,-74.174627,"Mahwah",5100776,41.08871,-74.14376,"United States","city","https://www.ramapo.edu"
+"Trinity University",,29.461845,-98.483159,"San Antonio",4726206,29.42412,-98.49363,"United States","city","https://new.trinity.edu/"
+"Beinecke Rare Book and Manuscript Library","http://d-nb.info/gnd/1097100-2",41.311597,-72.92726,"New Haven",4839366,41.30815,-72.92816,"United States","city","http://beinecke.library.yale.edu/"
+"American Antiquarian Society","http://d-nb.info/gnd/6816-0",42.277365,-71.810317,"Worcester",4956184,42.26259,-71.80229,"United States","city","http://www.americanantiquarian.org/"
+"Amherst College","http://d-nb.info/gnd/44721-3",42.370921,-72.517003,"Amherst",4929022,42.36723,-72.51852,"United States","city","https://www.amherst.edu/"
+"Maine State Library","http://d-nb.info/gnd/5114730-0",44.306128,-69.782739,"Augusta",4957003,44.31062,-69.77949,"United States","city","http://www.maine.gov/msl/"
+"Boston Public Library","http://d-nb.info/gnd/1030395-9",42.349427,-71.078826,"Boston",4930956,42.35843,-71.05977,"United States","city","http://www.bpl.org/"
+"Smith College Libraries",,42.31707,-72.638796,"Northampton",4945819,42.32509,-72.6412,"United States","city","https://www.smith.edu/libraries/"
+"Vassar College","http://d-nb.info/gnd/126587-8",41.686798,-73.895716,"Poughkeepsie",5132143,41.70037,-73.92097,"United States","city","https://www.vassar.edu/"
+"Cornell University Library","http://d-nb.info/gnd/1080320-8",42.453453,-76.47351,"Ithaca",5122432,42.44063,-76.49661,"United States","city","https://www.library.cornell.edu/"
+"Swarthmore College Peace Collection","http://d-nb.info/gnd/4078095-8",39.906846,-75.355643,"Swarthmore",4561628,39.90206,-75.34991,"United States","city","https://www.swarthmore.edu/"
+"Tufts University","http://d-nb.info/gnd/1029986-5",42.40748,-71.119023,"Boston",4930956,42.35843,-71.05977,"United States","city","https://www.tufts.edu/"
+"Yale Fortunoff Archive","https://d-nb.info/gnd/3004798-5 ",41.3116460769968,-72.9272868340894,"New Haven",4839366,41.30815,-72.92816,"United States","city","https://fortunoff.library.yale.edu/archive/"
+"USC Shoah Foundation","https://d-nb.info/gnd/10358131-5",34.0293451108266,-118.283184041086,"Los Angeles",5368361,34.05223,-118.24368,"United States","city","https://sfi.usc.edu/"
+"United States Holocaust Memorial Museum","https://d-nb.info/gnd/5075370-8 ",38.8867864693148,-77.0326083859531,"Washington DC",4138106,38.91706,-77.00025,"United States","city","https://www.ushmm.org/"
+"Yale DH Lab",,41.3110547200714,-72.9285188201162,"New Haven",4839366,41.30815,-72.92816,"United States","city","https://dhlab.yale.edu/"
+"Facultad de Filosofía y Letras Universidad Nacional Autónoma de México (UNAM)","http://d-nb.info/gnd/63989-8",19.333993,-99.186841,"Mexico City",3530597,19.42847,-99.12766,"Mexico","city","http://www.filos.unam.mx"
+"Magyar Tudományos Akadémia Könyvtára","http://d-nb.info/gnd/1087239087",47.501668,19.046267,"Budapest",3054643,47.49801,19.03991,"Hungary","city","http://konyvtar.mta.hu/"
+"University of Szeged","http://d-nb.info/gnd/35684-0",47.680226,16.577958,"Lővérek",8063078,47.67492,16.57528,"Hungary","city","http://www.u-szeged.hu/english"
+"Petőfi Irodalmi Múzeum","http://d-nb.info/gnd/13840-X",47.491431,19.058187,"Budapest",3054643,47.49801,19.03991,"Hungary","city","https://pim.hu/"
+"Eötvös Loránd Tudományegyetem","http://d-nb.info/gnd/35680-3",47.49058,19.058529,"Budapest",3054643,47.49801,19.03991,"Hungary","city","https://www.elte.hu/"
+"Országos Széchényi Könyvtár","http://d-nb.info/gnd/1007496-X",47.495508,19.039232,"Budapest",3054643,47.49801,19.03991,"Hungary","city","http://oszk.business.site/"
+"ELTE Egyetemi Könyvtár",,47.492476,19.056814,"Budapest",3054643,47.49801,19.03991,"Hungary","city","https://www.konyvtar.elte.hu/"
+"Miskolci Egyetem","http://d-nb.info/gnd/5038518-5",48.082082,20.766887,"Miskolc",717582,48.1,20.78333,"Hungary","city","http://www.uni-miskolc.hu/en"
+"Debreceni Egyetem","http://d-nb.info/gnd/10047907-8",47.553531,21.621486,"Debrecen",721472,47.53333,21.63333,"Hungary","city","https://unideb.hu/"
+"MTA BTK Irodalomtudományi Intézet",,47.479933,19.046586,"Budapest",3054643,47.49801,19.03991,"Hungary","city","https://btk.mta.hu/85-intezetek/83-irodalomtudomanyi-intezet.html"
+"Biblioteca Centrală Universitară Lucian Blaga Cluj-Napoca","http://d-nb.info/gnd/5149565-X",46.767043,23.584878,"Cluj-Napoca",681290,46.76667,23.6,"Romania","city","https://www.bcucluj.ro/"
+"N/A",,,,,,,,,,
+"Various",,,,,,,,,,
+"not provided",,,,,,,,,,
