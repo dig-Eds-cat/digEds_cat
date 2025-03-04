@@ -1,11 +1,11 @@
-![Catalogue_logo](https://github.com/dig-Eds-cat/digEds_cat/main/DigEds_Cat_small_transp.png)
+![Catalogue_logo](DigEds_Cat_small_transp.png)
 
 This research seeks to examine best practice in the field of digital editions by collating relevant evidence in a detailed catalogue of extant digital projects. The editions included in the <em>Catalogue</em> come from numerous sources and their selection follows basic criteria: the electronic texts can be ongoing or complete projects, born-digital editions or electronic reproductions of print volumes.
 
 More information:
 
 * [What is the Catalogue of Digital Editions?](https://github.com/gfranzini/digEds_cat/wiki)
-* [How to contribute to the Catalogue?](https://github.com/dig-Eds-cat/digEds_cat/main/CONTRIBUTING.md)
+* [How to contribute to the Catalogue?](CONTRIBUTING.md)
 
 <h3>Affiliation(s)</h3>
 
