@@ -5,7 +5,7 @@ This research seeks to examine best practice in the field of digital editions by
 More information:
 
 * [What is the Catalogue of Digital Editions?](https://github.com/dig-Eds-cat/digEds_cat/wiki)
-* [How to contribute to the Catalogue?](CONTRIBUTING.md)
+* [How to contribute to the Catalogue?](.github/CONTRIBUTING.md)
 
 <h3>Affiliation(s)</h3>
 
