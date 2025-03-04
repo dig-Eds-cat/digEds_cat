@@ -8,7 +8,7 @@ body:
     id: historical_period
     attributes:
       label: Historical Period
-      description: '|This field broadly categorises the source material of a digital
+      description: 'This field broadly categorises the source material of a digital
         edition by the following periods:
 
 
@@ -37,7 +37,7 @@ body:
     id: time_century
     attributes:
       label: Time/Century
-      description: '|The specific year(s) or century of the digital edition''s source
+      description: 'The specific year(s) or century of the digital edition''s source
         material.
 
         Year ranges can also be added in the format `YYYY-YYYY`.'
@@ -61,7 +61,7 @@ body:
     id: scholarly
     attributes:
       label: Scholarly
-      description: '|Here the values yes or no should be used to say whether the edition
+      description: 'Here the values yes or no should be used to say whether the edition
         is _scholarly_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)''s
         definition of the term:
 
@@ -77,7 +77,7 @@ body:
     id: digital
     attributes:
       label: Digital vs. Digitised
-      description: '|Here the values `yes` or `no` should be used to say whether the
+      description: 'Here the values `yes` or `no` should be used to say whether the
         digital edition is _digital_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)''s
         definition of the term:
 
@@ -95,7 +95,7 @@ body:
     id: edition
     attributes:
       label: Edition
-      description: '|Here the values values `yes` and `no` should be used to say whether
+      description: 'Here the values values `yes` and `no` should be used to say whether
         the digital edition is an _edition_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)''s
         definition of the term:
 
@@ -111,7 +111,7 @@ body:
     id: language
     attributes:
       label: Language
-      description: '|Here the values values `yes` and `no` should be used to say whether
+      description: 'Here the values values `yes` and `no` should be used to say whether
         the digital edition is an _edition_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)''s
         definition of the term:
 
@@ -152,7 +152,7 @@ body:
     id: manager_or_editor
     attributes:
       label: Manager
-      description: '|Name and surname of principal investigator/manager/coordinator.
+      description: 'Name and surname of principal investigator/manager/coordinator.
 
         If multiple, separate with a semicolon.'
     validations:
@@ -161,7 +161,7 @@ body:
     id: institution_s
     attributes:
       label: Participating institution(s)
-      description: '|Institution(s) involved in the project. If multiple, separate
+      description: 'Institution(s) involved in the project. If multiple, separate
         with a semicolon.
 
         If not specified, use `not provided`.'
@@ -171,7 +171,7 @@ body:
     id: audience
     attributes:
       label: Audience
-      description: '|The target audience of the digital edition project (scholars,
+      description: 'The target audience of the digital edition project (scholars,
         students, general public, etc.).
 
         If not specified, use `not provided`. If multiple, separate with a semicolon.'
@@ -181,7 +181,7 @@ body:
     id: philological_statement
     attributes:
       label: Philological statement
-      description: '|* `no`: No information on the editorial methods and practices
+      description: '* `no`: No information on the editorial methods and practices
         nor on the source (digital or printed) of the text.
 
         * `partly`: Some information about the source, and of the author, date and
@@ -201,9 +201,8 @@ body:
     id: account_of_textual_variance
     attributes:
       label: Account of textual variance
-      description: '|* `no`: No account of textual variance is given. The digital
-        edition is a reproduction of a given print edition without any account of
-        variants.
+      description: '* `no`: No account of textual variance is given. The digital edition
+        is a reproduction of a given print edition without any account of variants.
 
         * `partly`: The digital edition is a reproduction of a given print scholarly
         edition and reproduces the selected textual variants extant in the apparatus
@@ -223,7 +222,7 @@ body:
     id: value_of_witnesses
     attributes:
       label: Value of witnesses
-      description: '|* `N/A`: Not applicable, as no information about the source of
+      description: '* `N/A`: Not applicable, as no information about the source of
         the text is given, though it is easily assumable that the source is another
         digital or printed edition (possibly even a scholarly edition).
 
@@ -246,7 +245,7 @@ body:
     id: xml_tei_transcription
     attributes:
       label: XML-TEI transcription
-      description: '|The source material is encoded in XML-TEI. Values:
+      description: 'The source material is encoded in XML-TEI. Values:
 
         * `no`: XML not used
 
@@ -264,7 +263,7 @@ body:
     id: xml_tei_available_to_download
     attributes:
       label: XML(-TEI) transcription is available to download
-      description: '|The source material is encoded in XML-TEI. Values:
+      description: 'The source material is encoded in XML-TEI. Values:
 
         * `no`
 
@@ -376,7 +375,7 @@ body:
     id: string_matching
     attributes:
       label: String matching search
-      description: '|The values `yes` or `no` are used to specify if the edition provides
+      description: 'The values `yes` or `no` are used to specify if the edition provides
         string matching (full text) search possibilities.
 
         '
@@ -415,8 +414,8 @@ body:
     id: open_source_open_access
     attributes:
       label: Open Source/Open Access
-      description: '|* `no`: Proprietary, all material is copyrighted. The source
-        is closed and not reusable by other research projects. To access the material,
+      description: '* `no`: Proprietary, all material is copyrighted. The source is
+        closed and not reusable by other research projects. To access the material,
         users must pay a subscription fee.
 
         * `partly`: Same as above but the subscription is free of charge.
@@ -493,7 +492,7 @@ body:
     id: technological_statement
     attributes:
       label: Technological statement
-      description: '|This category assesses whether the digital edition provides complete
+      description: 'This category assesses whether the digital edition provides complete
         information about technical aspects and practices.
 
         * `no`: no information.

@@ -21,8 +21,8 @@ def create_github_issue_form(schema_data):
             continue
         # Process help_text to ensure proper YAML escaping while preserving markdown
         help_text = field["help_text"]
-        if "\n" in help_text:  # If multiline, use YAML literal block scalar
-            help_text = f"|{help_text}"
+        # if "\n" in help_text:  # If multiline, use YAML literal block scalar
+        #     help_text = f"{help_text}"
 
         # Changed logic: use dropdown if values exist
         field_type = (
