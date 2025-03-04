@@ -12,7 +12,15 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Historical Period",
-      "help_text": "This field broadly categorises the source material of a digital edition by the following periods:\n\n* Antiquity [700 BC - 500 AD]\n* Middle Ages [500 - 1500]\n* Early Modern [1500 - 1789]\n* Long Nineteenth Century [1789 - 1914]\n* Modern [1914 - 1965]\n* Contemporary [1965 - Today]"
+      "help_text": "This field broadly categorises the source material of a digital edition by the following periods:\n\n* Antiquity [700 BC - 500 AD]\n* Middle Ages [500 - 1500]\n* Early Modern [1500 - 1789]\n* Long Nineteenth Century [1789 - 1914]\n* Modern [1914 - 1965]\n* Contemporary [1965 - Today]",
+      "values": [
+        "Antiquity [700 BC - 500 AD]",
+        "Middle Ages [500 - 1500]",
+        "Early Modern [1500 - 1789]",
+        "Long Nineteenth Century [1789 - 1914]",
+        "Modern [1914 - 1965]",
+        "Contemporary [1965 - Today]"
+      ]
     },
     {
       "name": "time_century",
@@ -42,7 +50,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Scholarly",
-      "help_text": "Here the values yes or no should be used to say whether the edition is _scholarly_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)'s definition of the term:\n>An edition must be critical, must have critical components - a pure facsimile is not an edition, a digital library is not an edition."
+      "help_text": "Here the values yes or no should be used to say whether the edition is _scholarly_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)'s definition of the term:\n>An edition must be critical, must have critical components - a pure facsimile is not an edition, a digital library is not an edition.",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "digital",
@@ -50,7 +62,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Digital vs. Digitised",
-      "help_text": "Here the values yes or no should be used to say whether the digital edition is _digital_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)'s definition of the term:\n>\"A digitized print edition is not a \"digital edition\". If the paradigm of an edition is limited to the two-dimensional space of the \"page\" and to typographic means of information representation, then it's not a digital edition.\" (see: https://www.digitale-edition.de/exist/apps/editions-browser/about.html)"
+      "help_text": "Here the values `yes` or `no` should be used to say whether the digital edition is _digital_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)'s definition of the term:\n>\"A digitized print edition is not a \"digital edition\". If the paradigm of an edition is limited to the two-dimensional space of the \"page\" and to typographic means of information representation, then it's not a digital edition.\" (see: https://www.digitale-edition.de/exist/apps/editions-browser/about.html)",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "edition",
@@ -58,7 +74,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Edition",
-      "help_text": "Here the values values yes and no should be used to say whether the digital edition is an _edition_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)'s definition of the term:\n>An edition must represent its material (usually as transcribed/edited text) - a catalog, an index, a descriptive database is not an edition."
+      "help_text": "Here the values values `yes` and `no` should be used to say whether the digital edition is an _edition_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)'s definition of the term:\n>An edition must represent its material (usually as transcribed/edited text) - a catalog, an index, a descriptive database is not an edition.",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "language",
@@ -66,7 +86,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Language",
-      "help_text": "Here the values values yes and no should be used to say whether the digital edition is an _edition_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)'s definition of the term:\n>An edition must represent its material (usually as transcribed/edited text) - a catalog, an index, a descriptive database is not an edition."
+      "help_text": "Here the values values `yes` and `no` should be used to say whether the digital edition is an _edition_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)'s definition of the term:\n>An edition must represent its material (usually as transcribed/edited text) - a catalog, an index, a descriptive database is not an edition.",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "writing_support",
@@ -122,7 +146,12 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Philological statement",
-      "help_text": "* `no`: No information on the editorial methods and practices nor on the source (digital or printed) of the text.\n* `partly`: Some information about the source, and of the author, date and accuracy of the digital edition.\n* `yes`: Complete information on the source of the text, as well as on the author, date and accuracy of the digital edition; (Digital Humanities) standards implemented, including modelling, markup language, data structure and software."
+      "help_text": "* `no`: No information on the editorial methods and practices nor on the source (digital or printed) of the text.\n* `partly`: Some information about the source, and of the author, date and accuracy of the digital edition.\n* `yes`: Complete information on the source of the text, as well as on the author, date and accuracy of the digital edition; (Digital Humanities) standards implemented, including modelling, markup language, data structure and software.",
+      "values": [
+        "yes",
+        "no",
+        "partly"
+      ]
     },
     {
       "name": "account_of_textual_variance",
@@ -130,7 +159,12 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Account of textual variance",
-      "help_text": "* `no`: No account of textual variance is given. The digital edition is a reproduction of a given print edition without any account of variants.\n* `partly`: The digital edition is a reproduction of a given print scholarly edition and reproduces the selected textual variants extant in the apparatus criticus of that edition; or the edition does not follow a digital paradigm, in that the variants are not automatically computable the way they are encoded.\n* `yes`: This edition is “based on full-text transcription of original texts into electronic form” "
+      "help_text": "* `no`: No account of textual variance is given. The digital edition is a reproduction of a given print edition without any account of variants.\n* `partly`: The digital edition is a reproduction of a given print scholarly edition and reproduces the selected textual variants extant in the apparatus criticus of that edition; or the edition does not follow a digital paradigm, in that the variants are not automatically computable the way they are encoded.\n* `yes`: This edition is “based on full-text transcription of original texts into electronic form”",
+      "values": [
+        "yes",
+        "no",
+        "partly"
+      ]
     },
     {
       "name": "value_of_witnesses",
@@ -138,7 +172,13 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Value of witnesses",
-      "help_text": "* `N/A`: Not applicable, as no information about the source of the text is given, though it is easily assumable that the source is another digital or printed edition (possibly even a scholarly edition).\n* `no`: The only witness modelled digitally is a printed non-scholarly edition used as a source for the digital edition.\n* `partly`: Same as above, but the witness/source is a scholarly edition.\n* `yes`: The witnesses are traditional philological primary sources (including manuscripts, inscriptions or papyri)."
+      "help_text": "* `N/A`: Not applicable, as no information about the source of the text is given, though it is easily assumable that the source is another digital or printed edition (possibly even a scholarly edition).\n* `no`: The only witness modelled digitally is a printed non-scholarly edition used as a source for the digital edition.\n* `partly`: Same as above, but the witness/source is a scholarly edition.\n* `yes`: The witnesses are traditional philological primary sources (including manuscripts, inscriptions or papyri).",
+      "values": [
+        "N/A",
+        "yes",
+        "no",
+        "partly"
+      ]
     },
     {
       "name": "xml_tei_transcription",
@@ -146,7 +186,12 @@
       "facet": true,
       "optional": true,
       "verbose_name": "XML-TEI transcription",
-      "help_text": "The source material is encoded in XML-TEI. Values:\n* `no`: XML not used\n* `partly`: XML but not TEI\n* `yes`: XML-TEI is used"
+      "help_text": "The source material is encoded in XML-TEI. Values:\n* `no`: XML not used\n* `partly`: XML but not TEI\n* `yes`: XML-TEI is used",
+      "values": [
+        "yes",
+        "no",
+        "partly"
+      ]
     },
     {
       "name": "xml_tei_available_to_download",
@@ -154,7 +199,12 @@
       "facet": true,
       "optional": true,
       "verbose_name": "XML(-TEI) transcription is available to download",
-      "help_text": "The source material is encoded in XML-TEI. Values:\n* `no`\n* `partly`\n* `yes`"
+      "help_text": "The source material is encoded in XML-TEI. Values:\n* `no`\n* `partly`\n* `yes`",
+      "values": [
+        "yes",
+        "no",
+        "partly"
+      ]
     },
     {
       "name": "images",
@@ -162,7 +212,12 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Images",
-      "help_text": "The values `no`, `partly` or `yes` are used to specify if the edition comes with images. The value `not provided` is used for digital editions protected by access restrictions or paywalls whose homepage does not make clear whether images are provided."
+      "help_text": "The values `no`, `partly` or `yes` are used to specify if the edition comes with images. The value `not provided` is used for digital editions protected by access restrictions or paywalls whose homepage does not make clear whether images are provided.",
+      "values": [
+        "yes",
+        "no",
+        "partly"
+      ]
     },
     {
       "name": "zoom_images",
@@ -170,7 +225,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Zoom images",
-      "help_text": "The values `yes` or `no` are used to specify if the user can zoom in or out of images."
+      "help_text": "The values `yes` or `no` are used to specify if the user can zoom in or out of images.",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "image_manipulation_brightness_rotation_etc",
@@ -178,7 +237,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Image manipulation",
-      "help_text": "The values `yes`or `no` are used to specify whether the user can manipulate the images (e.g. rotation, brightness, etc.)."
+      "help_text": "The values `yes`or `no` are used to specify whether the user can manipulate the images (e.g. rotation, brightness, etc.).",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "text_image_linking",
@@ -186,7 +249,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Image manipulation",
-      "help_text": "The values `yes` or `no` are used to tell us whether the transcription and the image are linked so that clicking on a word (or line) in the image brings up the corresponding word in the transcription and vice-versa."
+      "help_text": "The values `yes` or `no` are used to tell us whether the transcription and the image are linked so that clicking on a word (or line) in the image brings up the corresponding word in the transcription and vice-versa.",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "source_text_translation",
@@ -210,7 +277,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Glossary",
-      "help_text": "The values `yes` or `no` are used to specify if the digital edition provides a glossary."
+      "help_text": "The values `yes` or `no` are used to specify if the digital edition provides a glossary.",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "indices",
@@ -218,7 +289,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Indices",
-      "help_text": "The values `yes` or `no` are used to specify if the digital edition provides indices."
+      "help_text": "The values `yes` or `no` are used to specify if the digital edition provides indices.",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "string_matching",
@@ -226,7 +301,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "String matching search",
-      "help_text": "The values `yes` or `no` are used to specify if the edition provides string matching (full text) search possibilities.\n"
+      "help_text": "The values `yes` or `no` are used to specify if the edition provides string matching (full text) search possibilities.\n",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "advanced_search",
@@ -234,7 +313,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Advanced search",
-      "help_text": "The values `yes` or `no` are used to specify if the digital edition provides advanced search functionality."
+      "help_text": "The values `yes` or `no` are used to specify if the digital edition provides advanced search functionality.",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "creative_commons_license",
@@ -242,7 +325,12 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Creative Commons License",
-      "help_text": "The values `yes`, `partially` or `no` are used to specify if the digital edition is protected by a Creative Commons License."
+      "help_text": "The values `yes`, `partly` or `no` are used to specify if the digital edition is protected by a Creative Commons License.",
+      "values": [
+        "yes",
+        "no",
+        "partly"
+      ]
     },
     {
       "name": "open_source_open_access",
@@ -250,7 +338,14 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Open Source/Open Access",
-      "help_text": "* `no`: Proprietary, all material is copyrighted. The source is closed and not reusable by other research projects. To access the material, users must pay a subscription fee.\n* `partly`: Same as above but the subscription is free of charge.\n* `yes`: Open Access. The texts may be accessed through specific software but the source is not accessible.\n* `Open Access and Open Source (some data)`: Open Access and Open Source. Part of the data underlying the digital edition (e.g. text but not images) is freely available for access and reuse.\n* `Open Access and Open Source (all data)`: Open Access and Open Source. All data underlying the digital edition is freely available for access and reuse."
+      "help_text": "* `no`: Proprietary, all material is copyrighted. The source is closed and not reusable by other research projects. To access the material, users must pay a subscription fee.\n* `partly`: Same as above but the subscription is free of charge.\n* `yes`: Open Access. The texts may be accessed through specific software but the source is not accessible.\n* `Open Access and Open Source (some data)`: Open Access and Open Source. Part of the data underlying the digital edition (e.g. text but not images) is freely available for access and reuse.\n* `Open Access and Open Source (all data)`: Open Access and Open Source. All data underlying the digital edition is freely available for access and reuse.",
+      "values": [
+        "yes",
+        "no",
+        "partly",
+        "Open Access and Open Source (some data)",
+        "Open Access and Open Source (all data)"
+      ]
     },
     {
       "name": "linked_open_data",
@@ -258,7 +353,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Linked Open Data (LOD)",
-      "help_text": "The values `yes` or `no` are used to specify if the digital edition makes use of [Linked Open Data](https://programminghistorian.org/lessons/intro-to-linked-data) (LOD) standards and if it is linked to other projects/data."
+      "help_text": "The values `yes` or `no` are used to specify if the digital edition makes use of [Linked Open Data](https://programminghistorian.org/lessons/intro-to-linked-data) (LOD) standards and if it is linked to other projects/data.",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "api",
@@ -266,7 +365,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Application Programming Interface (API)",
-      "help_text": "The values `yes` or `no` are used to specify if the digital edition comes with an API."
+      "help_text": "The values `yes` or `no` are used to specify if the digital edition comes with an API.",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "crowdsourcing",
@@ -274,7 +377,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Crowdsourcing",
-      "help_text": "The values `yes` or `no` are used to specify if the digital edition relies/relied on crowdsourced contributions."
+      "help_text": "The values `yes` or `no` are used to specify if the digital edition relies/relied on crowdsourced contributions.",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "feedback",
@@ -282,7 +389,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Feedback",
-      "help_text": "The values `yes` or `no` are used to specify if the digital edition provides a feedback space or contact information for users to make comments or suggestions."
+      "help_text": "The values `yes` or `no` are used to specify if the digital edition provides a feedback space or contact information for users to make comments or suggestions.",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "technological_statement",
@@ -290,7 +401,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Technological statement",
-      "help_text": "This category assesses whether the digital edition provides complete information about technical aspects and practices.\n* `no`: no information.\n* `partly`: partial information.\n* `yes`: complete information."
+      "help_text": "This category assesses whether the digital edition provides complete information about technical aspects and practices.\n* `no`: no information.\n* `partly`: partial information.\n* `yes`: complete information.",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "links_to_ext_resources",
@@ -298,7 +413,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Technological statement",
-      "help_text": "The values `yes` or `no` are used to specify if the digital edition provides links to external relevant resources."
+      "help_text": "The values `yes` or `no` are used to specify if the digital edition provides links to external relevant resources.",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "ocr_or_keyed",
@@ -306,7 +425,12 @@
       "facet": true,
       "optional": true,
       "verbose_name": "OCR'd or keyed",
-      "help_text": "The source text was digitised with Optical Character Recognition (OCR) software or manually Keyed in. Use `Keyed`, `OCR` or `Keyed; OCR"
+      "help_text": "The source text was digitised with Optical Character Recognition (OCR) software or manually Keyed in. Use `Keyed`, `OCR` or `Keyed; OCR",
+      "values": [
+        "Keyed",
+        "OCR",
+        "Keyed; OCR"
+      ]
     },
     {
       "name": "mobile_friendly_application",
@@ -314,7 +438,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Mobile-friendly/application",
-      "help_text": "The values `yes` or `no` are used to tell if the project is mobile friendly"
+      "help_text": "The values `yes` or `no` are used to tell if the project is mobile friendly",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "print_friendly_view",
@@ -322,7 +450,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Print-friendly view",
-      "help_text": "The values `yes` or `no` are used to specify if the digital edition provides a print-friendly view of the text (e.g. PDF) or if the browser produces a suitable, printable version of the content."
+      "help_text": "The values `yes` or `no` are used to specify if the digital edition provides a print-friendly view of the text (e.g. PDF) or if the browser produces a suitable, printable version of the content.",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "print_facsimile_complementary_output",
@@ -330,7 +462,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Print facsimile (complementary output)",
-      "help_text": "The values `yes` or `no` are used to specify if the digital project is complemented by a printed facsimile."
+      "help_text": "The values `yes` or `no` are used to specify if the digital project is complemented by a printed facsimile.",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "repository_of_source_material_s",
@@ -379,7 +515,11 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Current availability",
-      "help_text": "Even if completed in the past, the digital edition is still viewable online today. The values `yes`(alive) and `no` (not available) are used."
+      "help_text": "Even if completed in the past, the digital edition is still viewable online today. The values `yes`(alive) and `no` (not available) are used.",
+      "values": [
+        "yes",
+        "no"
+      ]
     },
     {
       "name": "ride_review",

@@ -55,17 +55,17 @@ Here the values yes or no should be used to say whether the edition is _scholarl
 
 #### Digital vs. Digitised
 
-Here the values yes or no should be used to say whether the digital edition is _digital_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)'s definition of the term:
+Here the values `yes` or `no` should be used to say whether the digital edition is _digital_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)'s definition of the term:
 >"A digitized print edition is not a "digital edition". If the paradigm of an edition is limited to the two-dimensional space of the "page" and to typographic means of information representation, then it's not a digital edition." (see: https://www.digitale-edition.de/exist/apps/editions-browser/about.html)
 
 #### Edition
 
-Here the values values yes and no should be used to say whether the digital edition is an _edition_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)'s definition of the term:
+Here the values values `yes` and `no` should be used to say whether the digital edition is an _edition_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)'s definition of the term:
 >An edition must represent its material (usually as transcribed/edited text) - a catalog, an index, a descriptive database is not an edition.
 
 #### Language
 
-Here the values values yes and no should be used to say whether the digital edition is an _edition_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)'s definition of the term:
+Here the values values `yes` and `no` should be used to say whether the digital edition is an _edition_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)'s definition of the term:
 >An edition must represent its material (usually as transcribed/edited text) - a catalog, an index, a descriptive database is not an edition.
 
 #### Writing support
@@ -105,7 +105,7 @@ If not specified, use `not provided`. If multiple, separate with a semicolon.
 
 * `no`: No account of textual variance is given. The digital edition is a reproduction of a given print edition without any account of variants.
 * `partly`: The digital edition is a reproduction of a given print scholarly edition and reproduces the selected textual variants extant in the apparatus criticus of that edition; or the edition does not follow a digital paradigm, in that the variants are not automatically computable the way they are encoded.
-* `yes`: This edition is “based on full-text transcription of original texts into electronic form” 
+* `yes`: This edition is “based on full-text transcription of original texts into electronic form”
 
 #### Value of witnesses
 
@@ -171,7 +171,7 @@ The values `yes` or `no` are used to specify if the digital edition provides adv
 
 #### Creative Commons License
 
-The values `yes`, `partially` or `no` are used to specify if the digital edition is protected by a Creative Commons License.
+The values `yes`, `partly` or `no` are used to specify if the digital edition is protected by a Creative Commons License.
 
 #### Open Source/Open Access
 

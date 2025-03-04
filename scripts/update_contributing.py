@@ -13,6 +13,13 @@ for x in data:
     body = f'{x["help_text"]}\n\n'
     text += heading
     text += body
+    # try:
+    #     values = x["values"]
+    #     text += "##### values\n\n"
+    #     for y in values:
+    #         text += f"* {y}\n"
+    # except KeyError:
+    #     pass
 
 with open(os.path.join(".github", "CONTRIBUTING.md"), "w", encoding="utf-8") as fp:
     fp.write(text)

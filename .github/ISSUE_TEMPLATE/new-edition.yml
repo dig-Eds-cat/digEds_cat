@@ -1,0 +1,653 @@
+name: Digital Edition Entry
+description: Submit a new digital edition to the catalog
+title: '[New Entry]: '
+labels:
+  - new-entry
+body:
+  - type: input
+    id: id
+    attributes:
+      label: id
+      description: An internal identifier. Provided by the data-curation team
+    validations:
+      required: true
+  - type: dropdown
+    id: historical_period
+    attributes:
+      label: Historical Period
+      description: '|
+
+        This field broadly categorises the source material of a digital edition by
+        the following periods:
+
+
+        * Antiquity [700 BC - 500 AD]
+
+        * Middle Ages [500 - 1500]
+
+        * Early Modern [1500 - 1789]
+
+        * Long Nineteenth Century [1789 - 1914]
+
+        * Modern [1914 - 1965]
+
+        * Contemporary [1965 - Today]'
+      options:
+        - Antiquity [700 BC - 500 AD]
+        - Middle Ages [500 - 1500]
+        - Early Modern [1500 - 1789]
+        - Long Nineteenth Century [1789 - 1914]
+        - Modern [1914 - 1965]
+        - Contemporary [1965 - Today]
+    validations:
+      required: false
+  - type: textarea
+    id: time_century
+    attributes:
+      label: Time/Century
+      description: '|
+
+        The specific year(s) or century of the digital edition''s source material.
+
+        Year ranges can also be added in the format `YYYY-YYYY`.'
+    validations:
+      required: false
+  - type: input
+    id: edition_name
+    attributes:
+      label: Edition name
+      description: The name of the digital edition project.
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: The URL of the digital edition project.
+    validations:
+      required: true
+  - type: input
+    id: scholarly
+    attributes:
+      label: Scholarly
+      description: '|
+
+        Here the values yes or no should be used to say whether the edition is _scholarly_
+        in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)''s
+        definition of the term:
+
+        >An edition must be critical, must have critical components - a pure facsimile
+        is not an edition, a digital library is not an edition.'
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: input
+    id: digital
+    attributes:
+      label: Digital vs. Digitised
+      description: '|
+
+        Here the values `yes` or `no` should be used to say whether the digital edition
+        is _digital_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)''s
+        definition of the term:
+
+        >"A digitized print edition is not a "digital edition". If the paradigm of
+        an edition is limited to the two-dimensional space of the "page" and to typographic
+        means of information representation, then it''s not a digital edition." (see:
+        https://www.digitale-edition.de/exist/apps/editions-browser/about.html)'
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: input
+    id: edition
+    attributes:
+      label: Edition
+      description: '|
+
+        Here the values values `yes` and `no` should be used to say whether the digital
+        edition is an _edition_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)''s
+        definition of the term:
+
+        >An edition must represent its material (usually as transcribed/edited text)
+        - a catalog, an index, a descriptive database is not an edition.'
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: dropdown
+    id: language
+    attributes:
+      label: Language
+      description: '|
+
+        Here the values values `yes` and `no` should be used to say whether the digital
+        edition is an _edition_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)''s
+        definition of the term:
+
+        >An edition must represent its material (usually as transcribed/edited text)
+        - a catalog, an index, a descriptive database is not an edition.'
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: textarea
+    id: writing_support
+    attributes:
+      label: Writing support
+      description: The nature of the source material (manuscript, letter, notebook,
+        etc.). Use the singular form of the tag only (e.g. "Letter" even if the edition
+        contains multiple) and capitalise the first letter. Separate multiple source
+        materials with a semicolon.
+    validations:
+      required: false
+  - type: input
+    id: begin_date
+    attributes:
+      label: Begin date
+      description: Year the project started. If not specified, use `not provided`.
+    validations:
+      required: false
+  - type: input
+    id: end_date
+    attributes:
+      label: End date
+      description: Year the project ended. If ongoing type `present`. If not specified,
+        use `not provided`.
+    validations:
+      required: false
+  - type: textarea
+    id: manager_or_editor
+    attributes:
+      label: Manager
+      description: '|
+
+        Name and surname of principal investigator/manager/coordinator.
+
+        If multiple, separate with a semicolon.'
+    validations:
+      required: false
+  - type: textarea
+    id: institution_s
+    attributes:
+      label: Participating institution(s)
+      description: '|
+
+        Institution(s) involved in the project. If multiple, separate with a semicolon.
+
+        If not specified, use `not provided`.'
+    validations:
+      required: false
+  - type: textarea
+    id: audience
+    attributes:
+      label: Audience
+      description: '|
+
+        The target audience of the digital edition project (scholars, students, general
+        public, etc.).
+
+        If not specified, use `not provided`. If multiple, separate with a semicolon.'
+    validations:
+      required: false
+  - type: input
+    id: philological_statement
+    attributes:
+      label: Philological statement
+      description: '|
+
+        * `no`: No information on the editorial methods and practices nor on the source
+        (digital or printed) of the text.
+
+        * `partly`: Some information about the source, and of the author, date and
+        accuracy of the digital edition.
+
+        * `yes`: Complete information on the source of the text, as well as on the
+        author, date and accuracy of the digital edition; (Digital Humanities) standards
+        implemented, including modelling, markup language, data structure and software.'
+      options:
+        - 'yes'
+        - 'no'
+        - partly
+    validations:
+      required: false
+  - type: input
+    id: account_of_textual_variance
+    attributes:
+      label: Account of textual variance
+      description: '|
+
+        * `no`: No account of textual variance is given. The digital edition is a
+        reproduction of a given print edition without any account of variants.
+
+        * `partly`: The digital edition is a reproduction of a given print scholarly
+        edition and reproduces the selected textual variants extant in the apparatus
+        criticus of that edition; or the edition does not follow a digital paradigm,
+        in that the variants are not automatically computable the way they are encoded.
+
+        * `yes`: This edition is “based on full-text transcription of original texts
+        into electronic form”'
+      options:
+        - 'yes'
+        - 'no'
+        - partly
+    validations:
+      required: false
+  - type: input
+    id: value_of_witnesses
+    attributes:
+      label: Value of witnesses
+      description: '|
+
+        * `N/A`: Not applicable, as no information about the source of the text is
+        given, though it is easily assumable that the source is another digital or
+        printed edition (possibly even a scholarly edition).
+
+        * `no`: The only witness modelled digitally is a printed non-scholarly edition
+        used as a source for the digital edition.
+
+        * `partly`: Same as above, but the witness/source is a scholarly edition.
+
+        * `yes`: The witnesses are traditional philological primary sources (including
+        manuscripts, inscriptions or papyri).'
+      options:
+        - N/A
+        - 'yes'
+        - 'no'
+        - partly
+    validations:
+      required: false
+  - type: input
+    id: xml_tei_transcription
+    attributes:
+      label: XML-TEI transcription
+      description: '|
+
+        The source material is encoded in XML-TEI. Values:
+
+        * `no`: XML not used
+
+        * `partly`: XML but not TEI
+
+        * `yes`: XML-TEI is used'
+      options:
+        - 'yes'
+        - 'no'
+        - partly
+    validations:
+      required: false
+  - type: input
+    id: xml_tei_available_to_download
+    attributes:
+      label: XML(-TEI) transcription is available to download
+      description: '|
+
+        The source material is encoded in XML-TEI. Values:
+
+        * `no`
+
+        * `partly`
+
+        * `yes`'
+      options:
+        - 'yes'
+        - 'no'
+        - partly
+    validations:
+      required: false
+  - type: input
+    id: images
+    attributes:
+      label: Images
+      description: The values `no`, `partly` or `yes` are used to specify if the edition
+        comes with images. The value `not provided` is used for digital editions protected
+        by access restrictions or paywalls whose homepage does not make clear whether
+        images are provided.
+      options:
+        - 'yes'
+        - 'no'
+        - partly
+    validations:
+      required: false
+  - type: input
+    id: zoom_images
+    attributes:
+      label: Zoom images
+      description: The values `yes` or `no` are used to specify if the user can zoom
+        in or out of images.
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: input
+    id: image_manipulation_brightness_rotation_etc
+    attributes:
+      label: Image manipulation
+      description: The values `yes`or `no` are used to specify whether the user can
+        manipulate the images (e.g. rotation, brightness, etc.).
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: input
+    id: text_image_linking
+    attributes:
+      label: Image manipulation
+      description: The values `yes` or `no` are used to tell us whether the transcription
+        and the image are linked so that clicking on a word (or line) in the image
+        brings up the corresponding word in the transcription and vice-versa.
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: input
+    id: source_text_translation
+    attributes:
+      label: Source text translation
+      description: The project provides a translation of the source material (not
+        necessarily into English). If so, the corresponding [three-letter ISO codes](http://www.loc.gov/standards/iso639-2/php/code_list.php)
+        should be used. If not, type `no`.
+    validations:
+      required: false
+  - type: textarea
+    id: website_language
+    attributes:
+      label: Website language
+      description: The project website is available in multiple languages. If so,
+        the corresponding [three-letter ISO codes](http://www.loc.gov/standards/iso639-2/php/code_list.php)
+        should be used. If not, simply type `no`.
+    validations:
+      required: false
+  - type: input
+    id: glossary
+    attributes:
+      label: Glossary
+      description: The values `yes` or `no` are used to specify if the digital edition
+        provides a glossary.
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: input
+    id: indices
+    attributes:
+      label: Indices
+      description: The values `yes` or `no` are used to specify if the digital edition
+        provides indices.
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: input
+    id: string_matching
+    attributes:
+      label: String matching search
+      description: '|
+
+        The values `yes` or `no` are used to specify if the edition provides string
+        matching (full text) search possibilities.
+
+        '
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: input
+    id: advanced_search
+    attributes:
+      label: Advanced search
+      description: The values `yes` or `no` are used to specify if the digital edition
+        provides advanced search functionality.
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: input
+    id: creative_commons_license
+    attributes:
+      label: Creative Commons License
+      description: The values `yes`, `partly` or `no` are used to specify if the digital
+        edition is protected by a Creative Commons License.
+      options:
+        - 'yes'
+        - 'no'
+        - partly
+    validations:
+      required: false
+  - type: input
+    id: open_source_open_access
+    attributes:
+      label: Open Source/Open Access
+      description: '|
+
+        * `no`: Proprietary, all material is copyrighted. The source is closed and
+        not reusable by other research projects. To access the material, users must
+        pay a subscription fee.
+
+        * `partly`: Same as above but the subscription is free of charge.
+
+        * `yes`: Open Access. The texts may be accessed through specific software
+        but the source is not accessible.
+
+        * `Open Access and Open Source (some data)`: Open Access and Open Source.
+        Part of the data underlying the digital edition (e.g. text but not images)
+        is freely available for access and reuse.
+
+        * `Open Access and Open Source (all data)`: Open Access and Open Source. All
+        data underlying the digital edition is freely available for access and reuse.'
+      options:
+        - 'yes'
+        - 'no'
+        - partly
+        - Open Access and Open Source (some data)
+        - Open Access and Open Source (all data)
+    validations:
+      required: false
+  - type: input
+    id: linked_open_data
+    attributes:
+      label: Linked Open Data (LOD)
+      description: The values `yes` or `no` are used to specify if the digital edition
+        makes use of [Linked Open Data](https://programminghistorian.org/lessons/intro-to-linked-data)
+        (LOD) standards and if it is linked to other projects/data.
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: input
+    id: api
+    attributes:
+      label: Application Programming Interface (API)
+      description: The values `yes` or `no` are used to specify if the digital edition
+        comes with an API.
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: input
+    id: crowdsourcing
+    attributes:
+      label: Crowdsourcing
+      description: The values `yes` or `no` are used to specify if the digital edition
+        relies/relied on crowdsourced contributions.
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: input
+    id: feedback
+    attributes:
+      label: Feedback
+      description: The values `yes` or `no` are used to specify if the digital edition
+        provides a feedback space or contact information for users to make comments
+        or suggestions.
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: input
+    id: technological_statement
+    attributes:
+      label: Technological statement
+      description: '|
+
+        This category assesses whether the digital edition provides complete information
+        about technical aspects and practices.
+
+        * `no`: no information.
+
+        * `partly`: partial information.
+
+        * `yes`: complete information.'
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: input
+    id: links_to_ext_resources
+    attributes:
+      label: Technological statement
+      description: The values `yes` or `no` are used to specify if the digital edition
+        provides links to external relevant resources.
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: dropdown
+    id: ocr_or_keyed
+    attributes:
+      label: OCR'd or keyed
+      description: The source text was digitised with Optical Character Recognition
+        (OCR) software or manually Keyed in. Use `Keyed`, `OCR` or `Keyed; OCR
+      options:
+        - Keyed
+        - OCR
+        - Keyed; OCR
+    validations:
+      required: false
+  - type: input
+    id: mobile_friendly_application
+    attributes:
+      label: Mobile-friendly/application
+      description: The values `yes` or `no` are used to tell if the project is mobile
+        friendly
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: input
+    id: print_friendly_view
+    attributes:
+      label: Print-friendly view
+      description: The values `yes` or `no` are used to specify if the digital edition
+        provides a print-friendly view of the text (e.g. PDF) or if the browser produces
+        a suitable, printable version of the content.
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: input
+    id: print_facsimile_complementary_output
+    attributes:
+      label: Print facsimile (complementary output)
+      description: The values `yes` or `no` are used to specify if the digital project
+        is complemented by a printed facsimile.
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: textarea
+    id: repository_of_source_material_s
+    attributes:
+      label: Repository of source material
+      description: The institution(s) that house the source text(s). `N/A` is used
+        if the source is a new edition without a physical location, and `not provided`
+        is used to indicate that the project website does not give clear information
+        about the source's current repository.
+    validations:
+      required: false
+  - type: textarea
+    id: place_of_origin_of_source_material_s
+    attributes:
+      label: Place of origin of source material
+      description: If known, the location from which the source text originated or
+        where it was produced. `N/A` is used to indicate that the project does not
+        have a physical provenance, and `not provided` is used to indicate that the
+        project website does not give clear information about the source's provenance.
+    validations:
+      required: false
+  - type: textarea
+    id: sponsor_funding_body
+    attributes:
+      label: Sponsor/Funding body
+      description: The name of the funding agency. `N/A` is used if the project isn't
+        supported by third-party funding.
+    validations:
+      required: false
+  - type: input
+    id: budget_rough
+    attributes:
+      label: Budget (rough)
+      description: How much the project cost. All currencies are supported and the
+        numeric value should use commas as thousands separators (e.g. £10,000). The
+        value `not provided` is used to indicate that the project website does not
+        make this information known; `0` is used to indicate that the project specifies
+        that it does not rely on funding.
+    validations:
+      required: false
+  - type: textarea
+    id: infrastructure
+    attributes:
+      label: Infrastructure
+      description: The technologies used to build the digital edition (Drupal, Omeka,
+        MySQL, etc.). If multiple, please separate with a semicolon.
+    validations:
+      required: false
+  - type: input
+    id: current_availability
+    attributes:
+      label: Current availability
+      description: Even if completed in the past, the digital edition is still viewable
+        online today. The values `yes`(alive) and `no` (not available) are used.
+      options:
+        - 'yes'
+        - 'no'
+    validations:
+      required: false
+  - type: input
+    id: ride_review
+    attributes:
+      label: Reviewed in RIDE
+      description: Was the edition reviewed in [RIDE](https://ride.i-d-e.de/), add
+        the URL to the review or `no`
+    validations:
+      required: false
+  - type: input
+    id: sahle_catalog
+    attributes:
+      label: Sahle Catalog
+      description: Is the edition mentioned in [https://www.digitale-edition.de](https://www.digitale-edition.de)
+        add the URL to the entry (e.g. https://digitale-edition.de/e862) or `no`
+    validations:
+      required: false
