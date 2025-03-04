@@ -24,7 +24,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run checker
-        run: python scripts/url_checker.py
+        run: python scripts/health_check.py
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
@@ -34,7 +34,7 @@ jobs:
           title: Update URL Health Check Results
           body: |
             Automated URL health check results from GitHub Actions
-            - Updated `result.csv` with latest URL check results
+            - Updated `digEds_cat.csv` with latest URL check results
           branch: url-health-check
           delete-branch: true
           base: main
