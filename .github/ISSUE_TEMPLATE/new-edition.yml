@@ -66,7 +66,7 @@ body:
       description: The URL of the digital edition project.
     validations:
       required: true
-  - type: input
+  - type: dropdown
     id: scholarly
     attributes:
       label: Scholarly
@@ -83,7 +83,7 @@ body:
         - 'no'
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: digital
     attributes:
       label: Digital vs. Digitised
@@ -102,7 +102,7 @@ body:
         - 'no'
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: edition
     attributes:
       label: Edition
@@ -195,7 +195,7 @@ body:
         If not specified, use `not provided`. If multiple, separate with a semicolon.'
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: philological_statement
     attributes:
       label: Philological statement
@@ -216,7 +216,7 @@ body:
         - partly
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: account_of_textual_variance
     attributes:
       label: Account of textual variance
@@ -238,7 +238,7 @@ body:
         - partly
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: value_of_witnesses
     attributes:
       label: Value of witnesses
@@ -262,7 +262,7 @@ body:
         - partly
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: xml_tei_transcription
     attributes:
       label: XML-TEI transcription
@@ -281,7 +281,7 @@ body:
         - partly
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: xml_tei_available_to_download
     attributes:
       label: XML(-TEI) transcription is available to download
@@ -300,7 +300,7 @@ body:
         - partly
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: images
     attributes:
       label: Images
@@ -314,7 +314,7 @@ body:
         - partly
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: zoom_images
     attributes:
       label: Zoom images
@@ -325,7 +325,7 @@ body:
         - 'no'
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: image_manipulation_brightness_rotation_etc
     attributes:
       label: Image manipulation
@@ -336,7 +336,7 @@ body:
         - 'no'
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: text_image_linking
     attributes:
       label: Image manipulation
@@ -366,7 +366,7 @@ body:
         should be used. If not, simply type `no`.
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: glossary
     attributes:
       label: Glossary
@@ -377,7 +377,7 @@ body:
         - 'no'
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: indices
     attributes:
       label: Indices
@@ -388,7 +388,7 @@ body:
         - 'no'
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: string_matching
     attributes:
       label: String matching search
@@ -403,7 +403,7 @@ body:
         - 'no'
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: advanced_search
     attributes:
       label: Advanced search
@@ -414,7 +414,7 @@ body:
         - 'no'
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: creative_commons_license
     attributes:
       label: Creative Commons License
@@ -426,7 +426,7 @@ body:
         - partly
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: open_source_open_access
     attributes:
       label: Open Source/Open Access
@@ -455,7 +455,7 @@ body:
         - Open Access and Open Source (all data)
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: linked_open_data
     attributes:
       label: Linked Open Data (LOD)
@@ -467,7 +467,7 @@ body:
         - 'no'
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: api
     attributes:
       label: Application Programming Interface (API)
@@ -478,7 +478,7 @@ body:
         - 'no'
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: crowdsourcing
     attributes:
       label: Crowdsourcing
@@ -489,7 +489,7 @@ body:
         - 'no'
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: feedback
     attributes:
       label: Feedback
@@ -501,7 +501,7 @@ body:
         - 'no'
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: technological_statement
     attributes:
       label: Technological statement
@@ -520,7 +520,7 @@ body:
         - 'no'
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: links_to_ext_resources
     attributes:
       label: Technological statement
@@ -543,7 +543,7 @@ body:
         - Keyed; OCR
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: mobile_friendly_application
     attributes:
       label: Mobile-friendly/application
@@ -554,7 +554,7 @@ body:
         - 'no'
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: print_friendly_view
     attributes:
       label: Print-friendly view
@@ -566,7 +566,7 @@ body:
         - 'no'
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: print_facsimile_complementary_output
     attributes:
       label: Print facsimile (complementary output)
@@ -624,7 +624,7 @@ body:
         MySQL, etc.). If multiple, please separate with a semicolon.
     validations:
       required: false
-  - type: input
+  - type: dropdown
     id: current_availability
     attributes:
       label: Current availability

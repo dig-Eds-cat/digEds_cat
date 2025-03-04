@@ -17,12 +17,15 @@ def create_github_issue_form(schema_data):
         if "\n" in help_text:  # If multiline, use YAML literal block scalar
             help_text = f"|\n{help_text}"
 
+        # Changed logic: use dropdown if values exist
+        field_type = (
+            "dropdown" if "values" in field
+            else "input" if field["type"] == "string"
+            else "textarea"
+        )
+
         form_element = {
-            "type": (
-                "input"
-                if field["type"] == "string"
-                else "dropdown" if "values" in field else "textarea"
-            ),
+            "type": field_type,
             "id": field["name"],
             "attributes": {
                 "label": field["verbose_name"],
@@ -31,7 +34,7 @@ def create_github_issue_form(schema_data):
             "validations": {"required": not field.get("optional", False)},
         }
 
-        # Add values for dropdown fields
+        # Add options for dropdown fields
         if "values" in field:
             form_element["attributes"]["options"] = field["values"]
 
