@@ -4,7 +4,8 @@
       "type": "string",
       "sort": true,
       "verbose_name": "id",
-      "help_text": "An internal identifier. Provided by the data-curation team"
+      "help_text": "An internal identifier. Provided by the data-curation team",
+      "internal_use": true
     },
     {
       "name": "historical_period",

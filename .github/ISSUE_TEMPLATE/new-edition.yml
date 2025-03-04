@@ -4,21 +4,12 @@ title: '[New Entry]: '
 labels:
   - new-entry
 body:
-  - type: input
-    id: id
-    attributes:
-      label: id
-      description: An internal identifier. Provided by the data-curation team
-    validations:
-      required: true
   - type: dropdown
     id: historical_period
     attributes:
       label: Historical Period
-      description: '|
-
-        This field broadly categorises the source material of a digital edition by
-        the following periods:
+      description: '|This field broadly categorises the source material of a digital
+        edition by the following periods:
 
 
         * Antiquity [700 BC - 500 AD]
@@ -39,15 +30,15 @@ body:
         - Long Nineteenth Century [1789 - 1914]
         - Modern [1914 - 1965]
         - Contemporary [1965 - Today]
+      default: 0
     validations:
       required: false
   - type: textarea
     id: time_century
     attributes:
       label: Time/Century
-      description: '|
-
-        The specific year(s) or century of the digital edition''s source material.
+      description: '|The specific year(s) or century of the digital edition''s source
+        material.
 
         Year ranges can also be added in the format `YYYY-YYYY`.'
     validations:
@@ -70,10 +61,8 @@ body:
     id: scholarly
     attributes:
       label: Scholarly
-      description: '|
-
-        Here the values yes or no should be used to say whether the edition is _scholarly_
-        in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)''s
+      description: '|Here the values yes or no should be used to say whether the edition
+        is _scholarly_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)''s
         definition of the term:
 
         >An edition must be critical, must have critical components - a pure facsimile
@@ -81,16 +70,15 @@ body:
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: dropdown
     id: digital
     attributes:
       label: Digital vs. Digitised
-      description: '|
-
-        Here the values `yes` or `no` should be used to say whether the digital edition
-        is _digital_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)''s
+      description: '|Here the values `yes` or `no` should be used to say whether the
+        digital edition is _digital_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)''s
         definition of the term:
 
         >"A digitized print edition is not a "digital edition". If the paradigm of
@@ -100,16 +88,15 @@ body:
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: dropdown
     id: edition
     attributes:
       label: Edition
-      description: '|
-
-        Here the values values `yes` and `no` should be used to say whether the digital
-        edition is an _edition_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)''s
+      description: '|Here the values values `yes` and `no` should be used to say whether
+        the digital edition is an _edition_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)''s
         definition of the term:
 
         >An edition must represent its material (usually as transcribed/edited text)
@@ -117,16 +104,15 @@ body:
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: dropdown
     id: language
     attributes:
       label: Language
-      description: '|
-
-        Here the values values `yes` and `no` should be used to say whether the digital
-        edition is an _edition_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)''s
+      description: '|Here the values values `yes` and `no` should be used to say whether
+        the digital edition is an _edition_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)''s
         definition of the term:
 
         >An edition must represent its material (usually as transcribed/edited text)
@@ -134,6 +120,7 @@ body:
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: textarea
@@ -165,9 +152,7 @@ body:
     id: manager_or_editor
     attributes:
       label: Manager
-      description: '|
-
-        Name and surname of principal investigator/manager/coordinator.
+      description: '|Name and surname of principal investigator/manager/coordinator.
 
         If multiple, separate with a semicolon.'
     validations:
@@ -176,9 +161,8 @@ body:
     id: institution_s
     attributes:
       label: Participating institution(s)
-      description: '|
-
-        Institution(s) involved in the project. If multiple, separate with a semicolon.
+      description: '|Institution(s) involved in the project. If multiple, separate
+        with a semicolon.
 
         If not specified, use `not provided`.'
     validations:
@@ -187,10 +171,8 @@ body:
     id: audience
     attributes:
       label: Audience
-      description: '|
-
-        The target audience of the digital edition project (scholars, students, general
-        public, etc.).
+      description: '|The target audience of the digital edition project (scholars,
+        students, general public, etc.).
 
         If not specified, use `not provided`. If multiple, separate with a semicolon.'
     validations:
@@ -199,10 +181,8 @@ body:
     id: philological_statement
     attributes:
       label: Philological statement
-      description: '|
-
-        * `no`: No information on the editorial methods and practices nor on the source
-        (digital or printed) of the text.
+      description: '|* `no`: No information on the editorial methods and practices
+        nor on the source (digital or printed) of the text.
 
         * `partly`: Some information about the source, and of the author, date and
         accuracy of the digital edition.
@@ -214,16 +194,16 @@ body:
         - 'yes'
         - 'no'
         - partly
+      default: 0
     validations:
       required: false
   - type: dropdown
     id: account_of_textual_variance
     attributes:
       label: Account of textual variance
-      description: '|
-
-        * `no`: No account of textual variance is given. The digital edition is a
-        reproduction of a given print edition without any account of variants.
+      description: '|* `no`: No account of textual variance is given. The digital
+        edition is a reproduction of a given print edition without any account of
+        variants.
 
         * `partly`: The digital edition is a reproduction of a given print scholarly
         edition and reproduces the selected textual variants extant in the apparatus
@@ -236,17 +216,16 @@ body:
         - 'yes'
         - 'no'
         - partly
+      default: 0
     validations:
       required: false
   - type: dropdown
     id: value_of_witnesses
     attributes:
       label: Value of witnesses
-      description: '|
-
-        * `N/A`: Not applicable, as no information about the source of the text is
-        given, though it is easily assumable that the source is another digital or
-        printed edition (possibly even a scholarly edition).
+      description: '|* `N/A`: Not applicable, as no information about the source of
+        the text is given, though it is easily assumable that the source is another
+        digital or printed edition (possibly even a scholarly edition).
 
         * `no`: The only witness modelled digitally is a printed non-scholarly edition
         used as a source for the digital edition.
@@ -260,15 +239,14 @@ body:
         - 'yes'
         - 'no'
         - partly
+      default: 0
     validations:
       required: false
   - type: dropdown
     id: xml_tei_transcription
     attributes:
       label: XML-TEI transcription
-      description: '|
-
-        The source material is encoded in XML-TEI. Values:
+      description: '|The source material is encoded in XML-TEI. Values:
 
         * `no`: XML not used
 
@@ -279,15 +257,14 @@ body:
         - 'yes'
         - 'no'
         - partly
+      default: 0
     validations:
       required: false
   - type: dropdown
     id: xml_tei_available_to_download
     attributes:
       label: XML(-TEI) transcription is available to download
-      description: '|
-
-        The source material is encoded in XML-TEI. Values:
+      description: '|The source material is encoded in XML-TEI. Values:
 
         * `no`
 
@@ -298,6 +275,7 @@ body:
         - 'yes'
         - 'no'
         - partly
+      default: 0
     validations:
       required: false
   - type: dropdown
@@ -312,6 +290,7 @@ body:
         - 'yes'
         - 'no'
         - partly
+      default: 0
     validations:
       required: false
   - type: dropdown
@@ -323,6 +302,7 @@ body:
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: dropdown
@@ -334,6 +314,7 @@ body:
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: dropdown
@@ -346,6 +327,7 @@ body:
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: input
@@ -375,6 +357,7 @@ body:
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: dropdown
@@ -386,21 +369,21 @@ body:
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: dropdown
     id: string_matching
     attributes:
       label: String matching search
-      description: '|
-
-        The values `yes` or `no` are used to specify if the edition provides string
-        matching (full text) search possibilities.
+      description: '|The values `yes` or `no` are used to specify if the edition provides
+        string matching (full text) search possibilities.
 
         '
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: dropdown
@@ -412,6 +395,7 @@ body:
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: dropdown
@@ -424,17 +408,16 @@ body:
         - 'yes'
         - 'no'
         - partly
+      default: 0
     validations:
       required: false
   - type: dropdown
     id: open_source_open_access
     attributes:
       label: Open Source/Open Access
-      description: '|
-
-        * `no`: Proprietary, all material is copyrighted. The source is closed and
-        not reusable by other research projects. To access the material, users must
-        pay a subscription fee.
+      description: '|* `no`: Proprietary, all material is copyrighted. The source
+        is closed and not reusable by other research projects. To access the material,
+        users must pay a subscription fee.
 
         * `partly`: Same as above but the subscription is free of charge.
 
@@ -453,6 +436,7 @@ body:
         - partly
         - Open Access and Open Source (some data)
         - Open Access and Open Source (all data)
+      default: 0
     validations:
       required: false
   - type: dropdown
@@ -465,6 +449,7 @@ body:
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: dropdown
@@ -476,6 +461,7 @@ body:
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: dropdown
@@ -487,6 +473,7 @@ body:
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: dropdown
@@ -499,16 +486,15 @@ body:
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: dropdown
     id: technological_statement
     attributes:
       label: Technological statement
-      description: '|
-
-        This category assesses whether the digital edition provides complete information
-        about technical aspects and practices.
+      description: '|This category assesses whether the digital edition provides complete
+        information about technical aspects and practices.
 
         * `no`: no information.
 
@@ -518,6 +504,7 @@ body:
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: dropdown
@@ -529,6 +516,7 @@ body:
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: dropdown
@@ -541,6 +529,7 @@ body:
         - Keyed
         - OCR
         - Keyed; OCR
+      default: 0
     validations:
       required: false
   - type: dropdown
@@ -552,6 +541,7 @@ body:
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: dropdown
@@ -564,6 +554,7 @@ body:
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: dropdown
@@ -575,6 +566,7 @@ body:
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: textarea
@@ -633,6 +625,7 @@ body:
       options:
         - 'yes'
         - 'no'
+      default: 0
     validations:
       required: false
   - type: input

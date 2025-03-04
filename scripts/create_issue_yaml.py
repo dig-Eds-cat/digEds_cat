@@ -2,6 +2,11 @@ import json
 import yaml
 
 
+exclude = [
+    "id",
+]
+
+
 def create_github_issue_form(schema_data):
     issue_form = {
         "name": "Digital Edition Entry",
@@ -12,10 +17,12 @@ def create_github_issue_form(schema_data):
     }
 
     for field in schema_data:
+        if field["name"] in exclude:
+            continue
         # Process help_text to ensure proper YAML escaping while preserving markdown
         help_text = field["help_text"]
         if "\n" in help_text:  # If multiline, use YAML literal block scalar
-            help_text = f"|\n{help_text}"
+            help_text = f"|{help_text}"
 
         # Changed logic: use dropdown if values exist
         field_type = (
@@ -37,6 +44,7 @@ def create_github_issue_form(schema_data):
         # Add options for dropdown fields
         if "values" in field:
             form_element["attributes"]["options"] = field["values"]
+            form_element["attributes"]["default"] = 0
 
         issue_form["body"].append(form_element)
 
