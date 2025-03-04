@@ -8,6 +8,31 @@ exclude = [
 
 
 def create_github_issue_form(schema_data):
+    """Creates a GitHub issue form template for submitting new digital edition entries.
+    This function takes schema data and converts it into a structured GitHub issue form template.
+    The form includes input fields for various metadata about digital editions, with support
+    for different field types (dropdown, input, textarea) based on the schema.
+    Args:
+        schema_data (list): A list of dictionaries containing the schema fields configuration.
+            Each field dictionary should contain:
+            - name (str): Field identifier
+            - verbose_name (str): Display label for the field
+            - help_text (str): Description/help text for the field
+            - type (str): Data type of the field
+            - optional (bool, optional): Whether field is required
+            - values (list, optional): List of options for dropdown fields
+    Returns:
+        dict: A GitHub issue form template with the following structure:
+            {
+                "name": str,
+                "description": str,
+                "title": str,
+                "labels": list,
+                "body": list of form elements
+    Note:
+        Fields listed in the 'exclude' global variable will be skipped during form generation.
+    """
+
     issue_form = {
         "name": "Digital Edition Entry",
         "description": "Submit a new digital edition to the catalog",
@@ -19,16 +44,11 @@ def create_github_issue_form(schema_data):
     for field in schema_data:
         if field["name"] in exclude:
             continue
-        # Process help_text to ensure proper YAML escaping while preserving markdown
         help_text = field["help_text"]
-        # if "\n" in help_text:  # If multiline, use YAML literal block scalar
-        #     help_text = f"{help_text}"
-
-        # Changed logic: use dropdown if values exist
         field_type = (
-            "dropdown" if "values" in field
-            else "input" if field["type"] == "string"
-            else "textarea"
+            "dropdown"
+            if "values" in field
+            else "input" if field["type"] == "string" else "textarea"
         )
 
         form_element = {
@@ -40,8 +60,6 @@ def create_github_issue_form(schema_data):
             },
             "validations": {"required": not field.get("optional", False)},
         }
-
-        # Add options for dropdown fields
         if "values" in field:
             form_element["attributes"]["options"] = field["values"]
             form_element["attributes"]["default"] = 0
@@ -51,19 +69,10 @@ def create_github_issue_form(schema_data):
     return issue_form
 
 
-# Read the schema
 with open("schema.json", "r", encoding="utf-8") as fp:
     schema_data = json.load(fp)
 
-# Create the issue form
 issue_form = create_github_issue_form(schema_data)
 
-
-# Write the YAML file with custom dumper settings
-class MyDumper(yaml.Dumper):
-    def increase_indent(self, flow=False, indentless=False):
-        return super().increase_indent(flow, False)
-
-
 with open(".github/ISSUE_TEMPLATE/new-edition.yml", "w", encoding="utf-8") as fp:
-    yaml.dump(issue_form, fp, allow_unicode=True, sort_keys=False, Dumper=MyDumper)
+    yaml.dump(issue_form, fp, allow_unicode=True, sort_keys=False)
