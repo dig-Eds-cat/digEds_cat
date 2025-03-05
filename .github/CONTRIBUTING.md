@@ -79,7 +79,7 @@ Year the project started. If not specified, use `not provided`.
 
 Year the project ended. If ongoing type `present`. If not specified, use `not provided`.
 
-#### Manager
+#### Manager or Editor
 
 Name and surname of principal investigator/manager/coordinator.
 If multiple, separate with a semicolon.
@@ -113,7 +113,7 @@ If not specified, use `not provided`. If multiple, separate with a semicolon.
 * `partly`: Same as above, but the witness/source is a scholarly edition.
 * `yes`: The witnesses are traditional philological primary sources (including manuscripts, inscriptions or papyri).
 
-#### XML-TEI transcription
+#### XML-TEI Transcription
 
 The source material is encoded in XML-TEI. Values:
 * `no`: XML not used

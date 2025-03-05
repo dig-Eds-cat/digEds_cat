@@ -144,7 +144,7 @@ body:
 - type: textarea
   id: manager_or_editor
   attributes:
-    label: Manager
+    label: Manager or Editor
     description: 'Name and surname of principal investigator/manager/coordinator.
 
       If multiple, separate with a semicolon.'
@@ -237,7 +237,7 @@ body:
 - type: dropdown
   id: xml_tei_transcription
   attributes:
-    label: XML-TEI transcription
+    label: XML-TEI Transcription
     description: 'The source material is encoded in XML-TEI. Values:
 
       * `no`: XML not used

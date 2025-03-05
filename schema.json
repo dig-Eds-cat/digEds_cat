@@ -118,7 +118,7 @@
       "type": "string[]",
       "facet": true,
       "optional": true,
-      "verbose_name": "Manager",
+      "verbose_name": "Manager or Editor",
       "help_text": "Name and surname of principal investigator/manager/coordinator.\nIf multiple, separate with a semicolon."
     },
     {
@@ -182,7 +182,7 @@
       "type": "string",
       "facet": true,
       "optional": true,
-      "verbose_name": "XML-TEI transcription",
+      "verbose_name": "XML-TEI Transcription",
       "help_text": "The source material is encoded in XML-TEI. Values:\n* `no`: XML not used\n* `partly`: XML but not TEI\n* `yes`: XML-TEI is used",
       "values": [
         "yes",
