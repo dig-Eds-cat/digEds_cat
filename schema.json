@@ -87,11 +87,7 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Language",
-      "help_text": "The language(s) the source material is written in [three-letter ISO Codes](http://www.loc.gov/standards/iso639-2/php/code_list.php) are used. Please use capital letters e.g. 'GER' and not 'ger'",
-      "values": [
-        "yes",
-        "no"
-      ]
+      "help_text": "The language(s) the source material is written in [three-letter ISO Codes](http://www.loc.gov/standards/iso639-2/php/code_list.php) are used. Please use capital letters e.g. 'GER' and not 'ger'"
     },
     {
       "name": "writing_support",

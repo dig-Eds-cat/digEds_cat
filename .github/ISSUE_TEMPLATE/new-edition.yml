@@ -107,17 +107,13 @@ body:
     default: 0
   validations:
     required: false
-- type: dropdown
+- type: textarea
   id: language
   attributes:
     label: Language
     description: The language(s) the source material is written in [three-letter ISO
       Codes](http://www.loc.gov/standards/iso639-2/php/code_list.php) are used. Please
       use capital letters e.g. 'GER' and not 'ger'
-    options:
-    - 'yes'
-    - 'no'
-    default: 0
   validations:
     required: false
 - type: textarea
