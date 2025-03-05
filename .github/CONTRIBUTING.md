@@ -53,7 +53,7 @@ The URL of the digital edition project.
 Here the values yes or no should be used to say whether the edition is _scholarly_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)'s definition of the term:
 >An edition must be critical, must have critical components - a pure facsimile is not an edition, a digital library is not an edition.
 
-#### Digital vs. Digitised
+#### Digital
 
 Here the values `yes` or `no` should be used to say whether the digital edition is _digital_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)'s definition of the term:
 >"A digitized print edition is not a "digital edition". If the paradigm of an edition is limited to the two-dimensional space of the "page" and to typographic means of information representation, then it's not a digital edition." (see: https://www.digitale-edition.de/exist/apps/editions-browser/about.html)
@@ -65,8 +65,7 @@ Here the values values `yes` and `no` should be used to say whether the digital 
 
 #### Language
 
-Here the values values `yes` and `no` should be used to say whether the digital edition is an _edition_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)'s definition of the term:
->An edition must represent its material (usually as transcribed/edited text) - a catalog, an index, a descriptive database is not an edition.
+The language(s) the source material is written in [three-letter ISO Codes](http://www.loc.gov/standards/iso639-2/php/code_list.php) are used. Please use capital letters e.g. 'GER' and not 'ger'
 
 #### Writing support
 
@@ -85,7 +84,7 @@ Year the project ended. If ongoing type `present`. If not specified, use `not pr
 Name and surname of principal investigator/manager/coordinator.
 If multiple, separate with a semicolon.
 
-#### Participating institution(s)
+#### Institution(s)
 
 Institution(s) involved in the project. If multiple, separate with a semicolon.
 If not specified, use `not provided`.
@@ -121,7 +120,7 @@ The source material is encoded in XML-TEI. Values:
 * `partly`: XML but not TEI
 * `yes`: XML-TEI is used
 
-#### XML(-TEI) transcription is available to download
+#### XML(-TEI) available to download
 
 The source material is encoded in XML-TEI. Values:
 * `no`
@@ -136,15 +135,15 @@ The values `no`, `partly` or `yes` are used to specify if the edition comes with
 
 The values `yes` or `no` are used to specify if the user can zoom in or out of images.
 
-#### Image manipulation
+#### Image manipulation (brightness, rotation, etc.)
 
 The values `yes`or `no` are used to specify whether the user can manipulate the images (e.g. rotation, brightness, etc.).
 
-#### Image manipulation
+#### Text-Image Linking
 
 The values `yes` or `no` are used to tell us whether the transcription and the image are linked so that clicking on a word (or line) in the image brings up the corresponding word in the transcription and vice-versa.
 
-#### Source text translation
+#### Source Text Translation
 
 The project provides a translation of the source material (not necessarily into English). If so, the corresponding [three-letter ISO codes](http://www.loc.gov/standards/iso639-2/php/code_list.php) should be used. If not, type `no`.
 
@@ -160,7 +159,7 @@ The values `yes` or `no` are used to specify if the digital edition provides a g
 
 The values `yes` or `no` are used to specify if the digital edition provides indices.
 
-#### String matching search
+#### String matching
 
 The values `yes` or `no` are used to specify if the edition provides string matching (full text) search possibilities.
 
@@ -173,7 +172,7 @@ The values `yes` or `no` are used to specify if the digital edition provides adv
 
 The values `yes`, `partly` or `no` are used to specify if the digital edition is protected by a Creative Commons License.
 
-#### Open Source/Open Access
+#### Open source/Open access
 
 * `no`: Proprietary, all material is copyrighted. The source is closed and not reusable by other research projects. To access the material, users must pay a subscription fee.
 * `partly`: Same as above but the subscription is free of charge.
@@ -181,11 +180,11 @@ The values `yes`, `partly` or `no` are used to specify if the digital edition is
 * `Open Access and Open Source (some data)`: Open Access and Open Source. Part of the data underlying the digital edition (e.g. text but not images) is freely available for access and reuse.
 * `Open Access and Open Source (all data)`: Open Access and Open Source. All data underlying the digital edition is freely available for access and reuse.
 
-#### Linked Open Data (LOD)
+#### Linked Open Data
 
 The values `yes` or `no` are used to specify if the digital edition makes use of [Linked Open Data](https://programminghistorian.org/lessons/intro-to-linked-data) (LOD) standards and if it is linked to other projects/data.
 
-#### Application Programming Interface (API)
+#### API
 
 The values `yes` or `no` are used to specify if the digital edition comes with an API.
 
@@ -204,15 +203,15 @@ This category assesses whether the digital edition provides complete information
 * `partly`: partial information.
 * `yes`: complete information.
 
-#### Technological statement
+#### Links to ext. resources
 
 The values `yes` or `no` are used to specify if the digital edition provides links to external relevant resources.
 
-#### OCR'd or keyed
+#### OCR or keyed?
 
 The source text was digitised with Optical Character Recognition (OCR) software or manually Keyed in. Use `Keyed`, `OCR` or `Keyed; OCR
 
-#### Mobile-friendly/application
+#### Mobile friendly/application
 
 The values `yes` or `no` are used to tell if the project is mobile friendly
 
@@ -224,11 +223,11 @@ The values `yes` or `no` are used to specify if the digital edition provides a p
 
 The values `yes` or `no` are used to specify if the digital project is complemented by a printed facsimile.
 
-#### Repository of source material
+#### Repository of source material(s)
 
 The institution(s) that house the source text(s). `N/A` is used if the source is a new edition without a physical location, and `not provided` is used to indicate that the project website does not give clear information about the source's current repository.
 
-#### Place of origin of source material
+#### Place of origin of source material(s)
 
 If known, the location from which the source text originated or where it was produced. `N/A` is used to indicate that the project does not have a physical provenance, and `not provided` is used to indicate that the project website does not give clear information about the source's provenance.
 
@@ -248,11 +247,15 @@ The technologies used to build the digital edition (Drupal, Omeka, MySQL, etc.).
 
 Even if completed in the past, the digital edition is still viewable online today. The values `yes`(alive) and `no` (not available) are used.
 
-#### Reviewed in RIDE
+#### RIDE review
 
 Was the edition reviewed in [RIDE](https://ride.i-d-e.de/), add the URL to the review or `no`
 
 #### Sahle Catalog
 
 Is the edition mentioned in [https://www.digitale-edition.de](https://www.digitale-edition.de) add the URL to the entry (e.g. https://digitale-edition.de/e862) or `no`
+
+#### Citation
+
+Does the edition provide a citation proposal, something like 'How to quote?'
 

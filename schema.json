@@ -62,7 +62,7 @@
       "type": "string",
       "facet": true,
       "optional": true,
-      "verbose_name": "Digital vs. Digitised",
+      "verbose_name": "Digital",
       "help_text": "Here the values `yes` or `no` should be used to say whether the digital edition is _digital_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)'s definition of the term:\n>\"A digitized print edition is not a \"digital edition\". If the paradigm of an edition is limited to the two-dimensional space of the \"page\" and to typographic means of information representation, then it's not a digital edition.\" (see: https://www.digitale-edition.de/exist/apps/editions-browser/about.html)",
       "values": [
         "yes",
@@ -87,7 +87,7 @@
       "facet": true,
       "optional": true,
       "verbose_name": "Language",
-      "help_text": "Here the values values `yes` and `no` should be used to say whether the digital edition is an _edition_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)'s definition of the term:\n>An edition must represent its material (usually as transcribed/edited text) - a catalog, an index, a descriptive database is not an edition.",
+      "help_text": "The language(s) the source material is written in [three-letter ISO Codes](http://www.loc.gov/standards/iso639-2/php/code_list.php) are used. Please use capital letters e.g. 'GER' and not 'ger'",
       "values": [
         "yes",
         "no"
@@ -130,7 +130,7 @@
       "type": "object[]",
       "facet": true,
       "optional": true,
-      "verbose_name": "Participating institution(s)",
+      "verbose_name": "Institution(s)",
       "help_text": "Institution(s) involved in the project. If multiple, separate with a semicolon.\nIf not specified, use `not provided`."
     },
     {
@@ -199,7 +199,7 @@
       "type": "string",
       "facet": true,
       "optional": true,
-      "verbose_name": "XML(-TEI) transcription is available to download",
+      "verbose_name": "XML(-TEI) available to download",
       "help_text": "The source material is encoded in XML-TEI. Values:\n* `no`\n* `partly`\n* `yes`",
       "values": [
         "yes",
@@ -237,7 +237,7 @@
       "type": "string",
       "facet": true,
       "optional": true,
-      "verbose_name": "Image manipulation",
+      "verbose_name": "Image manipulation (brightness, rotation, etc.)",
       "help_text": "The values `yes`or `no` are used to specify whether the user can manipulate the images (e.g. rotation, brightness, etc.).",
       "values": [
         "yes",
@@ -249,7 +249,7 @@
       "type": "string",
       "facet": true,
       "optional": true,
-      "verbose_name": "Image manipulation",
+      "verbose_name": "Text-Image Linking",
       "help_text": "The values `yes` or `no` are used to tell us whether the transcription and the image are linked so that clicking on a word (or line) in the image brings up the corresponding word in the transcription and vice-versa.",
       "values": [
         "yes",
@@ -261,7 +261,7 @@
       "type": "string",
       "facet": true,
       "optional": true,
-      "verbose_name": "Source text translation",
+      "verbose_name": "Source Text Translation",
       "help_text": "The project provides a translation of the source material (not necessarily into English). If so, the corresponding [three-letter ISO codes](http://www.loc.gov/standards/iso639-2/php/code_list.php) should be used. If not, type `no`."
     },
     {
@@ -301,7 +301,7 @@
       "type": "string",
       "facet": true,
       "optional": true,
-      "verbose_name": "String matching search",
+      "verbose_name": "String matching",
       "help_text": "The values `yes` or `no` are used to specify if the edition provides string matching (full text) search possibilities.\n",
       "values": [
         "yes",
@@ -338,7 +338,7 @@
       "type": "string",
       "facet": true,
       "optional": true,
-      "verbose_name": "Open Source/Open Access",
+      "verbose_name": "Open source/Open access",
       "help_text": "* `no`: Proprietary, all material is copyrighted. The source is closed and not reusable by other research projects. To access the material, users must pay a subscription fee.\n* `partly`: Same as above but the subscription is free of charge.\n* `yes`: Open Access. The texts may be accessed through specific software but the source is not accessible.\n* `Open Access and Open Source (some data)`: Open Access and Open Source. Part of the data underlying the digital edition (e.g. text but not images) is freely available for access and reuse.\n* `Open Access and Open Source (all data)`: Open Access and Open Source. All data underlying the digital edition is freely available for access and reuse.",
       "values": [
         "yes",
@@ -353,7 +353,7 @@
       "type": "string",
       "facet": true,
       "optional": true,
-      "verbose_name": "Linked Open Data (LOD)",
+      "verbose_name": "Linked Open Data",
       "help_text": "The values `yes` or `no` are used to specify if the digital edition makes use of [Linked Open Data](https://programminghistorian.org/lessons/intro-to-linked-data) (LOD) standards and if it is linked to other projects/data.",
       "values": [
         "yes",
@@ -365,7 +365,7 @@
       "type": "string",
       "facet": true,
       "optional": true,
-      "verbose_name": "Application Programming Interface (API)",
+      "verbose_name": "API",
       "help_text": "The values `yes` or `no` are used to specify if the digital edition comes with an API.",
       "values": [
         "yes",
@@ -413,7 +413,7 @@
       "type": "string",
       "facet": true,
       "optional": true,
-      "verbose_name": "Technological statement",
+      "verbose_name": "Links to ext. resources",
       "help_text": "The values `yes` or `no` are used to specify if the digital edition provides links to external relevant resources.",
       "values": [
         "yes",
@@ -425,7 +425,7 @@
       "type": "string[]",
       "facet": true,
       "optional": true,
-      "verbose_name": "OCR'd or keyed",
+      "verbose_name": "OCR or keyed?",
       "help_text": "The source text was digitised with Optical Character Recognition (OCR) software or manually Keyed in. Use `Keyed`, `OCR` or `Keyed; OCR",
       "values": [
         "Keyed",
@@ -438,7 +438,7 @@
       "type": "string",
       "facet": true,
       "optional": true,
-      "verbose_name": "Mobile-friendly/application",
+      "verbose_name": "Mobile friendly/application",
       "help_text": "The values `yes` or `no` are used to tell if the project is mobile friendly",
       "values": [
         "yes",
@@ -474,7 +474,7 @@
       "type": "string[]",
       "facet": true,
       "optional": true,
-      "verbose_name": "Repository of source material",
+      "verbose_name": "Repository of source material(s)",
       "help_text": "The institution(s) that house the source text(s). `N/A` is used if the source is a new edition without a physical location, and `not provided` is used to indicate that the project website does not give clear information about the source's current repository."
     },
     {
@@ -482,7 +482,7 @@
       "type": "string[]",
       "facet": true,
       "optional": true,
-      "verbose_name": "Place of origin of source material",
+      "verbose_name": "Place of origin of source material(s)",
       "help_text": "If known, the location from which the source text originated or where it was produced. `N/A` is used to indicate that the project does not have a physical provenance, and `not provided` is used to indicate that the project website does not give clear information about the source's provenance."
     },
     {
@@ -528,7 +528,7 @@
       "facet": false,
       "optional": true,
       "sort": true,
-      "verbose_name": "Reviewed in RIDE",
+      "verbose_name": "RIDE review",
       "help_text": "Was the edition reviewed in [RIDE](https://ride.i-d-e.de/), add the URL to the review or `no`"
     },
     {
@@ -539,5 +539,19 @@
       "sort": true,
       "verbose_name": "Sahle Catalog",
       "help_text": "Is the edition mentioned in [https://www.digitale-edition.de](https://www.digitale-edition.de) add the URL to the entry (e.g. https://digitale-edition.de/e862) or `no`"
+    },
+    {
+      "name": "citation",
+      "type": "string",
+      "facet": true,
+      "optional": true,
+      "sort": true,
+      "verbose_name": "Citation",
+      "help_text": "Does the edition provide a citation proposal, something like 'How to quote?'",
+      "values": [
+        "yes",
+        "no",
+        "not provided"
+      ]
     }
   ]
