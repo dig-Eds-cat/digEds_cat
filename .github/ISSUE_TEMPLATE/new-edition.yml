@@ -76,7 +76,7 @@ body:
 - type: dropdown
   id: digital
   attributes:
-    label: Digital vs. Digitised
+    label: Digital
     description: 'Here the values `yes` or `no` should be used to say whether the
       digital edition is _digital_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)''s
       definition of the term:
@@ -111,12 +111,9 @@ body:
   id: language
   attributes:
     label: Language
-    description: 'Here the values values `yes` and `no` should be used to say whether
-      the digital edition is an _edition_ in accordance with [Patrick Sahle](https://www.digitale-edition.de/exist/apps/editions-browser/about.html)''s
-      definition of the term:
-
-      >An edition must represent its material (usually as transcribed/edited text)
-      - a catalog, an index, a descriptive database is not an edition.'
+    description: The language(s) the source material is written in [three-letter ISO
+      Codes](http://www.loc.gov/standards/iso639-2/php/code_list.php) are used. Please
+      use capital letters e.g. 'GER' and not 'ger'
     options:
     - 'yes'
     - 'no'
@@ -160,7 +157,7 @@ body:
 - type: textarea
   id: institution_s
   attributes:
-    label: Participating institution(s)
+    label: Institution(s)
     description: 'Institution(s) involved in the project. If multiple, separate with
       a semicolon.
 
@@ -262,7 +259,7 @@ body:
 - type: dropdown
   id: xml_tei_available_to_download
   attributes:
-    label: XML(-TEI) transcription is available to download
+    label: XML(-TEI) available to download
     description: 'The source material is encoded in XML-TEI. Values:
 
       * `no`
@@ -307,7 +304,7 @@ body:
 - type: dropdown
   id: image_manipulation_brightness_rotation_etc
   attributes:
-    label: Image manipulation
+    label: Image manipulation (brightness, rotation, etc.)
     description: The values `yes`or `no` are used to specify whether the user can
       manipulate the images (e.g. rotation, brightness, etc.).
     options:
@@ -319,7 +316,7 @@ body:
 - type: dropdown
   id: text_image_linking
   attributes:
-    label: Image manipulation
+    label: Text-Image Linking
     description: The values `yes` or `no` are used to tell us whether the transcription
       and the image are linked so that clicking on a word (or line) in the image brings
       up the corresponding word in the transcription and vice-versa.
@@ -332,7 +329,7 @@ body:
 - type: input
   id: source_text_translation
   attributes:
-    label: Source text translation
+    label: Source Text Translation
     description: The project provides a translation of the source material (not necessarily
       into English). If so, the corresponding [three-letter ISO codes](http://www.loc.gov/standards/iso639-2/php/code_list.php)
       should be used. If not, type `no`.
@@ -374,7 +371,7 @@ body:
 - type: dropdown
   id: string_matching
   attributes:
-    label: String matching search
+    label: String matching
     description: 'The values `yes` or `no` are used to specify if the edition provides
       string matching (full text) search possibilities.
 
@@ -413,7 +410,7 @@ body:
 - type: dropdown
   id: open_source_open_access
   attributes:
-    label: Open Source/Open Access
+    label: Open source/Open access
     description: '* `no`: Proprietary, all material is copyrighted. The source is
       closed and not reusable by other research projects. To access the material,
       users must pay a subscription fee.
@@ -441,7 +438,7 @@ body:
 - type: dropdown
   id: linked_open_data
   attributes:
-    label: Linked Open Data (LOD)
+    label: Linked Open Data
     description: The values `yes` or `no` are used to specify if the digital edition
       makes use of [Linked Open Data](https://programminghistorian.org/lessons/intro-to-linked-data)
       (LOD) standards and if it is linked to other projects/data.
@@ -454,7 +451,7 @@ body:
 - type: dropdown
   id: api
   attributes:
-    label: Application Programming Interface (API)
+    label: API
     description: The values `yes` or `no` are used to specify if the digital edition
       comes with an API.
     options:
@@ -509,7 +506,7 @@ body:
 - type: dropdown
   id: links_to_ext_resources
   attributes:
-    label: Technological statement
+    label: Links to ext. resources
     description: The values `yes` or `no` are used to specify if the digital edition
       provides links to external relevant resources.
     options:
@@ -521,7 +518,7 @@ body:
 - type: dropdown
   id: ocr_or_keyed
   attributes:
-    label: OCR'd or keyed
+    label: OCR or keyed?
     description: The source text was digitised with Optical Character Recognition
       (OCR) software or manually Keyed in. Use `Keyed`, `OCR` or `Keyed; OCR
     options:
@@ -534,7 +531,7 @@ body:
 - type: dropdown
   id: mobile_friendly_application
   attributes:
-    label: Mobile-friendly/application
+    label: Mobile friendly/application
     description: The values `yes` or `no` are used to tell if the project is mobile
       friendly
     options:
@@ -571,7 +568,7 @@ body:
 - type: textarea
   id: repository_of_source_material_s
   attributes:
-    label: Repository of source material
+    label: Repository of source material(s)
     description: The institution(s) that house the source text(s). `N/A` is used if
       the source is a new edition without a physical location, and `not provided`
       is used to indicate that the project website does not give clear information
@@ -581,7 +578,7 @@ body:
 - type: textarea
   id: place_of_origin_of_source_material_s
   attributes:
-    label: Place of origin of source material
+    label: Place of origin of source material(s)
     description: If known, the location from which the source text originated or where
       it was produced. `N/A` is used to indicate that the project does not have a
       physical provenance, and `not provided` is used to indicate that the project
@@ -630,7 +627,7 @@ body:
 - type: input
   id: ride_review
   attributes:
-    label: Reviewed in RIDE
+    label: RIDE review
     description: Was the edition reviewed in [RIDE](https://ride.i-d-e.de/), add the
       URL to the review or `no`
   validations:
@@ -641,5 +638,18 @@ body:
     label: Sahle Catalog
     description: Is the edition mentioned in [https://www.digitale-edition.de](https://www.digitale-edition.de)
       add the URL to the entry (e.g. https://digitale-edition.de/e862) or `no`
+  validations:
+    required: false
+- type: dropdown
+  id: citation
+  attributes:
+    label: Citation
+    description: Does the edition provide a citation proposal, something like 'How
+      to quote?'
+    options:
+    - 'yes'
+    - 'no'
+    - not provided
+    default: 0
   validations:
     required: false
