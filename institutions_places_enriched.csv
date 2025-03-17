@@ -382,5 +382,6 @@ id,Institution Name,Institution GND,Institution Lat,Institution Lng,located at,l
 381,Institute for Habsburg and Balkan Studies at the Austrian Academy of Sciences,https://d-nb.info/gnd/1202798799,48.21026,16.38064,Vienna,2761369,48.20849,16.37208,Austria,city,https://www.oeaw.ac.at/en/ihb
 382,Bergische Universität Wuppertal,https://d-nb.info/gnd/64944-2,51.2447,7.15016,Wuppertal,2805753,51.25627,7.14816,Germany,city,https://www.uni-wuppertal.de/
 383,University of Vigo,https://d-nb.info/gnd/5117216-1,42.16977,-8.68341,Pontevedra,3113209,42.431,-8.64435,Spain,city,https://www.uvigo.gal/
-384,University of York,https://d-nb.info/gnd/1015387-1,53.9462,-1.0517,York,2633352,53.95763,-1.08271,United Kingdom,citey,https://www.york.ac.uk/
+384,University of York,https://d-nb.info/gnd/1015387-1,53.9462,-1.0517,York,2633352,53.95763,-1.08271,United Kingdom,city,https://www.york.ac.uk/
 385,Collège de France,https://d-nb.info/gnd/36341-8,48.8491,2.3452,Paris,2988507,48.85341,2.3488,France,city,http://www.college-de-france.fr/
+386,Institut des textes et manuscrits modernes: Item,https://d-nb.info/gnd/5041115-9,48.8419,2.345216,Paris,2988507,48.85341,2.3488,France,city,http://www.item.ens.fr/
