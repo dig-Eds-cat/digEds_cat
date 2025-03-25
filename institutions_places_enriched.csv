@@ -385,3 +385,5 @@ id,Institution Name,Institution GND,Institution Lat,Institution Lng,located at,l
 384,University of York,https://d-nb.info/gnd/1015387-1,53.9462,-1.0517,York,2633352,53.95763,-1.08271,United Kingdom,city,https://www.york.ac.uk/
 385,Collège de France,https://d-nb.info/gnd/36341-8,48.8491,2.3452,Paris,2988507,48.85341,2.3488,France,city,http://www.college-de-france.fr/
 386,Institut des textes et manuscrits modernes: Item,https://d-nb.info/gnd/5041115-9,48.8419,2.345216,Paris,2988507,48.85341,2.3488,France,city,http://www.item.ens.fr/
+387,Universität Zürich. Institut für Computerlinguistik,https://d-nb.info/gnd/1358093229,47.4133,8.54882,Zürich,6295483,47.37161,8.54501,Switzerland,city,
+388,Universität Zürich. Institut für Schweizerische Reformationsgeschichte,https://d-nb.info/gnd/2014292-4,47.3702,8.5445,Zürich,6295483,47.37161,8.54501,Switzerland,city,
