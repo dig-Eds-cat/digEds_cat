@@ -212,7 +212,7 @@ id,Institution Name,Institution GND,Institution Lat,Institution Lng,located at,l
 211,Archivo Histórico Nacional,http://d-nb.info/gnd/4289371-9,40.440719,-3.687042,Madrid,3117735,40.4165,-3.70256,Spain,city,http://www.mecd.gob.es/cultura-mecd/areas-cultura/archivos/portada.html;jsessionid=15BDD0D663682DB6E2587ED5DB17F975
 212,Newman Institute Uppsala,https://d-nb.info/gnd/16075017-9 ,59.8561885634586,17.6379696234583,Uppsala,2666199,59.85882,17.63889,Sweden,city,https://newman.se/
 213,University of Zürich,http://d-nb.info/gnd/6109294-0,47.3749,8.5489,Zürich,6295483,47.37161,8.54501,Switzerland,city,http://www.uzh.ch/en.html
-214,ETH Zürich,,47.3764059647837,8.54742156260337,Zürich,6295483,47.37161,8.54501,Switzerland,city,https://ethz.ch/en.html
+214,ETH Zürich,https://d-nb.info/gnd/2023928-2,47.3764,8.54742,Zürich,6295483,47.37161,8.54501,Switzerland,city,https://ethz.ch/en.html
 215,Università della Svizzera Italiana,https://d-nb.info/gnd/2178299-4 ,46.0107112854388,8.95815763618789,Lugano,2659836,46.01008,8.96004,Switzerland,city,
 216,University of Fribourg,http://d-nb.info/gnd/1068116757,46.806253,7.151837,Fribourg,2660718,46.80237,7.15128,Switzerland,city,https://www3.unifr.ch/home/en/
 217,University of Bern,http://d-nb.info/gnd/2023768-6,46.9547,7.4305,Bern,2660903,46.9601,7.43843,Switzerland,city,http://www.unibe.ch/index_eng.html
