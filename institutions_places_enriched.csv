@@ -4,8 +4,8 @@ id,Institution Name,Institution GND,Institution Lat,Institution Lng,located at,l
 3,not provided,,,,,,,,,,
 4,National Museum of Australia,http://d-nb.info/gnd/4439156-0,-35.2917,149.1195,Canberra,2172517,-35.28346,149.12807,Australia,city,http://www.nma.gov.au
 5,National Library of Australia,http://d-nb.info/gnd/5118704-8,-35.296624,149.129825,Canberra,2172517,-35.28346,149.12807,Australia,city,https://www.nla.gov.au
-6,State Library of Victoria,http://d-nb.info/gnd/1092307-X,-37.809785,144.965194,Melbourne,2158177,-37.814,144.96332,Australia,city,https://www.slv.vic.gov.au/
-7,Victoria University Library,,-37.79285,144.898997,Melbourne,2158177,-37.814,144.96332,Australia,city,https://www.vu.edu.au/library
+6,State Library of Victoria,http://d-nb.info/gnd/1092307-X,-37.809785,144.965194,Melbourne,2158177,-37814,144.96332,Australia,city,https://www.slv.vic.gov.au/
+7,Victoria University Library,,-37.79285,144.898997,Melbourne,2158177,-37814,144.96332,Australia,city,https://www.vu.edu.au/library
 8,University of Sydney Library,http://d-nb.info/gnd/80357-1,-33.88856,151.187351,Sydney,2147714,-33.86785,151.20732,Australia,city,https://library.sydney.edu.au/
 9,State Library of New South Wales,http://d-nb.info/gnd/4268267-8,-33.866744,151.212785,Sydney,2147714,-33.86785,151.20732,Australia,city,http://www.sl.nsw.gov.au/
 10,Zentrum für Informationsmodellierung Universität Graz,http://d-nb.info/gnd/1137284463,47.076346,15.456173,Graz,2778067,47.06667,15.45,Austria,city,https://informationsmodellierung.uni-graz.at/
@@ -96,8 +96,8 @@ id,Institution Name,Institution GND,Institution Lat,Institution Lng,located at,l
 95,Heinrich-Heine-Institut Düsseldorf,http://d-nb.info/gnd/2062050-0,51.222277,6.77287,Dusseldorf,2934246,51.22172,6.77616,Germany,city,https://www.duesseldorf.de/heineinstitut/
 96,Berlin-Brandenburgische Akademie der Wissenschaften,http://d-nb.info/gnd/2131094-4,52.51407,13.39422,Berlin,2950159,52.52437,13.41053,Germany,city,http://www.bbaw.de
 97,Bayerische Staatsbibliothek,http://d-nb.info/gnd/2068538-5,48.1478,11.5802,Maxvorstadt,6940468,48.14702,11.56903,Germany,city,https://www.bsb-muenchen.de
-98,Historische Kommission bei der Bayerischen Akademie der Wissenschaften,http://d-nb.info/gnd/2028047-6,48.14161,11.58107,München,6559171,48.13452,11.571,Germany,city,https://www.historischekommission-muenchen.de/startseite.html
-99,Bayerisches Hauptstaatsarchiv,http://d-nb.info/gnd/2005486-5 ,48.14617,11.58079,München,6559171,48.13452,11.571,Germany,city,https://www.gda.bayern.de/archive/hauptstaatsarchiv/
+98,Historische Kommission bei der Bayerischen Akademie der Wissenschaften,http://d-nb.info/gnd/2028047-6,48.14161,11.58107,München,6559171,48.13452,11571,Germany,city,https://www.historischekommission-muenchen.de/startseite.html
+99,Bayerisches Hauptstaatsarchiv,http://d-nb.info/gnd/2005486-5 ,48.14617,11.58079,München,6559171,48.13452,11571,Germany,city,https://www.gda.bayern.de/archive/hauptstaatsarchiv/
 100,Akademie der Wissenschaften und der Literatur Mainz,http://d-nb.info/gnd/16325235-X,49.9945,8.2672,Mainz,8128529,49.98625,8.26447,Germany,city,http://www.adwmainz.de/startseite.html
 101,Goethe Universität Frankfurt am Main,http://d-nb.info/gnd/35074-6,50.120557,8.653013,Bockenheim,2947354,50.12498,8.64538,Germany,city,http://www.goethe-university-frankfurt.de/en?locale=en
 102,Universität Freiburg,http://d-nb.info/gnd/2038600-X,47.994875,7.846739,Freiburg,2925177,47.9959,7.85222,Germany,city,https://www.uni-freiburg.de
@@ -117,7 +117,7 @@ id,Institution Name,Institution GND,Institution Lat,Institution Lng,located at,l
 116,Thüringer Universitäts- und Landesbibliothek,http://d-nb.info/gnd/5053491-9,50.930577,11.587758,Jena,2895044,50.92878,11.5899,Germany,city,http://www.thulb.uni-jena.de
 117,Landesarchiv Thüringen - Staatsarchiv Greiz,http://d-nb.info/gnd/1119456932,50.660061,12.196998,Greiz,6551044,50.6577,12.19047,Germany,city,http://www.thueringen.de/th1/tsk/kultur/staatsarchive/standorte/greiz/index.aspx
 118,Friedrich-Schiller-Universität Jena,http://d-nb.info/gnd/36164-1,50.929545,11.589813,Jena,2895044,50.92878,11.5899,Germany,city,https://www.uni-jena.de
-119,Monumenta Germaniae Historica,http://d-nb.info/gnd/2043215-X,48.148141,11.580466,München,6559171,48.13452,11.571,Germany,city,http://www.mgh.de
+119,Monumenta Germaniae Historica,http://d-nb.info/gnd/2043215-X,48.148141,11.580466,München,6559171,48.13452,11571,Germany,city,http://www.mgh.de
 120,Beethoven-Haus Bonn,http://d-nb.info/gnd/2085343-9,50.736873,7.101201,Bonn,2946447,50.73438,7.09549,Germany,city,https://www.beethoven.de/home
 121,Detmold Hochschule für Musik,http://d-nb.info/gnd/5073685-1,51.930908,8.876223,Detmold,2937936,51.93855,8.87318,Germany,city,http://www.hfm-detmold.de/
 122,Oberlausitzische Bibliothek der Wissenschaften Görlitz,http://d-nb.info/gnd/5049269-X,51.155918,14.992386,Görlitz,2918987,51.15518,14.98853,Germany,city,https://www.goerlitzer-sammlungen.de/
@@ -135,12 +135,12 @@ id,Institution Name,Institution GND,Institution Lat,Institution Lng,located at,l
 134,Heraklion Archaeological Museum,http://d-nb.info/gnd/2068055-7,35.338818,25.137012,Heraklion,261745,35.32787,25.14341,Greece,city,http://heraklionmuseum.gr/
 135,Archaeological Museum of Chania,,35.515491,24.017716,Chania,260114,35.51124,24.02921,Greece,city,http://chaniamuseum.culture.gr/
 136,National Archaeological Museum of Athens,,37.989031,23.732761,Athens,264371,37.97945,23.71622,Greece,city,http://www.namuseum.gr/
-137,Archaeological Museum of Thebes,http://d-nb.info/gnd/4224921-1,38.323799,23.317204,Thebes,252910,38.325,23.31889,Greece,city,https://www.mthv.gr/
+137,Archaeological Museum of Thebes,http://d-nb.info/gnd/4224921-1,38.323799,23.317204,Thebes,252910,38325,23.31889,Greece,city,https://www.mthv.gr/
 138,Archaeological Museum of Nafplio,,37.566116,22.796278,Nafplio,256637,37.56863,22.80691,Greece,city,http://www.nafplio.gr/moyseiamenu/arxaiologikommenu.html
 139,Archaeological Site of Tiryns,,37.599714,22.79962,Tiryns,252849,37.5972,22.80011,Greece,city,https://www.gtp.gr/TDirectoryDetails.asp?ID=15304
 140,National and University Library of Iceland,http://d-nb.info/gnd/5246547-0,64.142973,-21.950709,Reykjavík,3413829,64.13548,-21.89541,Iceland,city,https://landsbokasafn.is/index.php/english
 141,Indian Ministry of Culture,,28.6162,77.2158,New Delhi,1273294,28.65195,77.23149,India,city,http://www.indiaculture.nic.in
-142,Maynooth University,http://d-nb.info/gnd/16033067-1,53.383885,-6.600075,Maynooth,2962668,53.385,-6.59361,Ireland,city,https://www.maynoothuniversity.ie
+142,Maynooth University,http://d-nb.info/gnd/16033067-1,53.383885,-6.600075,Maynooth,2962668,53385,-6.59361,Ireland,city,https://www.maynoothuniversity.ie
 143,University College Dublin,http://d-nb.info/gnd/5283001-9,53.307297,-6.21907,Dublin,2964574,53.33306,-6.24889,Ireland,city,http://www.ucd.ie
 144,Trinity College Dublin,http://d-nb.info/gnd/1010756-3,53.34381,-6.254567,Dublin,2964574,53.33306,-6.24889,Ireland,city,http://www.tcd.ie/
 145,Royal Irish Academy,http://d-nb.info/gnd/37842-2,53.340705,-6.258219,Dublin,2964574,53.33306,-6.24889,Ireland,city,https://www.ria.ie/
@@ -222,7 +222,7 @@ id,Institution Name,Institution GND,Institution Lat,Institution Lng,located at,l
 221,Swiss Lawyers Society,,46.948063,7.447138,Bern,2661552,46.94809,7.44744,Switzerland,city,https://www.ssrq-sds-fds.ch/typo3/index.php?id=2&L=3
 222,Stiftsbibliothek St. Gallen,http://d-nb.info/gnd/2089619-0,47.423144,9.376729,St. Gallen,2658822,47.42391,9.37477,Switzerland,city,http://www.stibi.ch
 223,Abbey of Saint Gall,,47.42354,9.377652,St. Gallen,2658822,47.42391,9.37477,Switzerland,city,http://www.bistum-stgallen.ch/
-224,SIB Swiss Institute of Bioinformatics,http://d-nb.info/gnd/1086795962,46.519648,6.574022,Lausanne,2659994,46.516,6.63282,Switzerland,city,http://www.sib.swiss
+224,SIB Swiss Institute of Bioinformatics,http://d-nb.info/gnd/1086795962,46.519648,6.574022,Lausanne,2659994,46516,6.63282,Switzerland,city,http://www.sib.swiss
 225,School of Advanced Study,,51.5212077581414,-0.128692377323318,London,2643743,51.50853,-0.12574,United Kingdom,city,
 226,Old Bailey Criminal Court,http://d-nb.info/gnd/4695256-1,51.515767,-0.101799,London,2643743,51.50853,-0.12574,United Kingdom,city,https://courttribunalfinder.service.gov.uk/courts/central-criminal-court
 227,Kent History and Library Centre,,51.280154,0.517976,Maidstone,2643179,51.26667,0.51667,United Kingdom,city,http://webapps.kent.gov.uk/KCC.Libraries.Web.Sites.Public/LibraryDetails.aspx?aid=0&lid=274&uprn=010014309203
@@ -378,12 +378,13 @@ id,Institution Name,Institution GND,Institution Lat,Institution Lng,located at,l
 377,Debreceni Egyetem,http://d-nb.info/gnd/10047907-8,47.553531,21.621486,Debrecen,721472,47.53333,21.63333,Hungary,city,https://unideb.hu/
 378,MTA BTK Irodalomtudományi Intézet,,47.479933,19.046586,Budapest,3054643,47.49801,19.03991,Hungary,city,https://btk.mta.hu/85-intezetek/83-irodalomtudomanyi-intezet.html
 379,Biblioteca Centrală Universitară Lucian Blaga Cluj-Napoca,http://d-nb.info/gnd/5149565-X,46.767043,23.584878,Cluj-Napoca,681290,46.76667,23.6,Romania,city,https://www.bcucluj.ro/
-380,Instytut Badań Literackich Polskiej Akademii Nauk,https://d-nb.info/gnd/41849-3,52.2373,21.018,Warsaw,756135,52.22977,21.01178,Poland,city,http://ibl.waw.pl/pl/
+380,Instytut Badań Literackich Polskiej Akademii Nauk,https://d-nb.info/gnd/41849-3,52.2373,21018,Warsaw,756135,52.22977,21.01178,Poland,city,http://ibl.waw.pl/pl/
 381,Institute for Habsburg and Balkan Studies at the Austrian Academy of Sciences,https://d-nb.info/gnd/1202798799,48.21026,16.38064,Vienna,2761369,48.20849,16.37208,Austria,city,https://www.oeaw.ac.at/en/ihb
 382,Bergische Universität Wuppertal,https://d-nb.info/gnd/64944-2,51.2447,7.15016,Wuppertal,2805753,51.25627,7.14816,Germany,city,https://www.uni-wuppertal.de/
-383,University of Vigo,https://d-nb.info/gnd/5117216-1,42.16977,-8.68341,Pontevedra,3113209,42.431,-8.64435,Spain,city,https://www.uvigo.gal/
+383,University of Vigo,https://d-nb.info/gnd/5117216-1,42.16977,-8.68341,Pontevedra,3113209,42431,-8.64435,Spain,city,https://www.uvigo.gal/
 384,University of York,https://d-nb.info/gnd/1015387-1,53.9462,-1.0517,York,2633352,53.95763,-1.08271,United Kingdom,city,https://www.york.ac.uk/
 385,Collège de France,https://d-nb.info/gnd/36341-8,48.8491,2.3452,Paris,2988507,48.85341,2.3488,France,city,http://www.college-de-france.fr/
 386,Institut des textes et manuscrits modernes: Item,https://d-nb.info/gnd/5041115-9,48.8419,2.345216,Paris,2988507,48.85341,2.3488,France,city,http://www.item.ens.fr/
 387,Universität Zürich. Institut für Computerlinguistik,https://d-nb.info/gnd/1358093229,47.4133,8.54882,Zürich,6295483,47.37161,8.54501,Switzerland,city,
 388,Universität Zürich. Institut für Schweizerische Reformationsgeschichte,https://d-nb.info/gnd/2014292-4,47.3702,8.5445,Zürich,6295483,47.37161,8.54501,Switzerland,city,
+389,Austrian Centre for Digital Humanities and Cultural Heritage at the Austrian Academy of Sciences,https://d-nb.info/gnd/1123037736,48.209133,16.377123,Vienna,2761369,48.20849,16.37208,Austria,city,https://www.oeaw.ac.at/acdh
