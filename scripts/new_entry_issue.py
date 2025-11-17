@@ -2,7 +2,7 @@ import re
 import requests
 import pandas as pd
 
-ISSUE_NR = 409
+ISSUE_NR = 417
 
 
 def parse_issue_body(body):
