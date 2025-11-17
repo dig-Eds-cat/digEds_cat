@@ -49,7 +49,7 @@ run `./scripts/schema_updates.sh` to update all schema-related files
 
 ### healh_check
 
-The [Quality of Data repo](https://github.com/dig-Eds-cat/qod) provides an worklow checking if the URLs in the Catalogue are currently available. By running
+The [Quality of Data repo](https://github.com/dig-Eds-cat/qod) provides an workflow checking if the URLs in the Catalogue are currently available. By running
 ```shell
 python scripts/health_check.py
 ```
