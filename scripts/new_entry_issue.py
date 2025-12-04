@@ -2,15 +2,15 @@ import re
 import requests
 import pandas as pd
 
-ISSUE_NR = 417
+ISSUE_NR = 421
 
 
 def parse_issue_body(body):
-    sections = re.split(r'###\s+', body)
+    sections = re.split(r"###\s+", body)
     sections = [s.strip() for s in sections if s.strip()]
     parsed_data = {}
     for section in sections:
-        lines = section.split('\n', 1)
+        lines = section.split("\n", 1)
         if len(lines) == 2:
             key = lines[0].strip()
             value = lines[1].strip()
