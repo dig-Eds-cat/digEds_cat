@@ -6,7 +6,8 @@ source_df = pd.read_csv(
 )
 target_df = pd.read_csv(data)
 target_df.loc[
-    target_df["URL"].isin(source_df[source_df["status"] == 200]["URL"]), "Current availability"
+    target_df["URL"].isin(source_df[source_df["status"] == 200]["URL"]),
+    "Current availability",
 ] = "yes"
 
 target_df.to_csv(data, index=False)

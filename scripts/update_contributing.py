@@ -9,8 +9,8 @@ with open("scripts/CONTRIBUTING_template.md", "r", encoding="utf-8") as fp:
     text = fp.read()
 
 for x in data:
-    heading = f"#### {x["verbose_name"]}\n\n"
-    body = f'{x["help_text"]}\n\n'
+    heading = f"#### {x['verbose_name']}\n\n"
+    body = f"{x['help_text']}\n\n"
     text += heading
     text += body
 

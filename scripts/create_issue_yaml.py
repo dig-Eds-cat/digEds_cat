@@ -48,7 +48,9 @@ def create_github_issue_form(schema_data):
         field_type = (
             "dropdown"
             if "values" in field
-            else "input" if field["type"] == "string" else "textarea"
+            else "input"
+            if field["type"] == "string"
+            else "textarea"
         )
 
         form_element = {
